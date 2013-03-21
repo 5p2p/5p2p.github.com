@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/terms/" xml:lang="en" lang="en">
+
+
+	{% include head.html %}
+
+
+	<!--
+	<script src="http://www.google.com/jsapi"></script>
+	<script>
+		google.load("jquery", "1");
+		google.load("jqueryui", "1");
+	</script>
+	<script>
+		$(document).ready(function()
+		{
+			$('body').hide().fadeIn(200); 
+		});
+	</script>
+	-->
+
+	<body>
+		{% include facebook.html %}
+		{% include date-ita-page.html %}
+
+		<div id="wrapper">
+
+
+			{% include sidebar.html %}
+
+
+			<div id="book">
+
+				<div id="header">
+					<h1><a href="/">5pani|2pesci</a></h1>
+				</div>
+
+				<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+				<div class="info">
+					<a href="/{{page.author}}.html"><div class="author">by {{page.author}}</div></a>
+					<div class="date">{{giorno}} {{mese}} {{anno}}</div>
+					<div class="clear"></div>
+				</div>
+
+
+
+				{{ content }}
+
+				{% include facebook-comments.html %}
+
+
+				<div id="footer">
+					5pani|2pesci &#8226; productions
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

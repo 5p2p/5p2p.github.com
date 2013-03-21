@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+
+{% for post in site.posts limit:5 %}
+
+{% include date-ita-post.html %}
+
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<div class="info">
+	<a href="/{{post.author}}.html"><div class="author">by {{post.author}}</div></a>
+	<!--div class="date">{{post.date | date_to_long_string}}</div-->
+	<div class="date">{{giorno}} {{mese}} {{anno}}</div>
+	<div class="clear"></div>
+</div>
+
+
+<div>{{ post.content | split:'<!-- FINE -->' | first | split:'<!-- INIZIO -->' | last }}
+</div>
+[<a href="{{ post.url }}">continua a leggere</a>]
+
+
+{% endfor %}
+
