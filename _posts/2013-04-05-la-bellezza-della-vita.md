@@ -5,7 +5,8 @@ author: Dodo
 ---
 
                                                                                                
-<!-- INIZIO -->                                                                                               Oggi ho avuto nuovamente la certezza che gli Angeli esistono. Non voglio dire quegl'esseri spirituali incorporei, che sono i veri messaggeri di Dio, ma comunque sono venuto a conoscenza di una persona che a mio avviso compie le stesse azioni che spettano ad un Angelo secondo il disegno di Dio.
+<!-- INIZIO -->
+Oggi ho avuto nuovamente la certezza che gli Angeli esistono. Non voglio dire quegl'esseri spirituali incorporei, che sono i veri messaggeri di Dio, ma comunque sono venuto a conoscenza di una persona che a mio avviso compie le stesse azioni che spettano ad un Angelo secondo il disegno di Dio.
 <!-- FINE -->
 Si tratta di Elvira Parravicini, un medico neonatologo, originario della Brianza ora impegnato alla Columbia University di New York.
 Si occupa di seguire i genitori e successivamente i figli in quei casi in cui le diagnosi prenatali non hanno dato speranza di vita per il piccolo.
