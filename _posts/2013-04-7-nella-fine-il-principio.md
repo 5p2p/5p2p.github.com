@@ -4,7 +4,8 @@ title: Nella fine il principio
 layout: post
 ---
 
-Quando vidi l'ardore che spingeva i miei colleghi a combattere malattie micidiali come il cancro, l'aids e l'alzheimer rimasi interdetto. Ammiravo la loro spinta ma allo stesso tempo vedevo mancare in me quelle stesse motivazioni. Per quanto assurdo possa sembrare, trovavo che l'ineluttabilità della morte fosse più grande e che di conseguenza allungare la vita di qualche anno avesse un valore solo relativo. *Chiaramente* è bene alleviare il dolore, usare in maniera razionale la medicina verso la guarigione. Ma il punto non è quello.
+<!-- INIZIO -->
+Quando vidi l'ardore che spingeva i miei colleghi a combattere malattie micidiali come il cancro, l'aids e l'alzheimer rimasi interdetto. Ammiravo la loro spinta ma allo stesso tempo vedevo mancare in me quelle stesse motivazioni. Per quanto assurdo possa sembrare, trovavo che l'ineluttabilità della morte fosse più grande <!-- FINE --> e che di conseguenza allungare la vita di qualche anno avesse un valore solo relativo. *Chiaramente* è bene alleviare il dolore, usare in maniera razionale la medicina verso la guarigione. Ma il punto non è quello.
 
 **Il punto**
 
@@ -21,3 +22,6 @@ Capite è proprio qui il problema. Aver raggiunto questa pienezza oppure no. E q
 **Qui e ora**
 
 Ogni momento della tua vita, anche in punto di morte, sara' il momento giusto per prendere questa strada. Ricaccia i rimorsi, le delusioni, prendi in mano quello che hai della tua vita e donalo. Basta uno sguardo. Decidilo ora.
+
+<div style="margin:0 auto">
+<img src="/images/5p2p.png" width="300px">
