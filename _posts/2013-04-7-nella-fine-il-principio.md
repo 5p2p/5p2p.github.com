@@ -25,3 +25,4 @@ Ogni momento della tua vita, anche in punto di morte, sara' il momento giusto pe
 
 <div style="margin:0 auto">
 <img src="/images/5p2p.png" width="300px">
+</div>
