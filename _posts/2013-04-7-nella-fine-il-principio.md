@@ -24,5 +24,5 @@ Capite è proprio qui il problema. Aver raggiunto questa pienezza oppure no. E q
 Ogni momento della tua vita, anche in punto di morte, sara' il momento giusto per prendere questa strada. Ricaccia i rimorsi, le delusioni, prendi in mano quello che hai della tua vita e donalo. Basta uno sguardo. Decidilo ora.
 
 <div style="margin:0 auto; display:block;">
-<img src="/images/5p2p.png" width="300px">
+<img src="/images/5p2p.png" width="100px">
 </div>
