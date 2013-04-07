@@ -23,8 +23,9 @@ Capite è proprio qui il problema. Aver raggiunto questa pienezza oppure no. E q
 
 Ogni momento della vita, anche in punto di morte, sara' il momento giusto per prendere questa strada. Ricacciamo i rimorsi, le delusioni, prendiamo in mano ciò che abbiamo dalla vita e doniamolo. Basta uno sguardo. Decidilo ora.
 
-<a href="http://www.chiaracorbellapetrillo.it">Leggi la storia di Chiara e Enrico</a>
 
 <p align="center">
 <img src="/images/5p2p.png" width="200px">
 </p>
+
+Leggi la storia di Chiara e Enrico <a href="http://www.chiaracorbellapetrillo.it">qui</a>.
