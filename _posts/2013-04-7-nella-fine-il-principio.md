@@ -1,4 +1,8 @@
-# Nella fine il principio
+---
+author: Ruvido
+title: Nella fine il principio
+layout: post
+---
 
 Quando vidi l'ardore che spingeva i miei colleghi a combattere malattie micidiali come il cancro, l'aids e l'alzheimer rimasi interdetto. Ammiravo la loro spinta ma allo stesso tempo vedevo mancare in me quelle stesse motivazioni. Per quanto assurdo possa sembrare, trovavo che l'ineluttabilità della morte fosse più grande e che di conseguenza allungare la vita di qualche anno avesse un valore solo relativo. *Chiaramente* è bene alleviare il dolore, usare in maniera razionale la medicina verso la guarigione. Ma il punto non è quello.
 
