@@ -1,6 +1,6 @@
 ---
 author: Ruvido
-title: Nella fine il principio
+title: Revolution
 layout: post
 ---
 
