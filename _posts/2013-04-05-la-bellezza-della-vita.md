@@ -4,7 +4,7 @@ title: La bellezza della vita
 author: Dodo
 ---
 
-\[ispirato da un'articolo recentemente apparso sull'<a href="http://www.avvenire.it/Chiesa/Pagine/NataleNewYork.aspx>Avvenire</a>\]
+\[ispirato da un'articolo recentemente apparso sull'<a href="http://www.avvenire.it/Chiesa/Pagine/NataleNewYork.aspx">Avvenire</a>\]
 
 <!-- INIZIO -->
 Oggi ho avuto nuovamente la certezza che gli Angeli esistono. Non voglio dire quegl'esseri spirituali incorporei, che sono i veri messaggeri di Dio, ma comunque sono venuto a conoscenza di una persona che a mio avviso compie le stesse azioni che spettano ad un Angelo secondo il disegno di Dio.
