@@ -1,6 +1,6 @@
 ---
 author: Ruvido
-title: Revolution
+title: Revolution | Science
 layout: post
 ---
 
