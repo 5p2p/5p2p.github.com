@@ -27,5 +27,3 @@ Ogni momento della vita, anche in punto di morte, sara' il momento giusto per pr
 <p align="center">
 <img src="/images/5p2p.png" width="200px">
 </p>
-
-Leggi la storia di Chiara e Enrico <a href="http://www.chiaracorbellapetrillo.it">qui</a>.
