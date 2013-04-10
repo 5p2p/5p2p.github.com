@@ -6,7 +6,7 @@ title:  Raggione c'aveva!
 
 <img src="/img/posts/coppia-urlo.jpg" width="520px">
 <!-- INIZIO -->
-Ne ho sentito parlare tanto di questa crisi nei primi anni di matrimonio, quando noi in effetti eravamo già in "crisi", e pensavo "figuriamoci che sarà al settimo anno?!".
+Ne ho sentito parlare tanto di questa crisi nei primi anni di matrimonio, quando noi eravamo già in "crisi", e pensavo "figuriamoci che sarà al settimo anno?!".
 <!-- FINE -->
 Finchè l'altro giorno mi sono resa conto che noi, proprio noi due, in un autunno caldo e piovoso, il giorno di san Francesco, in una cappella delle suore dietro la Porziuncola ad Assisi, proprio sette anni fa ci siamo scambiati un anello e, con una vocina da ventenni (io quasi 20 e Francesco 27), ci siamo promessi fedeltà. 
 
