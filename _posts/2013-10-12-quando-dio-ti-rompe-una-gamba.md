@@ -2,6 +2,7 @@
 title: Quando Dio ti rompe una gamba
 author: Ruvido
 layout: post
+date: 2012-04-12 
 ---
 
 <img src="/img/posts/frattura.jpg" width="520px">
