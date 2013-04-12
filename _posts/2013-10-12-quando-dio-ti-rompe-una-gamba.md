@@ -4,6 +4,8 @@ author: Ruvido
 layout: post
 ---
 
+<img src="/img/posts/frattura.jpg" width="520px">
+
 **Ovvero l'azione costante e amorevole di un Padre che ci vuole veder crescere nell'amore.**
 
 <!-- INIZIO -->
@@ -36,3 +38,4 @@ Poi grazie a Dio sono guarito, a giugno ero quasi apposto, e a luglio con l'arri
 >Giacobbe rimase solo e un uomo lottò con lui fino allo spuntare dell'aurora. Vedendo che non riusciva a vincerlo, lo colpì all'articolazione del femore e l'articolazione del femore di Giacobbe si slogò, mentre continuava a lottare con lui. Quegli disse: "Non ti chiamerai più Giacobbe, ma Israele, perché hai combattuto con Dio e con gli uomini e hai vinto!". Spuntava il sole, quando Giacobbe passò Penuel e zoppicava all'anca. [(Gen32,25-32)](http://www.novena.it/Lectio_divina_personaggi_biblici/lectio_giacobbe.htm)
 
 E questa lotta mi sta portando a [navigare luoghi inesplorati](/2013/04/07/revolution.html).
+
