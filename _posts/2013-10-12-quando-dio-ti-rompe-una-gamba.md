@@ -4,7 +4,9 @@ author: Ruvido
 layout: post
 ---
 
+<!-- INIZIO -->
 ## Ovvero l'azione costante e amorevole di un Padre che ci vuole veder crescere nell'amore.
+<!-- FINE -->
 
 *"Non cambiare mai"* è una frase famosissima, tirata fuori nei momenti piu belli e romantici di una relazione... ma se provi a pensarci meglio, è veramente un bene? Accidenti, non lo augurerei al il mio peggior nemico! L'uomo per sua inclinazione è dinamico, alla ricerca, esploratore di nuove terre e idee. I fatti sono che l'uomo cambia e a ragione.
 
