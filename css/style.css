@@ -152,7 +152,7 @@ blockquote:after {
 	font-weight: bold;
 	content: '\201D';
 	margin-left: 100%; 
-	margin: 0px 0 10px 220px; 
+	margin: -15px 0 100px 220px; 
 	height: 0px; 
 }
 
