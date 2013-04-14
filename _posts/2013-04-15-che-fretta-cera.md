@@ -12,6 +12,7 @@ Eravamo a tavola quando mio padre, stroncato alla vista di quell'anello, cominci
 - Scusa papá, ma allora la famiglia non é al primo posto?! é all'ultimo, quando hai fatto proprio tutto. E poi per sposarsi non ti chiedono mica la laurea, al massimo ci vuole la cresima!
 <!-- FINE -->
 - ... (qui metterei una foto di mio padre stecchito come da un fulmine).
+
 Dopo qualche minuto, servito per attutire la botta, mio padre guarda commosso mia madre negli occhi e le dice: "L'abbiamo persa" volendo dire con queste parole che gli era parso chiaro che da lí a poco sarei uscita per sempre da casa, ovvero mi sarei sposata.
 La veritá però é un'altra. La verità é che io e Francesco avevamo già deciso di sposarci. Avevamo già fissato la data e fermato la chiesa. Ci eravamo già promessi, accompagnati da una breve benedizione di fra Massimo, una sera dopo i vespri, dopo che tutti erano andati via dalla basilica, sull'altare della Porziuncola con un mazzo di rose rosse profumatissime e solo qualche candela accesa. Ci siamo abbracciati e detti tutte le cose che desideravano fare insieme come sposi. Non volevamo dirlo a nessuno perché ci sembrava troppo prezioso e soprattutto, prevedevamo le reazioni e lo scandalo che avremmo generato. Parlo di scandalo perché sposarsi a 19 anni (ne avrei fatti 20 un mese dopo il matrimonio!) senza laurea, senza un lavoro fisso (soprattutto poi se l'unico lavoro in questione é il ricercatore all'università!), senza una casa, e soprattutto ... senza essere incinta.
 
