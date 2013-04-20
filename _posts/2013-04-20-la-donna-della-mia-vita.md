@@ -19,7 +19,7 @@ Atterrato a Fiumicino, mi feci quelle belle 4 orette abbondanti di macchina per 
 
 Mimmo mi guardo' e disse: "Ecco, mia moglie Cinzia rappresenta la stessa cosa per me, è la mia compagna di cordata per la vita."
 
-A queste parole rimasi perplesso. Mai sentito un concetto simile. Soprattutto riferito alla moglie, che per definizione è: rompi**lle, isterica, fissata, genericamente inabile, psicologicamente instabile, insoddisfatta e sovrappeso. Non c'avevano fatto anche la canzone? "perché perché la domenica mi lasci sempre soooolaaa ... ma un giorno io ti seguirò etc." il quadretto perfetto di una che rompe; la risposta del marito sarà stata: "perché almeno la domenica posso riprenne fiato! pure i carcerati cianno la libera uscita, no?"
+A queste parole rimasi perplesso. Mai sentito un concetto simile. Soprattutto riferito alla moglie, che per definizione è: rompi\*\*lle, isterica, fissata, genericamente inabile, psicologicamente instabile, insoddisfatta e sovrappeso. Non c'avevano fatto anche la canzone? "perché perché la domenica mi lasci sempre soooolaaa ... ma un giorno io ti seguirò etc." il quadretto perfetto di una che rompe; la risposta del marito sarà stata: "perché almeno la domenica posso riprenne fiato! pure i carcerati cianno la libera uscita, no?"
 
 Visto il mio vissuto, le parole di Mimmo furono un vero e proprio annuncio. Non avevo mai, mai pensato o immaginato, che una *moglie* potesse essere una compagna di cordata, ed una compagna valida. Mi invito' a riflettere a quali caratteristiche una ipotetica donna avrebbe dovuto avere per poter essere una buona compagna di cordata per la - mia - vita. E più elencavo a mente le qualità, più vedevo quanto le donne che avevo frequentato fino a quel momento fossero lontane da quel modello. Presi fiducia. Quindi non tutte le donne sono così! C'è la possibilità anche per me di incontrare la *mia* compagna di cordata!
 
@@ -30,6 +30,6 @@ Avevo cercato male, nei luoghi sbagliati, ma ora avevo la mappa. Ed incominciai 
 Il giorno dopo la chiamai e, timidamente, incominciammo la nostra scalata. 
 
 
-
+<div style="height:20px">&nbsp;</div>
 
 PS Mimmo & Cinzia hanno continuato la loro scalata, andate a vedere [ingannevole come l'amore](http://www.facebook.com/ingannevolecomelamore) per saperne di più. 
