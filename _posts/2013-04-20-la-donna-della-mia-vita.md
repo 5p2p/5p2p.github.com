@@ -6,7 +6,7 @@ layout: post
 
 <img src="/img/posts/noi-scalata.jpg" width="520px">
 
-## *Come si fa a capire che é quella giusta? Cosa deve avere di speciale? Come dev'essere?*
+### *Come si fa a capire che é quella giusta? Cosa deve avere di speciale? Come dev'essere?*
 
 Ben convinto di trovare la mia strada nella vita, stavo intraprendendo un cammino di fede sotto la guida di un frate che avevo recentemente conosciuto ad Assisi. A quel tempo avevo avuto già delle storie importanti. Ma mentre ero ben contento di uscire con queste ragazze, con nessuna di loro avevo considerato seriamente di costruire una famiglia o di sposarmi ... non provavo alcuna attrazione per questa prospettiva, anzi ... parliamoci chiaro, la vita della famiglia *tipo* è una galera! Una vita pensata dove tutto gira intorno al trittico - lavoro, figli, casa - decorato da macchina, vacanze, moglie rompiscatole. Senza un'avventura, una sfida, l'aprirsi agli altri. Non proprio una prospettiva allettante direi!
 
