@@ -3,14 +3,15 @@ title: Che fretta c'era
 author: Alescanca
 layout: post
 ---
-<img src="img/posts/dubbio-matrimonio.jpg" width="520px">
+<img src="/img/posts/dubbio-matrimonio.jpg" width="520px">
 
 Ricordo ancora mio padre quando si accorse del mio anello di fidanzamento comprato con Francesco sulla tiburtina e scambiato in gran segreto, tipo Renzo e Lucia, in Porziuncola con frate Massimo.
 Eravamo a tavola quando mio padre, stroncato alla vista di quell'anello, cominciò un vero discorso da padre a figlia. Cercando di capire cosa significasse quell'anello, esordí su quanto é importante la famiglia, quanto i valori che lui e mia madre mi avevano trasmesso erano davvero le fondamenta della vita e com'era lodevole che io e Francesco facessimo sul serio, MA...:
 
 \- Alessandra devi capire che la famiglia é la cosa più importante. La famiglia é al primo posto, MA non si può improvvisare: prima ti devi laureare, poi bisogna trovare un buon lavoro, magari fisso, non dimenticando di risparmiare per comprare una bella casa e poi ci si sposa.
+\-
 <!-- INIZIO -->
-\- Scusa papá, ma allora la famiglia non é al primo posto?! é all'ultimo, quando hai fatto proprio tutto. E poi per sposarsi non ti chiedono mica la laurea, al massimo ci vuole la cresima!
+Scusa papá, ma allora la famiglia non é al primo posto?! é all'ultimo, quando hai fatto proprio tutto. E poi per sposarsi non ti chiedono mica la laurea, al massimo ci vuole la cresima!
 <!-- FINE -->
 \- ... (qui metterei una foto di mio padre stecchito come da un fulmine).
 
