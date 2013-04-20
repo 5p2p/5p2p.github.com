@@ -31,5 +31,5 @@ Il giorno dopo la chiamai e, timidamente, incominciammo la nostra scalata.
 
 
 <div style="height:20px">&nbsp;</div>
-
+<hr>
 PS Mimmo & Cinzia hanno continuato la loro scalata, andate a vedere [ingannevole come l'amore](http://www.facebook.com/ingannevolecomelamore) per saperne di più. 
