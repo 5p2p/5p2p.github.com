@@ -4,7 +4,7 @@ author: Ruvido
 layout: post
 ---
 
-<img src="/img/posts/noi-scalata.jpg" width="520px"">
+<img src="/img/posts/noi-scalata.jpg" width="520px">
 
 ### Come si fa a capire che é quella giusta? Cosa deve avere di speciale? Come dev'essere?
 
