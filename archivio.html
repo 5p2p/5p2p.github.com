@@ -13,5 +13,27 @@ layout: default
 </div>
 
 
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+	fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+  
+
+
+<div style="margin-left: -3px">
+	<div class="fb-like" data-href="http://5p2p.it{{post.url}}" data-send="false" data-layout="button_count" data-width="20" data-show-faces="false"></div>
+	</div>
+
+
+
+
+
+
+
 {% endfor %}
 
