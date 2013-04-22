@@ -78,6 +78,7 @@ h1 {
 }
 #sidebar {
 	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 22px;
 	float:left;
 	width:auto;
 	padding:20px 0;
@@ -107,7 +108,7 @@ h1 {
 }
 #header h1 {
 	font-family: 'Lobster', cursive;
-	font-size: 14pt;
+	font-size: 22pt;
 	border-bottom: #ccc 0px solid;
 }
 
