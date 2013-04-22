@@ -30,6 +30,8 @@ Avevo cercato male, nei luoghi sbagliati, ma ora avevo la mappa. Ed incominciai 
 
 Il giorno dopo la chiamai e, timidamente, incominciammo la nostra scalata. 
 
+<div style="height:20px">&nbsp;</div>
+UPDATE: [Mia moglie ha scritto come è andata per lei ...](/2013/04/22/lui-quello-giusto.html)
 
 <div style="height:20px">&nbsp;</div>
 <hr>
