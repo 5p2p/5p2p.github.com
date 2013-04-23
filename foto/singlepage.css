@@ -39,6 +39,13 @@ img.multi {
 	margin: 0;
 }
 
+img.multivert {
+	width: auto;
+	height: 300px;
+	padding: 10px;
+	margin: 0;
+}
+
 img.ruvido {
 	/* Set rules to fill background */
 	/*min-height: 100%;*/
@@ -102,6 +109,31 @@ img.bg {
 	background: black;
 	color: white;
 
+}
+
+
+.blogcircle {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	border-radius: 50%;
+	width:  60px;
+	height: 60px; 
+	background: rgb(0, 0, 0); /* fallback color */
+	background: rgba(0, 0, 0, 0.7);
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.blogcircle a { 
+	color: white;
+	text-decoration: none; 
+}
+
+.blogcircle a:hover, a:active, a:focus { 
+	color: white;
+	text-decoration: underline; 
 }
 
 #page1 {
