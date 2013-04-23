@@ -1,5 +1,5 @@
 ---
-title: É lui quello giusto?
+title: È lui quello giusto?
 author: Alescanca
 layout: post
 ---
