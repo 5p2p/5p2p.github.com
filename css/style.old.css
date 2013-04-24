@@ -1,0 +1,204 @@
+body {
+	font-family:	'Open Sans', sans-serif;
+	font-size:	16px;
+	line-height:	1.6;
+	background:	white;
+	color:		#4D4D4D;
+}
+
+div#black_bar{position:fixed;left:0;top:0;bottom:0;background-color:#000;width:6px;z-index:11}
+
+#header_master{
+	positon: 	fixed;
+	margin:		0;
+	height:		40px;
+	text-align:	center;
+	border-bottom:	1px solid #D7D7D7;
+	padding:	7px;
+	color:		red;
+}
+
+#sidebar {
+	position: 	fixed;
+	width:		30%;
+	min-width:	330px;
+	height:		100%;
+	border-right:	1px solid #D7D7D7;
+}
+
+#navigator{
+	position: 	relative;
+	bottom: 	-65%;
+	margin-left:	40px;
+	line-height: 	3;
+}
+
+#river {
+	position:	fixed;
+	width:		70%;
+	left:		30%;
+	min-width:	700px;
+}
+
+#the_end {
+	position: 	relative;
+	bottom: 0;
+	padding: 	40px 40px;
+	width:100%;
+}
+
+.title {
+	padding:	40px 40px;
+	line-height:	1.4;
+}
+
+.title h1 {
+	font-family:	'Raleway', sans-serif;
+	font-weight:	900;
+	font-size:	80px;
+	color:		black;
+}
+
+.title h2 {
+	font-family:	'Raleway', sans-serif;
+	font-weight:	100;
+	font-size:	24px;
+	color:		black;
+}
+
+.post {
+	font-family:	'Open Sans', sans-serif;
+	padding:	20px 40px;
+}
+
+.post h1 {
+	font-family:	'Raleway', sans-serif;
+	font-weight:	900;
+	font-size:	28px;
+	color:		black;
+}
+
+.post h2 {
+	font-family:	'Open Sans', sans-serif;
+	font-weight:	700;
+	font-size:	18px;
+	color:		#9C9C9C;
+}
+
+.post p {
+	font-family:	'Open Sans', sans-serif;
+	font-weight:	400;
+	font-size:	14px;
+	color:		#4D4D4D;
+	width:		540px;
+}
+
+.legal {
+	font-family:	'Raleway', sans-serif;
+	font-weight:	100;
+	font-size:	12px;
+	color:		#9C9C9C;
+	padding-top:	40px;
+}
+
+.split{
+	border: 	0;
+	height:		1px;
+	color:		#D7D7D7;
+	background-color:#D7D7D7;
+
+}
+
+.about_head{
+	text-align:	center;
+	border-bottom:	1px solid #D7D7D7;
+	padding:	7px;
+	color:		black;
+}
+
+
+.about_head h1{
+	font-family:	'Raleway', sans-serif;
+	font-weight:	800;
+	font-size:	26px;
+}
+
+.about_text {
+	margin:		0 auto;
+	width:		500px;
+	font-weight:	400;
+	font-size:	18px;
+}
+.about_text h2 {
+	margin:		90px 0 30px 0 ;
+	font-weight:	700;
+	font-size:	32px;
+	color:		black;
+	line-height:	1.2;
+}
+
+.about_text p {
+	margin:		20px 0;
+	color:		#4D4D4D;
+}
+
+a {
+	text-decoration: none;
+}
+
+a.buttonize {
+	display:	inline;
+	padding:	0;
+	padding-left:	15px;
+	padding-right:	15px;
+	background-color:#fff;
+	color:		#999;
+	border:		3px solid #f8f8f8;
+	border-radius:	50px;
+	font-weight:	bold;
+	font-weight:	800;
+	-webkit-font-smoothing: antialiased;
+}
+
+a.buttonize:hover {
+	background-color:#00a2ff;
+	color:		#fff;
+	border-color:	#00a2ff
+}
+
+a.buttonize.dark{
+	color:		#fff;
+	background-color:#000;
+	border-color:	#000
+}
+
+a.buttonize.dark:hover {
+	color:		#fff;
+	background-color:#00a2ff;
+	border-color:	#00a2ff
+}
+
+a.buttonize.dark.commit {
+	font-size:	16px;
+	line-height:	25px;
+	text-transform:	uppercase;
+	font-weight:	800
+}
+
+a.buttonize.large{
+	line-height:	52px;
+	font-size:	18px;
+	padding:	5px 15px;
+}
+
+a.buttonize.small {
+	font-size:	15px;
+	line-height:	23px;
+	padding-left:	15px;
+	padding-right:	15px;
+	padding-top:	2px
+}
+
+
+
+

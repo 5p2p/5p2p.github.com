@@ -1,87 +1,63 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/terms/" xml:lang="en" lang="en">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/terms/" xml:lang="it" lang="it">
 
 
 	{% include head.html %}
 
 
-	<!--
-	<script src="http://www.google.com/jsapi"></script>
-	<script>
-		google.load("jquery", "1");
-		google.load("jqueryui", "1");
-	</script>
-	<script>
-		$(document).ready(function()
-		{
-			$('body').hide().fadeIn(200); 
-		});
-	</script>
-	-->
-
 	<body>
-		{% include facebook.html %}
-		{% include date-ita-page.html %}
 
-		<div id="wrapper">
+		<div id="black_bar">&nbsp;</div>
 
+		<header id="header_master">
+		<h2>Avventure di provvidenza quotidiana</h2>
+		<h1>5pani 2pesci</h1>
 
-			{% include sidebar.html %}
+		<section id="social">
+		{% include social-header.html %}
+		</section>
 
-
-			<div id="book">
-
-				<div id="header">
-					<h1><a href="/">5pani|2pesci</a></h1>
-				</div>
-
-				<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-				<div class="info">
-					<div class="clear"></div>
-				</div>
+		</header>
 
 
+		<!--
+		<hr class="split" />
 
-				{{ content }}
+		<header id="header_master">
+		&nbsp;
+		</header>
+		-->
 
-				
+		<section id="logo">
+		<img src="/img/logo/5p2p-dark.png" width="250px">
+		</section>
 
+		<nav id="navigator">
+		<ul>
+			<li><a href="/" class="buttonize dark">Blog</a></li>
+			<li><a href="" class="buttonize red">Filmmaker per vocazione</a></li>
+			<li><a href="" class="buttonize orange">Fotografi degli sposi</a></li>
+			<li><a href="" class="buttonize green">10 comandamenti</a></li>
+			<li><a href="" class="buttonize cyan">I corsi di Assisi</a></li>
+			<li><a href="mailto:info@5p2p.it?subject=hello" class="buttonize dark">scrivici</a></li>
+		</ul>
+		</nav>
 
-<div style="margin-top:20px">
+		<section id="sidebar">&nbsp;</section>
+		<section id="river">
 
-                          
-<a href="https://twitter.com/share" class="twitter-share-button" data-via="5pani2pesci">Tweet</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
-
-
-
-<div style="float:right">
-<a href="https://twitter.com/5pani2pesci" class="twitter-follow-button" data-show-count="false">Follow @5pani2pesci</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-</div>
-
-<div style="margin-left: -3px">
-
-
-
-	<div class="fb-like" data-href="http://5p2p.it{{page.url}}" data-send="false" data-layout="button_count" data-width="20" data-show-faces="false"></div>
-
-
-
-
-	<div class="fb-comments" data-href="http://5p2p.it{{page.url}}" data-width="520px" data-num-posts="10"></div>
-
-</div>
+		{{ content }}
 
 
+		<section id="the_end">
+		<p class="legal">&copy; 2013 5p2p.</p>
+		</section>
 
+		</section>
 
-				<div id="footer">
-					5pani|2pesci &#8226; productions
-				</div>
-			</div>
-		</div>
 	</body>
 </html>
+
+
+

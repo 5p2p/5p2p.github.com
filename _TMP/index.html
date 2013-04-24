@@ -1,0 +1,28 @@
+---
+layout: home
+---
+
+		{% for post in site.posts limit:5 %}
+
+
+		<article class="post">
+		<a href="">
+			<header>
+			<h2>{{post.author}}</h2>
+			<!--h1>L&rsquo;uomo e' cacciatore (... di donne)</h1-->
+			<h1>{{post.title}}</h1>
+			</header>
+
+			<section class="post_content">
+			<p>
+
+			<div>{{ post.content | split:'<!-- FINE -->' | first | split:'<!-- INIZIO -->' | last }}</div>
+
+			</p>
+			</section>
+		</a>
+		</article>
+
+		<hr class="split" />
+
+		{% endfor %}

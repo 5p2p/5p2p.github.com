@@ -1,22 +1,42 @@
 ---
-layout: default
+layout: home
 ---
 
-<a href="{{ post.url }}">
+
+<section style="margin-top:200px;">
+
+<section class="post">
 {% include bio-alescanca.html %}
-</a>
+</section>
 
 {% for post in site.posts %}
 {% include date-ita-post.html %}
 
 {% if post.author == 'Alescanca' %}
 
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-<div class="info">
-	<a href="/{{post.author}}.html"><div class="author">by {{post.author}}</div></a>
-	<div class="date">{{giorno}} {{mese}} {{anno}}</div>
-	<div class="clear"></div>
-</div>
+<article class="post-archivio">
+<a href="{{post.url}}">
+	<header style="margin:10px 0 0 0; width:100%;">
+	<h2 style="display:inline;">{{giorno}} {{mese}} {{anno}}</h2>
+	<h1 style="display:inline;">{{post.title}}</h1>
+	<div style="padding-right: 30px; float:right; vertical-align:middle; padding-left:20px;" class="fb-like" data-href="http://5p2p.it{{post.url}}" data-send="false" data-layout="button_count" data-width="20" data-show-faces="false"></div>
+	</header>
+</a>
+</article>
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+	fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+  
+
+
+
 
 {% endif %}
 

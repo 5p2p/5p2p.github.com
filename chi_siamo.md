@@ -1,6 +1,6 @@
 ---
 title: Chi siamo
-layout: page
+layout: post
 ---
 
 5pani 2pesci e' un progetto di evangelizzazione attraverso la condivisione.

@@ -6,7 +6,7 @@ title: Ah, come vorrei una Chiesa Povera e per i poveri
 
 <!-- INIZIO -->
 
-![](/images/papa-francesco1.jpg)
+![](/img/posts/papa-francesco1.jpg)
 
 Anche io, come tanti in questi giorni, voglio ringraziare il Signore perché ci ha
 donato la grazia di un nuovo Papa, Francesco.
@@ -49,7 +49,7 @@ della pace, l’uomo che ama e custodisce il creato**; in questo momento anche n
 non tanto buona, no? E’ l’uomo che ci dà questo spirito di pace, l’uomo povero … Ah, come vorrei una Chiesa povera e
 per i poveri!” [1]
 
-<div style="float:left; padding: 0 10px 0 0"><img width="256px" src="/images/papa-francesco2.jpg"></div>
+<div style="float:left; padding: 0 10px 0 0"><img width="256px" src="/img/posts/papa-francesco2.jpg"></div>
 
 Sarà per il volto simpatico, i suoi modi semplici, il pensiero della grande responsabilità che
 ha preso in carica, ma in questi giorni mi sono commosso molte volte nell’ascoltare le sue
