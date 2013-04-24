@@ -73,16 +73,22 @@ hr {
 	position:	fixed;
 	top:		170px;
 	left:		20px;
+	width:		250px;
 }
 
 #river {
 	float:		left;
 	width:		70%;
-	min-width:	700px;
+	min-width:	520px;
 	margin-top:	120px;
 }
 
+#navigator-mobile{
+  display: none;
+}
+
 #navigator{
+  	display:	inline;
 	position: 	fixed;
 	line-height: 	3;
 	/*border-right:	1px solid #D7D7D7;*/
