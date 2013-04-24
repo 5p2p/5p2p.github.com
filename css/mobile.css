@@ -2,7 +2,7 @@ body {
 	font-family:	'Open Sans', sans-serif;
 	font-size:	16px;
 	line-height:	1.6;
-	background:	white;
+	background:	red;
 	color:		#4D4D4D;
 }
 
@@ -59,7 +59,6 @@ hr {
 }
 #social {
 	float: right;
-	text-align: right;
 	margin-top: -110px;
 	margin-right: 20px;
 	line-height: 1.8;
