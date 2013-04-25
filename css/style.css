@@ -79,10 +79,12 @@ blockquote {
 }
 
 #logo{
+  /*
 	position:	fixed;
 	top:		170px;
 	left:		20px;
-	width:		250px;
+	*/
+	width:		200px;
 }
 
 #river {
@@ -97,20 +99,22 @@ blockquote {
 }
 
 #navigator{
-  	display:	inline;
 	position: 	fixed;
-	line-height: 	3;
+  	display:	inline;
+	line-height: 	2.5;
 	/*border-right:	1px solid #D7D7D7;*/
 	min-width:	330px;
 	width: 		30%;
 	height:		100%;
-	top:		70px;
+	top:		120px;
+	padding:	20px 30px;
 }
 
 #navigator ul {
-	position: 	absolute;
-	left:		30px;
-	bottom: 	120px;
+	/*position: 	absolute;
+	padding-top:	30px;
+	padding-left:	30px;
+	bottom: 	120px;*/
 }
 
 #the_end {
