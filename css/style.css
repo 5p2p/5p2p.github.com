@@ -8,13 +8,22 @@ body {
 
 div#black_bar{position:fixed;left:0;top:0;bottom:0;background-color:#000;width:6px;z-index:11}
 
+
+.post img {
+	width:	520px;
+}
+
 hr {
 	color: #D7D7D7;
 	background-color: #D7D7D7;
 	height: 1px;
 }
 
-
+blockquote {
+	border-left:	4px solid #D7D7D7;
+	padding-left:	10px;
+	margin:		20px 0;
+}
 
 
 #header_master{
