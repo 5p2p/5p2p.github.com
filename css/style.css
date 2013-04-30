@@ -158,15 +158,16 @@ blockquote {
 }
 
 .post-archivio h1 {
+	display: inline;
 	font-family:	'Raleway', sans-serif;
 	font-weight:	900;
 	font-size:	18px;
 	color:		black;
-	width:		500px;
 	line-height:	1.1;
 }
 
 .post-archivio h2 {
+	display: inline;
 	font-family:	'Open Sans', sans-serif;
 	font-weight:	700;
 	font-size:	14px;
