@@ -20,7 +20,7 @@ Una mia amica dice sempre che una delusione é sempre frutto di un'*illusione*.
 
 Questo é il momento dell'Amore come scelta, perché l'Amore vero é una scelta non é il friccichio al cuore. L'Amore può iniziare per un'attrazione, una forte stima o una certa complicità, ma é soprattutto una scelta. Guardiamoci intorno. Pensiamo ad una mamma (IO) che alle tre di notte deve fare una poppata e cambiare il pannolino. Pensate che quell'Amore ha il batticuore? La risposta é NO, vorrei dormire e non essere rotta le scatole almeno di notte. Oppure, c'é batticuore nella moglie che prepara la cena al marito dopo una giornataccia con tre pesti? La risposta é ancora NO. Pensate che Cristo avesse il friccichio al cuore mentre moriva sulla croce? Ma allora l'Amore é un dovere senza sentimenti?
 
-L'Amore é scelta. 
+L'Amore é una scelta. 
 
 Io scelgo quest'uomo non perché risponde al mio prototipo e neanche perché lui mi renderà felice. Io lo scelgo perché *io voglio renderlo felice*, io lo Amo e penso che ne valga la pena spendere la mia vita con lui ( ... anche se il calzino con i sandali va rivisto). San Francesco ha ragione, é dando che si riceve. É spendendo la propria vita per qualcuno che ti senti pieno. Il friccichio al cuore é una fase, bella e importante, ma se non riesce a trasformarsi in scelta, se non si sporca le mani, é superficiale e di solito finisce con una bella tranvata.
 
