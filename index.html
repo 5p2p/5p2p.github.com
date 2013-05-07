@@ -1,28 +1,25 @@
 ---
-layout: home
-title: homepage
+layout: page
+title:  homepage
 ---
 
-		{% for post in site.posts limit:5 %}
+		{% for post in site.posts limit:8 %}
 
-
+		<hr>
 		<article class="post">
-			<header>
 			<a href="/{{post.author}}.html"><h2>{{post.author}}</h2></a>
 			<a href="{{post.url}}"><h1>{{post.title}}</h1></a>
-			</header>
 
 			<a href="{{post.url}}">
-			<section class="post_content">
-			<p>
+			<section class='post-abstract'>
 
-			<div>{{ post.content | split:'<!-- FINE -->' | first | split:'<!-- INIZIO -->' | last }}</div>
+			<p>{{ post.content | split:'<!-- FINE -->' | first | split:'<!-- INIZIO -->' | last }}</p>
 
-			</p>
 			</section>
 		</a>
 		</article>
 
-		<hr class="split" />
-
 		{% endfor %}
+
+		<a href="archivio.html" class="buttonize dark">Tutti gli articoli >></a></li>
+		

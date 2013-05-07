@@ -1,6 +1,6 @@
 ---
 title: Novena a S. Giuseppe
-layout: post
+layout: post-fb
 author: Ruvido
 ---
 

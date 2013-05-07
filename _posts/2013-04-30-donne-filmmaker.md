@@ -1,7 +1,7 @@
 ---
-title:  Non sei più quello di una volta. Donne, filmmaker per natura.
+title:  Non sei più quello di una volta &mdash; Donne, filmmaker per natura
 author: Alescanca
-layout: post2
+layout: post
 ---
 
 ![](/img/posts/doisneau-eiffel.jpg)

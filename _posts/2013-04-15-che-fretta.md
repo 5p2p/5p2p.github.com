@@ -1,7 +1,7 @@
 ---
 title: Che fretta c'era
 author: Alescanca
-layout: post
+layout: post-fb
 ---
 <img src="/img/posts/dubbio-matrimonio.jpg" width="520px">
 

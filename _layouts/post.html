@@ -1,51 +1,32 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+{% include head.html %}
 
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:dc="http://purl.org/dc/terms/" xml:lang="en" lang="en">
-
-
-	{% include head.html %}
-
-
-	<body>
-		{% include facebook.html %}
-		{% include date-ita-page.html %}
+	{% include facebook.html %}
+	{% include date-ita-page.html %}
 
 
 
-		{% include navigation.html %}
+
+
+		      <article class="post">
+		      <section class="date">{{giorno}} {{mese}} {{anno}}</section>
+
+		      <a href="/{{page.author}}.html"><h2>{{page.author}}</h2></a>
+		      <h1>{{page.title}}</h1>
 
 
 
-			<section id="river">
-
-		<article class="post">
-		<div class="date">{{giorno}} {{mese}} {{anno}}</div>
-
-		<header class="header_post" style="margin-bottom:20px;">
-		<a href="/{{page.author}}.html"><h2>{{page.author}}</h2></a>
-		<h1>{{page.title}}</h1>
-		</header>
+		      {{ content }}
 
 
 
-		{{ content }}
+		      <p class="center">
+		      <a href="/archivio.html" class="buttonize dark">Tutti gli articoli >></a>
+		      </p>
+
+			  {% include social-livefyre.html %}
+
+		      </article>
 
 
 
-		<p style="text-align:center; margin:50px 0;">
-		<a href="/archivio.html" class="buttonize dark">Tutti gli articoli >></a>
-		</p>
-
-
-		{% include social.html %}
-
-		</article>
-
-		<section id="the_end">
-		<p class="legal">&copy; 2013 5p2p.</p>
-		</section>
-
-		</section>
-
-	</body>
-</html>
+{% include tail.html %}

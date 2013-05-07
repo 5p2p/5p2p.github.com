@@ -1,7 +1,7 @@
 --- 
 title: Una sposa e mamma santa, Gianna Berretta Molla
 author: Ruvido
-layout: post
+layout: post-fb
 ---
 
 ![](/img/posts/gianna.jpg)

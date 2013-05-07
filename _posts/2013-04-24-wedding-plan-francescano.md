@@ -1,7 +1,7 @@
 ---
 title: Wedding plan francescano, si può fare!
 author: Alescanca
-layout: post
+layout: post-fb
 ---
 
 <img src="/img/posts/matrimonio-francescano.png" width="520px">

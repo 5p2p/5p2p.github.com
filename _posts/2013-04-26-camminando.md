@@ -1,7 +1,7 @@
 ---
 title: Camminando si apre il cammino
 author: Ruvido
-layout: post
+layout: post-fb
 ---
 
 ![](/img/posts/walk-road.jpg)

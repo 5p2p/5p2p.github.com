@@ -1,7 +1,7 @@
 ---
 title: È lui quello giusto?
 author: Alescanca
-layout: post
+layout: post-fb
 ---
 
 <img src="/img/posts/lui-quello-giusto.jpg" width="520px">

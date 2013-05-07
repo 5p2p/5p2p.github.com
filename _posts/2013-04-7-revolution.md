@@ -1,7 +1,7 @@
 ---
 author: Ruvido
 title: Revolution | Science
-layout: post
+layout: post-fb
 ---
 
 <!-- INIZIO -->
@@ -22,8 +22,3 @@ Capite è proprio qui il problema. Aver raggiunto questa pienezza oppure no. E q
 **Qui e ora**
 
 Ogni momento della vita, anche in punto di morte, sara' il momento giusto per prendere questa strada. Ricacciamo i rimorsi, le delusioni, prendiamo in mano ciò che abbiamo dalla vita e doniamolo. Basta uno sguardo. Decidilo ora.
-
-
-<p align="center">
-<img src="/img/posts/5p2p.png" width="200px">
-</p>

@@ -1,14 +1,16 @@
 ---
 title: Pietro, quattro cellule e una conversione
 author: Alescanca
-layout: post2
+layout: post
 ---
 
 ![](/img/posts/due-liniette.jpg)
 
 
 Non ho mai fatto parte degli attivisti pro-life. Non sono un medico e non potrei mai esserlo perché non sono neanche capace ad ingoiare una pasticca e impallidisco quando faccio le analisi del sangue. 
-Non faccio neanche parte della schiera moralistacattolicone2013. <!-- INIZIO -->Quello che so per certo é che quell'ammasso di cellule, o almeno é così che molti uomini moderni oggi lo definiscono, mi ha cambiato la vita.
+Non faccio neanche parte della schiera moralistacattolicone2013.
+<!-- INIZIO -->
+Quello che so per certo é che quell'ammasso di cellule, o almeno é così che molti uomini moderni oggi lo definiscono, mi ha cambiato la vita.
 <!-- FINE -->
 
 Dopo tre mesi di matrimonio, in maniera un po' inaspettata, un mucchietto di cellule a forma di gamberetto cresceva nel mio pancino, allora bello sodo (!!!!!). C'é chi lo chiama cellule insignificanti, chi lo definisce vita, per noi é né più né meno che nostro figlio Pietro. Penso che non ho mai provato gioia più grande e più sconvolgente di quando ho visto quelle due liniette rosa. Ma, nonostante questo, il mio cuore era da tutt'altra parte, pensava alla mia vita da studentessa, agli esami e all'università.

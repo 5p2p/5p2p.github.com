@@ -1,7 +1,7 @@
 ---
 title: Si può fare, sposarsi a 20 anni
 author: Alescanca
-layout: post2
+layout: post
 ---
 
 <img src="/img/posts/tesoro.jpg">
@@ -30,7 +30,7 @@ Confusa e stravolta, chiamai Francesco per raccontargli tutto. Si arrabbiò tant
 
 \- Ma tu con me che vuoi fare? Perché stiamo insieme? Siamo in cammino verso cosa? Qual'é l'obiettivo? E io cosa volevo da questa relazione?
 
-Le mie energie erano tutte proiettate all'università, agli esami. Mi ero da poco trasferita a Roma e volevo esplorare la mia vita da studentessa squattrinata libera e felice. Francesco, sí, era molto importante, ma... troppo presto. In fondo che fretta c'era?
+Le mie energie erano tutte proiettate all'università, agli esami. Mi ero da poco trasferita a Roma e volevo esplorare la mia vita da studentessa squattrinata libera e felice. Francesco, sí, era molto importante, ma... troppo presto. In fondo [che fretta c'era?](http://5p2p.it/2013/04/15/che-fretta.html)
 Queste domande però esigevano delle risposte. Sulla nostra storia le idee chiare ce l'avevo, facevo sul serio, non volevo la storiella col sottotitolo "finché stiamo bene insieme"; io pensavo che lui era l'unica persona con cui davvero valesse la pena spendersi, lui si che era un uomo e non un ragazzino.
 
 Quando Francesco mi chiese di sposarlo risposi due cose: la prima fu "Ma io veramente volevo solo chiarire che intenzioni avevi con me, non volevo arrivare fino a questo punto adesso"; la seconda fu "... SI".

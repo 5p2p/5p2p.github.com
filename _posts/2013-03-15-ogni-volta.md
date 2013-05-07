@@ -1,7 +1,7 @@
 ---
 title: Ogni volta
 author: Alescanca
-layout: post
+layout: post-fb
 ---
 
 <!-- INIZIO -->

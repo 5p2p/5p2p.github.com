@@ -1,6 +1,6 @@
 ---
 author: Dodo
-layout: post
+layout: post-fb
 title: Ah, come vorrei una Chiesa Povera e per i poveri
 ---
 

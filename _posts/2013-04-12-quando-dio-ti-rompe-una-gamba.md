@@ -1,7 +1,7 @@
 ---
 title: Quando Dio ti rompe una gamba
 author: Ruvido
-layout: post
+layout: post-fb
 date: 2013-04-12 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: È lei la donna della mia vita?
 author: Ruvido
-layout: post
+layout: post-fb
 ---
 
 

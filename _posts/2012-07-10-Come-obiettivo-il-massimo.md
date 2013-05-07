@@ -1,7 +1,7 @@
 ---
 title: Come obiettivo il massimo
 author: Alescanca
-layout: post
+layout: post-fb
 ---
 
 <!-- INIZIO -->
