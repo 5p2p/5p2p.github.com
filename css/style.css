@@ -180,7 +180,7 @@ aside { width: 100%; }
 	top:0;
 	padding-top:0em;
 	background-color: white;
-	z-index:	1;
+	z-index:	100;
     position: fixed;
     width: 60em;
 }
@@ -253,7 +253,7 @@ aside {
   width: 16em;
   /*margin-top:-12.5em;*/
   height:auto;
-  z-index: 1;
+  z-index: 100;
   }
 
 #main { 
@@ -337,7 +337,7 @@ a.buttonize:hover,
 	position: absolute;
 	right: 1em;
 	top:   .5em;
-	z-index: 1;
+	z-index: 100;
 }
 
 .fb-follow{
@@ -507,7 +507,7 @@ header a {
 }
 
 .fyre-editor {
-	z-index:	100;
+	z-index:	1;
 }
 
 /* 9. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
