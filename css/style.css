@@ -527,7 +527,7 @@ h1 span:before, h1 span:after { width: 10%; }
 
 header h2 { font-size: 1.5em; }
 
-/*
+
 
 p.intro {
   font-size: 1.309em;
@@ -571,6 +571,8 @@ a.buttonize {
 	font-weight:	700;
 
 }
+
+/*
 
 #main {
 	margin:0
