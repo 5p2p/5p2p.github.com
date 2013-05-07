@@ -506,9 +506,15 @@ header a {
     display:none;
 }
 
-.fyre-editor, .fyre-comment-article {
+.fyre-editor {
 	position: relative;
 	top: -4em;
+	z-index:	1;
+}
+
+.fyre-comment-article {
+	position: relative;
+	top: -6em;
 	z-index:	1;
 }
 
