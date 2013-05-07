@@ -513,13 +513,14 @@ header a {
 }
 
 .fyre-comment-article {
-	top: -1em;
+	position: relative;
+	top: -2em;
 	z-index:	1;
 }
 
-.fyre-comment {
-	margin: 0;
-	padding: 0;
+.fyre-comment-actions, .fyre-comment-reply, .fyre-comment-like {
+	position: relative;
+	top: -2em;
 	}
 
 /* 9. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
