@@ -519,6 +519,7 @@ header a {
 
 #container { width: 30em; }
 
+/*
 header h2:before, header h2:after { width: 35%; }
 
 h1 { font-size: 2.618em; line-height: 1.4em; }
@@ -554,11 +555,14 @@ aside ul {
 	line-height: 2.0;
 }
 
+*/
+
 aside img {
 	display: none;
 }
 
-/*
+
+
 a.buttonize {
 	padding-left:	10px;
 	padding-right:	10px;
@@ -573,7 +577,7 @@ a.buttonize {
 
 }
 
-*/
+
 
 #main {
 	margin:0
