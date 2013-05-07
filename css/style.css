@@ -501,7 +501,8 @@ header a {
 	text-decoration: none;
 }
 
-.fyre-widget .fyre-logo-drop, .fyre-widget .fyre-logo-help, .fyre-widget .fyre-help {
+.fyre-widget .fyre-logo-drop, .fyre-widget .fyre-logo-help, .fyre-widget .fyre-help, 
+.fyre-comment-count, .fyre-login-bar, .fyre-live-container {
     display:none;
 }
 
