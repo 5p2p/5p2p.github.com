@@ -339,6 +339,7 @@ a.buttonize:hover,
 	position: absolute;
 	right: 1em;
 	top:   .5em;
+	z-index: 1;
 }
 
 .fb-follow{
