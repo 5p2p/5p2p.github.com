@@ -246,6 +246,7 @@ p.intro {
   margin-bottom: 1em;
   }
 
+
 aside {
   top:		10.0em;
   position: fixed;
@@ -338,6 +339,7 @@ a.buttonize:hover,
 	position: absolute;
 	right: 1em;
 	top:   .5em;
+	z-index: 1;
 }
 
 .fb-follow{
@@ -500,11 +502,23 @@ header a {
 	text-decoration: none;
 }
 
+.fyre-widget .fyre-logo-drop, .fyre-widget .fyre-logo-help, .fyre-widget .fyre-help, 
+/*.fyre-comment-count, .fyre-comment-username, .fyre-login-bar, .fyre-live-container,*/
+.fyre-login-bar {
+    display:none;
+}
+
+#livefyre-comments {
+	z-index:	100;
+}
+
 /* 9. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
 ----------------------------------------------------------------------------------------*/
 @media screen and (min-width: 30em) and (max-width: 63.236em) {
 
+
 #container { width: 30em; }
+
 
 header h2:before, header h2:after { width: 35%; }
 
@@ -515,17 +529,21 @@ h1 span:before, h1 span:after { width: 10%; }
 header h2 { font-size: 1.5em; }
 
 
+
 p.intro {
   font-size: 1.309em;
   margin-bottom: 1em;
   max-width: 33em;
 }
 
+/*
+
 header { 
   width: 	100%;
   position: relative }
 
- 
+*/
+
 aside {
   position: relative;
   top:		0;
@@ -540,9 +558,13 @@ aside ul {
 	line-height: 2.0;
 }
 
+
+
 aside img {
 	display: none;
 }
+
+
 
 a.buttonize {
 	padding-left:	10px;
@@ -558,9 +580,13 @@ a.buttonize {
 
 }
 
+
+
 #main {
 	margin:0
 }
+
+
 
 .social{
 	display: none;
