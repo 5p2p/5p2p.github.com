@@ -540,7 +540,8 @@ header {
   width: 	100%;
   position: relative }
 
- 
+*/
+
 aside {
   position: relative;
   top:		0;
@@ -555,7 +556,7 @@ aside ul {
 	line-height: 2.0;
 }
 
-*/
+
 
 aside img {
 	display: none;
