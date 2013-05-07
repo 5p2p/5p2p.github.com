@@ -13,10 +13,15 @@ layout: post2
 Avevo da poco compiuto 19 anni quando Francesco, in una sera d'inverno, con la pizza al taglio in mano nella mitica Fiesta ribassata (anche essa adolescente, 17 anni) mi chiese di sposarlo.
 
 Erano passati alcuni mesi da una telefonata superlitigiosa fatta da una cabina telefonica di Assisi dopo uno dei tanti colloqui fatti con padre Giovanni Marini. Il messaggio era chiaro: 
+
 \- Siete pronti! Il cammino di discernimento é finito. La cosa funziona. Mi serve solo la data.
+
 \- Ma Giovanni... ma cosa stai dicendo? Ma come ti viene in mente? Io ho solo 18 anni! Mi sono appena iscritta all'università, come si può pensare una cosa simile?
+
 \- Io non ho più niente da dirvi. Siete venuti qui per fare un discernimento e il discernimento é finito. Ci vediamo la prossima volta con la data. Badate bene: non oltre il 4 ottobre!
+
 \- Ma... ma... io...
+
 \- Su donzella, vai via. Ci vediamo presto.
 
 Se fino al quel momento pensavo che p. Giovanni era un frate pazzo, adesso ne avevo piena conferma.
