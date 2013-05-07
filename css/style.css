@@ -512,11 +512,13 @@ header a {
 	z-index:	1;
 }
 
+/* 
 .fyre-comment-article {
 	position: relative;
 	top: -1em;
 	z-index:	1;
 }
+ */
 
 .fyre-comment-actions, .fyre-comment-reply, .fyre-comment-like {
 	position: relative;
