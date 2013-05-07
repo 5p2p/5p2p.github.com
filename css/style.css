@@ -176,12 +176,12 @@ aside { width: 100%; }
 }
 
 
-header {
+#header {
 	top:0;
 	padding-top:0em;
 	background-color: white;
 	z-index:	1;
-    position: relative;
+    position: fixed;
     width: 60em;
 }
 
@@ -534,7 +534,7 @@ p.intro {
   max-width: 33em;
 }
 
-header { 
+#header { 
   width: 	100%;
   position: relative;  
 }
