@@ -517,6 +517,11 @@ header a {
 	z-index:	1;
 }
 
+.fyre-comment {
+	margin: 0;
+	padding: 0;
+	}
+
 /* 9. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
 ----------------------------------------------------------------------------------------*/
 @media screen and (min-width: 30em) and (max-width: 63.236em) {
