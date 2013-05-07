@@ -502,7 +502,7 @@ header a {
 
 .fyre-widget .fyre-logo-drop, .fyre-widget .fyre-logo-help, .fyre-widget .fyre-help, 
 .fyre-comment-count, /*.fyre-comment-username,*/ .fyre-login-bar, .fyre-live-container,
-.fyre-login-bar, /*.fyre-stream-sort*/ {
+.fyre-login-bar /*.fyre-stream-sort*/ {
     display:none;
 }
 
