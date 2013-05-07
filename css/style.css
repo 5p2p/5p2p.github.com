@@ -508,7 +508,7 @@ header a {
 
 .fyre-editor {
 	position: relative;
-	top: -100px;
+	top: -4em;
 	z-index:	1;
 }
 
