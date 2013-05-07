@@ -501,6 +501,10 @@ header a {
 	text-decoration: none;
 }
 
+#livefyre-comments img {
+height: auto;
+   width:100%;
+ }
 
 /* 9. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
 ----------------------------------------------------------------------------------------*/
