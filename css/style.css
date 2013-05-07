@@ -516,6 +516,7 @@ header a {
 ----------------------------------------------------------------------------------------*/
 @media screen and (min-width: 30em) and (max-width: 63.236em) {
 
+
 #container { width: 30em; }
 
 header h2:before, header h2:after { width: 35%; }
@@ -526,6 +527,7 @@ h1 span:before, h1 span:after { width: 10%; }
 
 header h2 { font-size: 1.5em; }
 
+/*
 
 p.intro {
   font-size: 1.309em;
@@ -573,7 +575,7 @@ a.buttonize {
 #main {
 	margin:0
 }
-/*
+
 .social{
 	display: none;
 }
