@@ -513,8 +513,7 @@ header a {
 }
 
 .fyre-comment-article {
-	position: relative;
-	top: -6em;
+	top: 0em;
 	z-index:	1;
 }
 
