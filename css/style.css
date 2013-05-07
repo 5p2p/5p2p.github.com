@@ -558,6 +558,7 @@ aside img {
 	display: none;
 }
 
+/*
 a.buttonize {
 	padding-left:	10px;
 	padding-right:	10px;
@@ -572,13 +573,13 @@ a.buttonize {
 
 }
 
-
+*/
 
 #main {
 	margin:0
 }
 
-/*
+
 
 .social{
 	display: none;
@@ -604,7 +605,7 @@ a.buttonize {
 .date-archive {
 	text-align:	left;
 }
-*/
+
 
 }
 
