@@ -13,17 +13,17 @@ layout: post2
 Avevo da poco compiuto 19 anni quando Francesco, in una sera d'inverno, con la pizza al taglio in mano nella mitica Fiesta ribassata (anche essa adolescente, 17 anni) mi chiese di sposarlo.
 
 Erano passati alcuni mesi da una telefonata superlitigiosa fatta da una cabina telefonica di Assisi dopo uno dei tanti colloqui fatti con padre Giovanni Marini. Il messaggio era chiaro: 
-- Siete pronti! Il cammino di discernimento é finito. La cosa funziona. Mi serve solo la data.
-- Ma Giovanni... ma cosa stai dicendo? Ma come ti viene in mente? Io ho solo 18 anni! Mi sono appena iscritta all'università, come si può pensare una cosa simile?
-- Io non ho più niente da dirvi. Siete venuti qui per fare un discernimento e il discernimento é finito. Ci vediamo la prossima volta con la data. Badate bene: non oltre il 4 ottobre!
-- Ma... ma... io...
-- Su donzella, vai via. Ci vediamo presto.
+\- Siete pronti! Il cammino di discernimento é finito. La cosa funziona. Mi serve solo la data.
+\- Ma Giovanni... ma cosa stai dicendo? Ma come ti viene in mente? Io ho solo 18 anni! Mi sono appena iscritta all'università, come si può pensare una cosa simile?
+\- Io non ho più niente da dirvi. Siete venuti qui per fare un discernimento e il discernimento é finito. Ci vediamo la prossima volta con la data. Badate bene: non oltre il 4 ottobre!
+\- Ma... ma... io...
+\- Su donzella, vai via. Ci vediamo presto.
 
 Se fino al quel momento pensavo che p. Giovanni era un frate pazzo, adesso ne avevo piena conferma.
 
 Confusa e stravolta, chiamai Francesco per raccontargli tutto. Si arrabbiò tantissimo! e litigammo. Per quanto anch'io fossi in disaccordo con le parole di p. Giovanni non mi fece di certo piacere la reazione di Francesco. Certo é che da quel momento le cose cambiarono e cominciammo a stare per la prima volta davanti a delle domande importanti.
 
-- Ma tu con me che vuoi fare? Perché stiamo insieme? Siamo in cammino verso cosa? Qual'é l'obiettivo? E io cosa volevo da questa relazione?
+\- Ma tu con me che vuoi fare? Perché stiamo insieme? Siamo in cammino verso cosa? Qual'é l'obiettivo? E io cosa volevo da questa relazione?
 
 Le mie energie erano tutte proiettate all'università, agli esami. Mi ero da poco trasferita a Roma e volevo esplorare la mia vita da studentessa squattrinata libera e felice. Francesco, sí, era molto importante, ma... troppo presto. In fondo che fretta c'era?
 Queste domande però esigevano delle risposte. Sulla nostra storia le idee chiare ce l'avevo, facevo sul serio, non volevo la storiella col sottotitolo "finché stiamo bene insieme"; io pensavo che lui era l'unica persona con cui davvero valesse la pena spendersi, lui si che era un uomo e non un ragazzino.
