@@ -176,11 +176,15 @@ aside { width: 100%; }
 }
 
 
-header {
+article header {
 	top:0;
 	padding-top:0em;
 	background-color: white;
 	z-index:	1;
+    position: fixed;
+    width: 60em;
+}
+
 }
 
 header h1 {
@@ -241,11 +245,6 @@ p.intro {
   max-width: 20em;
   margin-bottom: 1em;
   }
-
-header { 
-  position: fixed;
-  width: 60em;
-}
 
 aside {
   top:		10.0em;
