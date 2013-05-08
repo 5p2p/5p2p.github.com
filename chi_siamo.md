@@ -1,6 +1,6 @@
 ---
 title: Chi siamo
-layout: post
+layout: post-fb
 ---
 
 <p><span class="lobster">5pani2pesci</span> e' un progetto di evangelizzazione attraverso la condivisione.
