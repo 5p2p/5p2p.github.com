@@ -506,7 +506,7 @@ header a {
     display:none;
 }
 
-.fyre-editor, .fyre-stream-sort {
+.fyre-editor, .fyre-stream-sort, .fyre-comment-actions {
 	position: relative;
 	top: -4em;
 	z-index:	1;
