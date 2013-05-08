@@ -364,7 +364,7 @@ blockquote {
 	font-weight:	100;
 	font-size:	1.8em;
 	text-align:right;
-	width:	17em;
+	max-width:	100%;
 
 }
 
@@ -536,9 +536,7 @@ header a {
 
 /* 9. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
 ----------------------------------------------------------------------------------------*/
-/* @media screen and (min-width: 30em) and (max-width: 63.236em) { */
-@media screen and (min-width: 10em) and (max-width: 63.236em) {
-
+@media screen and (min-width: 30em) and (max-width: 63.236em) {
 
 #container { width: 30em; }
 
@@ -589,18 +587,9 @@ aside img {
 a.buttonize {
 	padding-left:	10px;
 	padding-right:	10px;
-	background-color:#fff;
-	color:		#999;
-	border:		0px solid #f8f8f8;
+	border:			0px solid #f8f8f8;
 	border-radius:	50px;
-	-webkit-font-smoothing: antialiased;
-	text-decoration: none;
-	font-family:	'Open Sans', sans-serif;
-	font-weight:	700;
-
 }
-
-
 
 #main {
 	margin:0
@@ -636,4 +625,100 @@ a.buttonize {
 
 }
 
+/* 10. CUSTOM LAYOUT & TYPOGRAPHY (iPHONE)
+----------------------------------------------------------------------------------------*/
+@media screen and (min-width: 0em) and (max-width: 29.999em) {
+
+#container { max-width: 100%; }
+
+
+header h2:before, header h2:after { width: 35%; }
+
+h1 { font-size: 2.618em; line-height: 1.4em; }
+h1 span { font-size:0.5em; }
+h1 span:before, h1 span:after { width: 10%; }
+
+header h2 { font-size: 1.5em; }
+
+#header { 
+  width: 	100%;
+  position: relative;  
+}
+
+#header h1 {
+	font-size:	3.0em;
+}
+
+#header h2 {
+	font-size:	1.0em;
+}
+
+aside {
+  position: relative;
+  top:		0;
+  float: none;
+  width: auto;
+  height: auto;
+  margin: 3em 0 2.2em;
+  }
+	
+aside ul {
+	list-style: none;
+	line-height: 1.6;
+}
+
+aside img {
+	display: none;
+}
+
+a.buttonize {
+	padding-left:	10px;
+	padding-right:	10px;
+	border:			0px solid #f8f8f8;
+	border-radius:	50px;
+	font-size:		0.9em;
+}
+
+#main {
+	margin:0
+}
+
+.social{
+	display: none;
+}
+
+.fb-follow{
+	display: none;
+}
+
+.fblike-archive{
+	display: none;
+	right:0em;
+}
+
+.archive{
+	margin-left: 0;
+}
+
+.title-archive {
+	font-family:	'Raleway', sans-serif;
+	font-weight:	900;
+	width: auto; vertical-align:middle; display: inline-block; line-height:1.2;
+}
+
+.date-archive {
+	display: block;
+	max-width:	100%;
+	text-align:	left;
+}
+
+.post {
+	max-width: 100%;
+	}
+
+hr {
+/* 	display: none; */
+	}
+
+}
 
