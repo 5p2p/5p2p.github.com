@@ -172,6 +172,7 @@ aside { width: 100%; }
 .lobster{
 	display: inline;
 	font-family: 'Lobster', cursive;
+	font-size:	1em;
 }
 
 
@@ -619,6 +620,7 @@ a.buttonize {
 }
 
 .date-archive {
+	max-width:	100%;
 	text-align:	left;
 }
 
