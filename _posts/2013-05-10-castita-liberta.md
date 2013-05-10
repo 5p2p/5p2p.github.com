@@ -1,5 +1,5 @@
 ---
-title: L'amore casto dona vera libertà, altro che tabù
+title: Castità è libertà, altro che tabù
 author: Ruvido
 layout: post
 ---
