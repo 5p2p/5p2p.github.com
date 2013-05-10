@@ -8,7 +8,7 @@ layout: post
 
 <strong>
 <!-- INIZIO -->
-Quando fresco fresco di conversione mi dissero che la Chiesa era contro i rapporti prematrimoniali rimasi scettico. Come molti, pensai che la Chiesa avesse veramente bisogno di qualche aggiornamento. Correva l'anno 2001.
+Quando fresco fresco di conversione mi dissero che la Chiesa era contro i rapporti prematrimoniali rimasi scettico. Come molti, pensai che avessero veramente bisogno di qualche aggiornamento. Correva l'anno 2001.
 <!-- FINE -->
 </strong>
 
