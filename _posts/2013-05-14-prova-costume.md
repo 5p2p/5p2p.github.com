@@ -8,7 +8,7 @@ layout: post
 
 
 <!-- INIZIO -->
-Sabato scorso, spinti dal brutto tempo di Freiburg, abbiamo deciso di fare la "classica famiglia italiana", ovvero: di chiuderci in un centro commerciale. <!-- FINE -->
+Sabato scorso, spinti dal brutto tempo di Freiburg, abbiamo deciso di fare la "classica famiglia italiana", ovvero di chiuderci in un centro commerciale. <!-- FINE -->
 Attraversato il confine, eccoci da Decathlon a Colmar in Francia (questo è il massimo di centro commerciale per la famiglia Rao). Le cose da vedere erano tante: decidere la giusta tenda per il campeggio per tutta la ciurma con cuginetto annesso, i sacchi a pelo per Chiara e Maria, un nuovo casco per papá, i costumini per le mie topine e infine il costume per mamma (!!!). 
 
 Entrata in camerino, mi provo un bel bikini mentre un figlio entra e esce come se mamma non fosse nuda e papà sbircia. Appena pronta, mi accorgo subito di una anomalia nello specchio; sembrava fosse uno di quelli che modificano l'immagine &mdash; non mi convince, dice che ho una pancia da terzo mese di gravidanza, però moscia e piena di smagliature (!!) &mdash; Allora esco con un'aria quasi infastidita e dico che non posso assolutamente comprare un costume in un negozio che ha specchi deformanti. Carica dei discorsi fatti con amici in precedenza &mdash; a quarant'anni di solito gli uomini o si comprano il BMW o si mettono con la ventenne &mdash; e considerando che Francesco non é lontano dai quaranta, decido di mettermi a dieta all'istante! 
