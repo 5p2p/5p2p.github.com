@@ -163,10 +163,6 @@ aside { width: 100%; }
 	
 /*header h2:before, header h2:after { width: 42%; }*/
 
-.center {
-	text-align:center; 
-	padding: 3em 0;
-	}
 
 
 .lobster{
@@ -532,8 +528,27 @@ header a {
 	color:		#9C9C9C;
 	margin-top: 0.4em;
 	text-align: center;
+	clear: left;
 }
 
+.center {
+	text-align:center; 
+	margin: 2em 0;
+	}
+
+
+.left, .right {
+	margin: 1em 0 0 0;
+	padding: 0;
+	display:inline-block;
+	width:50%;
+	float:left;
+}
+.right {
+	text-align: right;
+}
+
+.clear { display: block; clear: both;}
 
 /* 9. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
 ----------------------------------------------------------------------------------------*/
