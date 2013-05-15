@@ -19,16 +19,37 @@
 
 		      {{ content }}
 
+		      <div style="margin: 2em 0 0 0">
+
+			  <a href="https://twitter.com/share" class="twitter-share-button" data-via="5pani2pesci">Tweet</a>
+			  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 
-		      <p style="text-align:center; margin:50px 0;">
-		      <a href="/archivio.html" class="buttonize dark">Tutti gli articoli >></a>
-		      </p>
 
 
-		      </article>
+			  <div style="float:right">
+			  <a href="https://twitter.com/5pani2pesci" class="twitter-follow-button" data-show-count="false">Follow @5pani2pesci</a>
+			  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+			  </div>
+
+			  <div style="margin-left: -3px">
+			  	<div class="fb-like" data-href="http://5p2p.it{{page.url}}" data-send="false" data-layout="button_count" data-width="20" data-show-faces="false" style="z-index: 200;"></div>
+		  	</div>
+	  	</div>
+
+
+
+      <div class="center">
+      <a href="/archivio.html" class="buttonize dark">Tutti gli articoli >></a>
+      </div>
+
+
+			  {% include prevnext.html %}
+
+
 
 		{% include social.html %}
+    </article>
 
 
 {% include tail.html %}
