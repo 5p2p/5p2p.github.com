@@ -13,8 +13,10 @@ title:  5pani2pesci | Avventure di provvidenza quotidiana
 			<a href="{{post.url}}">
 			<section class='post-abstract'>
 
-			<p>{{ post.content | split:'<!-- FINE -->' | first | split:'<!-- INIZIO -->' | last }}</p>
-
+			
+			<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+			
+			
 			</section>
 		</a>
 		</article>
