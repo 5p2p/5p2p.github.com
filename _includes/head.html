@@ -65,12 +65,18 @@
 
 
 
-<!-- MailChimp Signup Form -->
-<link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-<style display:inline; type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; margin:0 ; padding:0; font:14px Helvetica,Arial,sans-serif; }
-</style>
-
+<!-- Validate Form -->
+<script>
+function validateForm()
+{
+var x=document.forms["scrivici"]["email"].value;
+if (x==null || x=="")
+  {
+  alert("Hai dimenticato di inserire il tuo indirizzo email");
+  return false;
+  }
+}
+</script>
 
   
 </head>
@@ -117,7 +123,7 @@
 		      <li><a href="/video.html" class="buttonize cyan">Filmmaker per vocazione</a></li>
 		      <li><a href="/foto/" class="buttonize orange">Fotografi degli sposi</a></li>
 		      <li><a href="http://www.assisiofm.it/corsi-e-iniziative-sog-43-1.html" class="buttonize red">I corsi di Assisi</a></li>
-		      <li><a href="mailto:info@5p2p.it?subject=hello" class="buttonize dark">scrivici</a></li>
+		      <li><a href="/scrivici.html" class="buttonize dark">scrivici</a></li>
 
 	      </ul>
 
