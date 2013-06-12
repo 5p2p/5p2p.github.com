@@ -558,6 +558,19 @@ header a {
 
 .clear { display: block; clear: both;}
 
+
+.form {
+	font-family:	'Open Sans', sans-serif;
+	font-weight:	400;
+	color:		#4D4D4D;
+	font-size: 1.4em;
+}
+
+.email {
+	font-size: 1.0em;
+	color:		#9C9C9C;
+}
+
 /* 9. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
 ----------------------------------------------------------------------------------------*/
 @media screen and (min-width: 30em) and (max-width: 63.236em) {
