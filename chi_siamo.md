@@ -18,5 +18,5 @@ Giovanni Paolo II:</p>
 > oggi, senza per nulla alterare o modificare il contenuto del messaggio
 > evangelico,
 
-hanno deciso di mettere in campo le loro competenze e passioni per far arrivare
-questo messaggio a più persone possibili. 
+hanno deciso di mettere in campo le loro competenze e passioni [per far arrivare
+questo messaggio a più persone possibili](/2013/04/26/camminando.html). 
