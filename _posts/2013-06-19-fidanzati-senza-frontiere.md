@@ -6,7 +6,7 @@ layout: post
 
 ![](/img/posts/senza-frontiere.jpg)
 
-Qualche giorno fa abbiamo ricevuto una bellissima lettera. La ripubblico integralmente qui sotto perché ci ha fatto rivivere molti attimi del nostro fidanzamento. A quel tempo io mi trovavo a Zurigo mentre Alessandra era ancora in Basilicata. Il nostro fidanzamento sembrava impossibile eppure ... auguriamo a Daniela e Lorenzo (e a tutti i fidanzati lontani) di poter camminare in questo sentiero e così scoprire l'amore vero. Ecco la lettera:
+Qualche giorno fa abbiamo ricevuto una bellissima lettera. La ripubblico integralmente qui sotto perché ci ha fatto rivivere molti momenti bellissimi del nostro fidanzamento. A quel tempo io mi trovavo a Zurigo mentre Alessandra era ancora in Basilicata. Il nostro fidanzamento sembrava impossibile eppure ... auguriamo a Daniela e Lorenzo (e a tutti i fidanzati lontani) di poter camminare in questo sentiero e così scoprire l'amore vero. Ecco la lettera:
 
 &nbsp;
 
