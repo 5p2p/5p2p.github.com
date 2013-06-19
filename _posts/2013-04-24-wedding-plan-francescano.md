@@ -40,3 +40,8 @@ La weddingmobile: per la macchina va bene il pandino lucidato a nuovo con le lat
 Concludendo, per il nostro matrimonio abbiamo speso circa 2000 euro se includiamo l'offerta per la chiesa e il fatto che abbiamo dormito nella foresteria annessa per circa 10 giorni. La cosa più importante é mettere le cose più importanti al primo posto e tutto il resto intorno. La cosa più importante é non lasciarsi risucchiare da questa voragine organizzativa e guardare in alto. Al nostro matrimonio molti invitati erano con i jeans, ma ci siamo veramente divertiti. I regali più belli sono state le buste piene di spicci di amiche universitarie che davvero avevano rinunciato ad una pizza e lo avevano fatto col cuore.
 
 Yes you can, che ne dite?
+
+&nbsp;
+
+---
+UPDATE: Fra Manuel di Assisi ci ha segnalato la bella iniziativa delle *[bomboniere missionarie](http://www.assisiofm.it/bomboniere-missionarie-2612-1.html)*. I proventi vengono utilizzati per sostenere le missioni francescane all'estero. Troviamo sia una bellissima idea perfettamente in tono con un matrimonio francescano! :)
