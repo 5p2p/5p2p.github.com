@@ -411,6 +411,11 @@ blockquote {
 	margin-top:		.8em;
 }
 
+.post strong {
+	color:		#9C9C9C;
+}
+
+
 .post img {
 	width:	30em;
 }
