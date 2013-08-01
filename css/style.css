@@ -230,7 +230,7 @@ h1 span:before, h1 span:after {
 h1 span:before { float: left; }  
 h1 span:after { float: right; }
 
-ul { left: 4em; margin: 1em;}
+ul { margin-left: 0.4em; }
 ol { margin-left: 0.4em; }
 
 p.intro {
@@ -419,6 +419,8 @@ blockquote {
 .post img {
 	width:	30em;
 }
+
+.post ul { left: 4em; margin: 1em;}
 
 a .post-abstract, a:hover, a:active, a:focus {
 	text-decoration: none; 
