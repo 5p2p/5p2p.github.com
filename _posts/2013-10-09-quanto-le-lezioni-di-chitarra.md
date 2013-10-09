@@ -20,6 +20,10 @@ Ho scoperto cose nuove: Amo Luca e lo Amo non tanto perché mi rende felice, ma 
 
 ---
 
+N.B. Sposi dal 6 Ottobre 2013. Auguri!!
+
+---
+
 Altri post correlati:
 
 - [Che fretta c'era](http://5p2p.it/2013/04/15/che-fretta.html)
