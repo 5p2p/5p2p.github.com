@@ -1,10 +1,12 @@
 ---
-title: Dio mi ama come sono
+title: Dio mi ama così come sono
 author: Ruvido
 layout: post
 ---
 
-## una ragazza
+![](/img/posts/dio-mi-ama.jpg)
+
+## Un viaggio che inaspettatamente ti cambia la vita. Una ragazza che scopre che che Dio la ama così com'è, senza moralismi, né pretese.
 
 Se ripenso al nostro viaggio ad Assisi, posso dire che è stato un vero dono della Provvidenza, avevamo sentito parlare di questi corsi da un nostro amico e abbiamo deciso di parteciparvi con la voglia di staccare un po' la spina, di fare una *vacanza spirituale* per cambiare aria, nessuno di noi quattro sapeva quanto si sbagliasse in quel momento. 
 
@@ -23,6 +25,8 @@ Nonostante le belle parole io proprio non volevo ascoltare. Mi sentivo dire che 
 Tornata a casa mi sono tornati in mente molti degli insegnamenti di Assisi; ora ero consapevole che per amare gli altri bisogna *amare se stessi*, far pace con la propria storia, prendersi cura del corpo. Già il mio corpo troppo a lungo martoriato e buttato via. Sapevo che da li dovevo partire (... fosse stato facile). Sapevo che per amarmi dovevo vivere il mio venerdì Santo, scendere nella tomba. Dovevo trovare il bene in me, fare ordine nella mia vita, negli affetti, nei rapporti, nelle amicizie. Vivere rapporti semplici che potessero portare fuori il meglio di me e non rapporti morti, saturi. Dovevo prendermi cura di me stessa. 
 
 Sono partita col prendermi cura del mio corpo, amandolo, perché Dio mi ha voluta in questo corpo. Ho iniziato a dedicare tempo al mio corpo in modo semplice, camminando un ora al giorno, scoprendo così anche i miei limiti. Ho iniziato a togliere dalla mia vita quei rapporti che non mi facevano bene. Ho iniziato ad affidarmi a Dio e alla sua Provvidenza. Non tutti hanno compreso e capito questi piccoli cambiamenti ma non importa, Dio sa quello che fa. E' dai piccoli passi che si inizia &mdash; non è facile mettersi in cammino &mdash; ma questo fa parte del gioco, nessuno ci ha detto che sarebbe stato facile; però ho una **certezza** che nessuno può togliermi: che Dio mi ama e vuole il mio bene e se mi ama Lui, se si fida di me, perché non dovrei amarmi io? Finché non ti ami non fai scelte buone.
+
+Angela
 
 ---
 
