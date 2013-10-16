@@ -1,0 +1,79 @@
+<html>
+<head>
+	<script type="text/javascript" src="js/jquery.min.js"></script>
+	<script type="text/javascript" src="js/jquery.justifiedgallery.js"></script>
+	<script type="text/javascript" src="js/jquery.colorbox.js"></script>
+
+
+	<link rel="stylesheet" href="css/jquery.justifiedgallery.css" type="text/css" media="all" />
+	<link rel="stylesheet" type="text/css" href="css/colorbox.css">
+
+
+</head>
+<body>
+
+<!--
+<div id="container">
+	<h2>Matrimonio di Sara e Giovanni
+		<span>
+	</h2>
+	<div id="imageContainer"></div>
+	<!input type="button" value="Load More Images" id="loadMore" class='loadMore button blue' />
+</div>
+
+<hr>
+
+-->
+
+<div id="galleria" >
+  <a href="saragiovanni/saragiovanni1.jpg" title="Title 1">
+    <img alt="Title 1" src="saragiovanni/saragiovanni1.jpg"/>
+  </a>
+  <a href="saragiovanni/saragiovanni2.jpg" title="Title 2">
+    <img alt="Title 2" src="saragiovanni/saragiovanni2.jpg"/>
+  </a>
+  <a href="saragiovanni/saragiovanni3.jpg" title="Title 3">
+    <img alt="Title 3" src="saragiovanni/saragiovanni3.jpg"/>
+  </a>
+  <a href="saragiovanni/saragiovanni4.jpg" title="Title 4">
+    <img alt="Title 4" src="saragiovanni/saragiovanni4.jpg"/>
+  </a>
+  <a href="saragiovanni/saragiovanni5.jpg" title="Title 5">
+    <img alt="Title 5" src="saragiovanni/saragiovanni5.jpg"/>
+  </a>
+  <a href="saragiovanni/saragiovanni6.jpg" title="Title 6">
+    <img alt="Title 6" src="saragiovanni/saragiovanni6.jpg"/>
+  </a>
+</div>
+
+
+<script type="text/javascript">
+$("#galleria").justifiedGallery({
+	'sizeRangeSuffixes' : {
+		'lt100':'', 
+		'lt240':'', 
+		'lt320':'', 
+		'lt500':'', 
+		'lt640':'', 
+		'lt1024':''
+	},
+	'rowHeight':250, 
+	'rel':'galleria',
+	'usedSizeRange':'lt500',
+	'margins': 1, 
+	'onComplete': function(gal) {
+		$(gal).find("a").colorbox({
+			maxWidth : "80%",
+			maxHeight : "80%",
+			opacity : 0.9,
+			transition : "none",
+			slideshow: false,
+			current : ""
+
+		});		
+	}
+});
+</script>
+
+</body>
+</html>
