@@ -3,7 +3,7 @@
 5pani2pesci
 
 
-Miriam e Arcangelo (Bitonto)
+Miriam e Arcangelo (Bitonto)                NO
 25/03/2014
 380.7839930 A
 339.1755672 M
@@ -14,6 +14,7 @@ bari palese
 Katia e Nicola (Bitonto 2)
 04/07/2014
 334.1785212 N
+nicola.filomeno@libero.it
 
 
 Letizia e Fabrizio (Pordenone)
@@ -34,7 +35,19 @@ Antonio e Maria Vittoria (Roma)
 328.8783792 A
 
 
+Cecilia e Gianluca (roma) sant'Anselmo           SI
+26/04/2014 ore 16.00 romano e toscana
+fisioterapista lui
+327.3124443 Cecilia
+skype janji22
 
+
+Silvia Iuston e Francesco (Assisi)               SI
+27/04/2014 ore 16.00
+
+
+
+Davide Masera (To)
 
 
 

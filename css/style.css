@@ -403,6 +403,11 @@ blockquote {
 	line-height:   1.4;
 }
 
+.post h3 {
+	padding-top: 	2.0em;
+	padding-bottom: 0.0em;
+}
+
 .post p, em {
 	font-family:	'Open Sans', sans-serif;
 	font-weight:	400;
