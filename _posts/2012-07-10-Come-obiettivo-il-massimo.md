@@ -54,4 +54,4 @@ toglie, sono il tuo tesoro e l'unica cosa per cui vale la pena
 spendersi.
 Prendere in mano la propria vita  e aver fiducia di qualcuno piu'
 grande di te, di Dio, non e' da pazzi; e' solo un' altra logica, e'
-avere come obiettivo il massimo.
+avere come obiettivo il massimo...
