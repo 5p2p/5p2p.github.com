@@ -1,0 +1,35 @@
+{% capture month %} {{ page.date | date: "%B" }} {% endcapture %}
+
+{% capture mese %}
+{% if month contains 'Jan' %}
+Gennaio
+{% elsif month contains 'Feb' %}
+Febbraio
+{% elsif month contains 'Mar' %}
+Marzo
+{% elsif month contains 'Apr' %}
+Aprile
+{% elsif month contains 'May' %}
+Maggio
+{% elsif month contains 'Jun' %}
+Giugno
+{% elsif month contains 'Jul' %}
+Luglio
+{% elsif month contains 'Aug' %}
+Agosto
+{% elsif month contains 'Sep' %}
+Settembre
+{% elsif month contains 'Oct' %}
+Ottobre
+{% elsif month contains 'Nov' %}
+Novembre
+{% elsif month contains 'Dec' %}
+Diecembre
+{% endif %}
+{% endcapture %}
+
+{% capture giorno %} {{ page.date | date: "%d" }} {% endcapture %}
+{% capture anno   %} {{ page.date | date: "%Y" }} {% endcapture %}
+
+
+

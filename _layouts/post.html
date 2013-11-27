@@ -1,0 +1,63 @@
+{% include head.html %}
+
+	{% include facebook.html %}
+	{% include date-ita-page.html %}
+
+
+
+
+
+		      <article class="post">
+		      <section class="date">{{giorno}} {{mese}} {{anno}}</section>
+
+		      <a href="/{{page.author}}.html"><h2>{{page.author}}</h2></a>
+		      <h1>{{page.title}}</h1>
+
+
+
+		      {{ content }}
+
+
+		      <div style="margin: 2em 0 0 0">
+
+
+<div class="fb-like" data-href="http://5p2p.it{{page.url}}" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false" data-font="arial"></div>
+
+<div style="display:inline"><a href="https://twitter.com/share" class="twitter-share-button" data-via="5pani2pesci">Tweet</a>
+			  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>
+
+<div class="seguici">
+	
+	Ricevi i prossimi post sulla tua bacheca cliccando su
+	
+	<iframe src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2F5pani2pesci&send=false&layout=standard&width=450&show_faces=false&action=like&colorscheme=light&font=trebuchet+ms" width="70px" height="25px" crolling="no" frameborder="0" style="border:none; overflow:hidden; vertical-align: middle; margin-left:10px" allowTransparency="true"></iframe><br>
+	
+	e per email attraverso <a href="/list.html">la nostra mailing list</a>.
+
+
+
+	 
+</div>
+
+
+			  <!--{% include prevnext.html %}-->
+
+			  
+		      <div class="center">
+		      <a href="/archivio.html" class="buttonize dark">Tutti gli articoli >></a>
+		      </div>
+
+
+			  
+					  
+			  
+		     {% include social-livefyre.html %}
+
+		      </article>
+
+
+
+
+
+{% include tail.html %}

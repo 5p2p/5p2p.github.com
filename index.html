@@ -1,0 +1,27 @@
+---
+layout: page
+title:  5pani2pesci | Avventure di provvidenza quotidiana
+---
+
+		{% for post in site.posts limit:8 %}
+
+		<hr>
+		<article class="post">
+			<a href="/{{post.author}}.html"><h2>{{post.author}}</h2></a>
+			<a href="{{post.url}}"><h1>{{post.title}}</h1></a>
+
+			<a href="{{post.url}}">
+			<section class='post-abstract'>
+
+			
+			<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+			
+			
+			</section>
+		</a>
+		</article>
+
+		{% endfor %}
+
+		<a href="archivio.html" class="buttonize dark">Tutti gli articoli >></a></li>
+		
