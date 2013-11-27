@@ -1,0 +1,48 @@
+---
+layout: page
+title:  archivio
+---
+
+{% for post in site.posts %}
+{% include date-ita-post.html %}
+
+
+<!--
+<article class="post-archivio">
+<a href="{{post.url}}">
+
+	<div style="backgrpund-color:yellow">
+	<h2>{{giorno}} {{mese}} {{anno}}</h2>
+	<div style="width:10em; display: inline-block; background-color: red">{{post.title}}</div>
+	<div style="padding-right: 30px; float:right; vertical-align:middle; padding-left:20px;" class="fb-like" data-href="http://5p2p.it{{post.url}}" data-send="false" data-layout="button_count" data-width="20" data-show-faces="false"></div>
+</a>
+	</div>
+</article>
+!-->
+
+<section class="archive">
+<a href="{{post.url}}">
+	<div class="date-archive">{{giorno}} {{mese}} {{anno}}</div>
+	<div class="title-archive">{{post.title}}</div>
+	<div class="fblike-archive"><div class="fb-like" data-href="http://5p2p.it{{post.url}}" data-send="false" data-layout="button_count" data-width="20" data-show-faces="false"></div></div>
+</a>
+</section>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/it_IT/all.js#xfbml=1";
+	fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+  
+
+
+
+
+
+{% endfor %}
+
