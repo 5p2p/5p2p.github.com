@@ -493,14 +493,14 @@ a:hover .date-archive , a:active, a:focus {
 	font-family:	'Raleway', sans-serif;
 	font-weight:	100;
 	font-size:	0.9;
-	width: 		7.1em; display: inline-block;
+	width: 		8.5em; display: inline-block;
 	text-align:	right;
 	padding-right:	.5em;
 }
 .title-archive {
 	font-family:	'Raleway', sans-serif;
 	font-weight:	900;
-	width: 29.9em; 
+	width: 27.5em; 
 	display: inline-block; line-height:1.2;
 	vertical-align:	middle;
 	padding-bottom: .5em;
