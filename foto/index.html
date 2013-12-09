@@ -49,6 +49,18 @@
 		</script>
 
 
+		<script>
+		function validateForm()
+		{
+			var x=document.forms["scrivici"]["Email"].value;
+			if (x==null || x=="")
+			  {
+			  alert("Hai dimenticato di inserire il tuo indirizzo email");
+			  return false;
+			  }
+		}
+		</script>
+
 
 
 	</head>
@@ -179,17 +191,32 @@
 			</div>
 
 			<div id="page3">
-				<div class="titolo">
-					Per saperne di più
-				</div>
-				<!--span class="titolo"> Lavoriamo in tutta Italia, Francia, Germania e Svizzera.</span-->
 
-				<div class="contbox">
-				<span class="tipo">Lavoriamo in tutta Italia, Francia, Germania e Svizzera.</span><br>
-					<span class="tipo">email:</span> <span class="contatto">info@5p2p.it</span><br>
-					<!-- span class="tipo">tel:  </span> <span class="contatto">333 XXXXXXX</span><br>
-					<span class="tipo">tel:  </span> <span class="contatto">333 XXXXXXX</span-->
+				
+				<div class="titolo">
+					Scrivici per maggiori informazioni! 
+					<!--span class="tipo">Lavoriamo in tutta Italia, Francia, Germania e Svizzera.</span -->
+					
+					<form class="style" name="scrivici" action="http://getsimpleform.com/messages?form_api_token=2c08cc2897d1de77157533ef2f2b76be" onsubmit="return validateForm()" method="post">
+						<input type="text"  class="contact" name="Nome" value="Nome" onfocus="this.value = this.value=='Nome' ? '' : this.value; this.style.color='#000';" onfocusout="this.value = this.value == '' ? this.value = 'Nome' : this.value; this.value=='Nome' ? this.style.color='#ccc' : this.style.color='#000'"/>
+					    
+						<input type="text"  class="contact" name="Email" value="Email" onfocus="this.value = this.value=='Email' ? '' : this.value; this.style.color='#000';" onfocusout="this.value = this.value == '' ? this.value = 'Email' : this.value; this.value=='Email' ? this.style.color='#ccc' : this.style.color='#000'"/>
+					    
+						<input type="text"  class="contact" name="Telefono" value="Telefono" onfocus="this.value = this.value=='Telefono' ? '' : this.value; this.style.color='#000';" onfocusout="this.value = this.value == '' ? this.value = 'Telefono' : this.value; this.value=='Telefono' ? this.style.color='#ccc' : this.style.color='#000'"/>
+					    
+						<!textarea style="display:block; margin-top:1em; font-size: 0.8em" rows='20' cols='50' type='text' name='messaggio'> <!/textarea>
+
+						<!textarea class="contact" placeholder="Add a comment..."><!/textarea>
+					    
+						<textarea class="contact" placeholder="Il tuo messaggio" rows="15"></textarea>
+
+
+					    <input id="invia" type='submit' value='Invia' />
+					</form>	
+					
+					
 				</div>
+
 
 				<div class="torna">
 					<a class="smoothScroll" href="#page1">torna indietro</a>
@@ -200,7 +227,6 @@
 
 
 
-		<!--script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script-->
 
 	</body>
 </html>
