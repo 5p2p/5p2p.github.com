@@ -453,6 +453,32 @@ blockquote {
 	padding: 0em 0;
 }
 
+.post ol strong {
+	font-size: 1.2em;
+}
+
+.post .ranking {
+	float: 			right; 
+	font-size:		2.5em;
+	background-color: #D7D7D7;
+	border-radius:	50px;
+	width: 1.5em;
+	height: 1.0em;
+	text-align: center;
+	color: white;
+	vertical-align: middle;
+	padding-top: 0.3em;
+	margin-top: 0.2em;	
+}
+
+.post .highlight {
+	background-color: #D7D7D7;
+	border:		1px solid #9C9C9C;
+	border-radius:	0.2em;
+	padding:	1em 0.5em;
+	margin-top:	3em;
+}
+
 a .post-abstract, a:hover, a:active, a:focus {
 	text-decoration: none; 
 	color:		#4D4D4D;
