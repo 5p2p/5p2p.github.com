@@ -651,6 +651,10 @@ header a {
 	color:		#9C9C9C;
 }
 
+.video {
+	margin-top: 1em;
+}
+
 /* 9. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
 ----------------------------------------------------------------------------------------*/
 @media screen and (min-width: 30em) and (max-width: 63.236em) {
