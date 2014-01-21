@@ -6,7 +6,7 @@ layout: post
 
 ![](/img/posts/video-castita.png)
 
-## Ecco un video che ti aiuterà a chiarire le idee sulla castità nel fidanzamento cristiano.
+## Ecco un video per imparare a vivere la castità nel fidanzamento cristiano.
 
 Alessandro non è il classico ragazzo di Chiesa, anzi per lui Dio era come se non esistesse. Soprattutto nelle relazioni affettive ha fatto un po' come gli pareva. Poi qualcosa è cambiato ... &nbsp;
 
