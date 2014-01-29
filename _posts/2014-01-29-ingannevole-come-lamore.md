@@ -16,7 +16,7 @@ Ecco cosa ti aspetta.
 
 
 <div class="video">
-<iframe width="600" height="400" src="//youtu.be/REOgwG7xNWI?vq=hd720" frameborder="0"> </iframe>
+<iframe width="600" height="400" src="//www.youtube.com/embed/REOgwG7xNWI?vq=hd720" frameborder="0"> </iframe>
 </div>
 
 
