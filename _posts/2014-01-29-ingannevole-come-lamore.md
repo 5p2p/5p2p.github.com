@@ -6,7 +6,7 @@ layout: post
 
 ![](/img/posts/ingannevole-5p2p.jpg)
 
-## In amore non si improvvisa. Ci sono delle regole che vanno imparate per permettere ad un rapporto di crescere e fortificarsi. Ingannevole come l'amore è un corso di tre giorni creato esattamente a questo scopo: iniziarti all'amore maturo.
+## In amore non si improvvisa. Ci sono delle regole che vanno imparate per permettere ad una coppia di crescere e fortificarsi. Ingannevole come l’amore è un corso di tre giorni creato esattamente per questo scopo: iniziarti all’amore maturo. 
 
 Tre giorni intensi di insegnamenti, esperienze, tanta musica e balli. Mimmo e Cinzia la chiamano la *spiritualità della gioia*, perché chi incontra l'amore é felice e la felicita' é contagiosa. Abbiamo imparato tanto e vorremmo invitare tutti ad andare ... proprio **tu che leggi**: single o fidanzato, deluso o felice, fai la borsa e parti per questo *santo viaggio*. Vai a riprenderti la tua vita e scegli la gioia. Il prossimo corso si terra' dal 25 al 27 Aprile, prenditi le ferie, organizzati con lo studio, ma parti (info e prenotazioni 342.0566683, facebook: [ingannevole](https://www.facebook.com/ingannevolecomelamore)).
 
