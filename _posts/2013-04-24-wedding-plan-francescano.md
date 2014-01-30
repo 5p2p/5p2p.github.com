@@ -44,4 +44,4 @@ Yes you can, che ne dite?
 &nbsp;
 
 ---
-UPDATE: Fra Manuel di Assisi ci ha segnalato la bella iniziativa delle *[bomboniere missionarie](http://www.assisiofm.it/bomboniere-missionarie-2612-1.html)*. I proventi vengono utilizzati per sostenere le missioni francescane all'estero. Troviamo sia una bellissima idea perfettamente in tono con un matrimonio francescano! :)
+UPDATE: Fra Manuel di Assisi ci ha segnalato la bella iniziativa delle *[bomboniere missionarie](http://www.missioniassisi.org/)*. I proventi vengono utilizzati per sostenere le missioni francescane all'estero. Troviamo sia una bellissima idea perfettamente in tono con un matrimonio francescano! :)
