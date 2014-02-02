@@ -343,27 +343,6 @@ a.buttonize:hover,
 	margin-left:8px; color: white; font-family: Raleway;
 }
 
-.seguici{
-	margin:   1em 0 2em 0;
-	font-family: Raleway;
-	border-top:	1px solid #D7D7D7;
-	border-bottom:	1px solid #D7D7D7;
-	background: #D7D7D7;
-	padding: 2em;
-	padding-bottom: 0;
-	
-}
-
-.post .seguici img {
-	height: 36px;
-	width: 	36px;
-	padding: 0.2em;
-}
-
-.post .seguici .center {text-align:center;}
-
-.post .seguici .center a { 	border-bottom: none;}
-
 	
 
 hr {
@@ -654,6 +633,60 @@ header a {
 .video {
 	margin-top: 1em;
 }
+
+.formlist{
+padding: 18px 6% 60px 6%;
+	margin: 0 0 35px 0;
+	background: rgb(247, 247, 247);
+	border: 1px solid rgba(147, 184, 189,0.8);
+	-webkit-box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),	0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+	   -moz-box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),	0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+	        box-shadow: 0pt 2px 5px rgba(105, 108, 109,  0.7),	0px 0px 8px 5px rgba(208, 223, 226, 0.4) inset;
+	-webkit-box-shadow: 5px;
+	-moz-border-radius: 5px;
+		 border-radius: 5px;
+}
+
+.formemail {
+	margin-top: .5em;
+	padding: 0.3em;
+	display: inline;
+	width: 78%;
+	font-size: 1em;
+	-moz-border-radius: 5px;
+		 border-radius: 5px;
+}
+.formsubmit {
+	width: 18%;
+	display: inline;
+	background: red;
+	color: white;
+	border: 0px;
+	font-size: 1em;
+	padding: 0.4em;
+	-moz-border-radius: 5px;
+		 border-radius: 5px;
+}
+
+.seguici{
+	margin:   1em 0 2em 0;
+	font-family: Raleway;
+	border-top:	1px solid #D7D7D7;
+	border-bottom:	1px solid #D7D7D7;
+	background: #D7D7D7;
+	padding: 2em 1em 2em 1em;
+	
+}
+
+.post .seguici img {
+	height: 36px;
+	width: 	36px;
+	padding: 0.2em;
+}
+
+.post .seguici .center {text-align:center;}
+
+.post .seguici .center a { 	border-bottom: none;}
 
 /* 9. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
 ----------------------------------------------------------------------------------------*/
