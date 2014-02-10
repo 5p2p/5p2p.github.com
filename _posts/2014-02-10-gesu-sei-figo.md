@@ -17,7 +17,7 @@ Impariamoci a divertire veramente!
 
 
 <div class="video">
-<iframe width="600" height="400" src="//youtu.be/YL7BaTInsAA?vq=hd720" frameborder="0"> </iframe>
+<iframe width="600" height="400" src="//www.youtube.com/embed/YL7BaTInsAA?vq=hd720" frameborder="0"> </iframe>
 </div>
 
 
