@@ -44,3 +44,12 @@ Abbiamo scoperto che il modo speciale in cui Dio ci voleva amare passava per que
 
 P.S.
 Ci siamo sposati il 3 ottobre di quello stesso anno, due giovincelli, diciannove e ventisette anni.
+
+---
+Se ti è piaciuto questo articolo, clicca "Mi piace" e continua a leggere:
+
+- [Che fretta c'era](http://5p2p.it/2013/04/15/che-fretta.html)
+
+- [Una cananea mi ha portato ad Assisi cambiandomi la vita!](http://5p2p.it/2013/07/03/una-cananea-assisi.html)
+
+- [Donare La Vita](http://5p2p.it/2013/09/16/donare-la-vita.html)
