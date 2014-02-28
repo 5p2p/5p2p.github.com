@@ -670,7 +670,7 @@ padding: 18px 6% 60px 6%;
 
 .seguici{
 	margin:   1em 0 2em 0;
-	font-family: Raleway;
+	/*font-family: Raleway;*/
 	border-top:	1px solid #D7D7D7;
 	border-bottom:	1px solid #D7D7D7;
 	background: #D7D7D7;
@@ -754,6 +754,7 @@ a.buttonize {
 .social{
 	display: none;
 }
+
 
 .fb-follow{
 	display: none;
