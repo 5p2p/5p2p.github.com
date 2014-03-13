@@ -3,12 +3,12 @@ title: Perché è un bravo ragazzo!
 author: Alescanca
 layout: post
 image: /img/posts/goodboy.jpg
+description: Dopo una lunghissima lista di lati negativi, questa è la risposta media più inflazionata delle ragazze alla domanda &quot;Perché stai con lui?&quot; ... ma scherziamo?
 ---
 
 ![]({{page.image}})
 
-
-## Dopo una lunghissima lista di lati negativi, questa è la risposta media più inflazionata delle ragazze alla domanda: "Perché stai con lui?" ... ma scherziamo?
+## {{page.description}}
 
 
 \- *Lui è davvero una persona insensibile, non si rende minimamente conto del male che fa usando quel suo classico atteggiamento maschilista*
