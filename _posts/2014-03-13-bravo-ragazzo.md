@@ -2,9 +2,10 @@
 title: Perché è un bravo ragazzo!
 author: Alescanca
 layout: post
+image: /img/posts/goodboy.jpg
 ---
 
-![](/img/posts/goodboy.jpg)
+![]({{page.image}})
 
 
 ## Dopo una lunghissima lista di lati negativi, questa è la risposta media più inflazionata delle ragazze alla domanda: "Perché stai con lui?" ... ma scherziamo?
