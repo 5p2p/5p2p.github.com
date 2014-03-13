@@ -10,57 +10,31 @@
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 <meta http-equiv="content-language" content="it" />
-<meta name="author" content="Francesco Rao" />
-<meta name="designer" content="Francesco Rao" />
-<meta name="developer" content="Francesco Rao" />
-<meta name="description" content="Avventure di Provvidenza quotidiana" />
-<meta name="keywords" content="evangelizzazione, provvidenza, 5pani, 2pesci, 5pani2pesci, sposarsi, fedeltà, famiglia, figli, assisi, 10 comandamenti, papa, gesù, chiesa, fotografia, video, matrimonio, sposi, fidanzamento, francescani" />
-<meta name="robots" content="noydir, noopd" />
+<!meta name="author" content="Francesco Rao" />
+<!meta name="designer" content="Francesco Rao" />
+<!meta name="developer" content="Francesco Rao" />
+<!meta name="description" content="Avventure di Provvidenza quotidiana" />
+<!meta name="keywords" content="evangelizzazione, provvidenza, 5pani, 2pesci, 5pani2pesci, sposarsi, fedeltà, famiglia, figli, assisi, 10 comandamenti, papa, gesù, chiesa, fotografia, video, matrimonio, sposi, fidanzamento, francescani" />
+<!meta name="robots" content="noydir, noopd" />
 
 
 <!-- FACEBOOK open graph -->
-<meta content="{{ site.title }}" property="og:site_name">
-{% if page.title %}
-  <meta content="{{ page.title }}" property="og:title">
-{% else %}
-  <meta content="{{ site.title }}" property="og:title">
-{% endif %}
-{% if page.title %}
-  <meta content="article" property="og:type">
-{% else %}
-  <meta content="website" property="og:type">
-{% endif %}
+<meta content="5pani2pesci" property="og:site_name">
+<meta content="{{ page.title }}" property="og:title">
+<meta content="article" property="og:type">
+<meta content="http://www.5p2p.it{{ page.url }}" property="og:url">
 {% if page.description %}
-  <meta content="{{ page.description }}" property="og:description">
+	<meta content="{{ page.description }}" property="og:description">
 {% else %}
-  <meta content="{{ site.description }}" property="og:description">
+	<meta content="Avventure di provvidenza quotidiana" property="og:description">
 {% endif %}
-{% if page.url %}
-  <meta content="http://www.5p2p.it{{ page.url }}" property="og:url">
-{% endif %}
-<!--
-{% if page.date %}
-  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-  <meta content="http://5p2p.it/about/" property="article:author">
-{% endif %}
--->
 {% if page.image %}
-  <meta content="http://www.5p2p.it{{ page.image }}" property="og:image">
-<!--
-{% else %}
-  <meta content="http://www.5p2p.it/img/logo/5p2p-dark.jpg" property="og:image">
--->
+	<meta content="http://www.5p2p.it{{ page.image }}" property="og:image">
 {% endif %}
-{% if page.categories %}
-  {% for category in page.categories limit:1 %}
-  <meta content="{{ category }}" property="article:section">
-  {% endfor %}
-{% endif %}
-{% if page.tags %}
-  {% for tag in page.tags %}
-  <meta content="{{ tag }}" property="article:tag">
-  {% endfor %}
-{% endif %}
+
+
+
+
 
 <!-- /ht Andy Clarke - http://front.ie/lkCwyf -->
 <meta http-equiv="cleartype" content="on">
