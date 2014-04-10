@@ -6,11 +6,6 @@ image: /img/posts/aladin.jpg
 description: Il frate me lo diceva sempre&#58; &quot;tu sei quello del sempre volli!&quot; ... e si arrabbiava. Cercava di spiegarmi in ogni modo che non tutto si fa per una sforzo di volontà.
 ---
 
-![]({{page.image}})
-
-## {{page.description}}
-
-
 Sebbene sia buono mettere dedizione in ogni cosa, l'ultima parola sulla tua vita non ce l'hai tu &mdash; Sorry not this time! &mdash; Ed io non è che lo capissi proprio bene. Ero caparbio , diciamo pure cocciuto. Messa in testa un idea *buona* la dovevo perseguire fino alla fine, costi quel che costi. Perché la vita è una scalata e per arrivare in cima è necessario impegno, sudore, fatica, a volte il sangue!
 
 Tutto vero.
