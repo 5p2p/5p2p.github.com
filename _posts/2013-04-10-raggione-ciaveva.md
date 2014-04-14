@@ -6,8 +6,9 @@ title:  Raggione c'aveva!
 
 <img src="/img/posts/coppia-urlo.jpg" width="520px">
 <!-- INIZIO -->
-Ne ho sentito parlare tanto di questa crisi nei primi anni di matrimonio, quando noi eravamo già in "crisi", e pensavo "figuriamoci che sarà al settimo anno?!".
+## La crisi del settimo anno &mdash; ne ho sentito parlare tanto nei primi anni di matrimonio, quando  eravamo già in crisi, e pensavo "figuriamoci che sarà al settimo anno?!"
 <!-- FINE -->
+
 Finchè l'altro giorno mi sono resa conto che noi, proprio noi due, in un autunno caldo e piovoso, il giorno di san Francesco, in una cappella delle suore dietro la Porziuncola ad Assisi, proprio sette anni fa ci siamo scambiati un anello e, con una vocina da ventenni (io quasi 20 e Francesco 27), ci siamo promessi fedeltà. 
 
 Ma allora ci siamo, stiamo attraversando il settimo anno!!!
@@ -23,10 +24,25 @@ Ma insomma, noi la crisi l'abbiamo già avuta o quella del terzo anno non vale? 
 
 Forse al settimo anno c'è da rinnovare il matrimonio prima della crisi. Ma poi sta crisi chi l'ha invitata? Chi le ha aperto la porta? E soprattutto chi la vuole? Chi é lei per dettare legge a casa nostra? Forse é entrata mentre eravamo troppo impegnati a pagare la bolletta della luce che aumentava o ad organizzare le lezioni di danza dei figli che non si sa il perché sono sempre in due orari diversi e tutti e due scomodi. Oppure ha conosciuto casa nostra mentre eravamo impegnati al telefono ad organizzare i turni di lavoro per essere presenti, almeno uno di noi, con i figli.
 
-- Lui: Ma amore! Che non ti ricordi più?! L'abbiamo invitata noi due insieme in quelle serate noiose davanti alla tv in cui man mano non progettavamo più niente da fare insieme, non avevamo più progetti per i quali spenderci, ognuno iniziava a vedere da solo altre mete e quello che occupava i nostri pensieri non eravamo più noi due, ma tutta una serie di cose da fare.
-- Io: Sei sicuro? Guarda che di solito sono io a fare gli inviti e adesso che ci penso le ho scritto il nostro indirizzo per mail quando era già tanto arrivare a fine giornata con una doccia fatta e senza vomito sulla maglietta. E mi dimenticavo sempre di sorriderti quando tornavi a casa stanco dal lavoro.
-- Lui: Quello che mi ricordo io che madame la crisi ha bussato alla porta tante volte e non le ho dato mai retta, però quel giorno ero stanco e non avevo voglia di discutere né di chiarire e allora l'ho ascoltata proprio lí davanti alla porta, ma ti assicuro che non l'ho fatta entrare!
-- Io: Ma allora mandiamola via! ora mi scrivo tutto quello che non devo più  dimenticare e la ringrazio perché anche lei qualcosa di buono ci ha lasciato.
+\- Lui: *Ma amore! Che non ti ricordi più?! L'abbiamo invitata noi due insieme in quelle serate noiose davanti alla tv in cui man mano non progettavamo più niente da fare insieme, non avevamo più progetti per i quali spenderci, ognuno iniziava a vedere da solo altre mete e quello che occupava i nostri pensieri non eravamo più noi due, ma tutta una serie di cose da fare.*
+
+\- Io: Sei sicuro? Guarda che di solito sono io a fare gli inviti e adesso che ci penso le ho scritto il nostro indirizzo per mail quando era già tanto arrivare a fine giornata con una doccia fatta e senza vomito sulla maglietta. E mi dimenticavo sempre di sorriderti quando tornavi a casa stanco dal lavoro.
+
+\- Lui: *Quello che mi ricordo io che madame la crisi ha bussato alla porta tante volte e non le ho dato mai retta, però quel giorno ero stanco e non avevo voglia di discutere né di chiarire e allora l'ho ascoltata proprio lí davanti alla porta, ma ti assicuro che non l'ho fatta entrare!*
+
+\- Io: Ma allora mandiamola via! ora mi scrivo tutto quello che non devo più  dimenticare e la ringrazio perché anche lei qualcosa di buono ci ha lasciato.
 
 Ho l'impressione che spesso ci sposiamo con le migliori intenzioni, grandi progetti, a volte affrontando tante difficoltà , ma poi ci perdiamo nel quotidiano banale delle cose da fare e ci dimentichiamo di quanto é bello avere un progetto insieme, spendersi per qualcosa, avere del tempo per stare da soli e riscoprirsi, rinnovarsi, insomma, *risposarsi*.
 Mi sa che il nostro settimo anno non è quello della crisi. Ho più l'impressione che dentro di noi ci sia un movimento che non sappiamo bene dove ci porterà, ma che il solo parlarne ci mette gioia e ci unisce.
+
+
+---
+Se ti è piaciuto questo post, clicca "Mi piace" e continua a leggere:
+
+- [La vocazione all'amore](http://5p2p.it/2014/04/11/la-vocazione-all-amore.html)
+
+- [Mio marito come dono di DIO](http://5p2p.it/2013/05/19/mio-marito-dono-di-dio.html)
+
+- [Ho paura di sposarmi](http://5p2p.it/2013/11/27/ho-paura-di-sposarmi.html)
+
+---
