@@ -8,7 +8,7 @@ image:
 
 Si dice che le cose belle finiscono, ma non è vero, spetta a noi la scelta. La bellezza svanisce se non riusciamo ad attualizzarla nel nostro quotidiano, se resta sterile. In questi giorni mi è stato Donato di vedere tanta bellezza, ascoltare tanta bellezza, una Parola bella, che quasi in maniera incredula, ci offre la soluzione, le regole, il copione per vivere pienamente la vita! 
 
-> Chi fallisce nell'Amore, fallisce nella vita!
+> Chi fallisce nell'Amore, fallisce nella vita! 
 
 E che lo accettiamo o no, l'Amore ha delle *regole*, delle esigenze, ha un prezzo! Si, il prezzo è quello di consumarsi. C'è qualcosa di più bello dello spendersi, donarsi, consumarsi per qualcuno? 
 
@@ -18,7 +18,7 @@ Esso non si nutre solo di emozioni, di sensazioni, di istinti. Non bastano! Tutt
 
 Già, è na parola! E poi dovrei fidarmi di cose che sembrano già prefissate, imposte, cose d'altri tempi! Ma forse in tutto ciò c'è bellezza e verità? Si ha il coraggio di dire che sono cose astratte quando di fronte hai una famiglia che vive e si alimenta solo di Questa bellezza, che è l'Essenziale?! c'è solo da inchinarsi! 
 
-L'amore o fiorisce o muore! 
+> L'amore o fiorisce o muore! 
 
 Scegli! È un bivio! Maturare la consapevolezza di esserci di fronte, non è semplice! In fondo già sai la risposta, la senti dentro, nel cuore, nelle ossa, nella mente, la urleresti al mondo! [L'amore è urgente, l'Amore ha fretta](http://5p2p.it/2013/04/15/che-fretta.html) e ti tormenterà ogni giorno, diventerà la tua ossessione, ti sentirai perennemente insoddisfatta finché non l'avrà vinta! 
 
@@ -29,3 +29,5 @@ il resto viene da sé! Per questo, non c'è bisogno del lancio della monetina, m
 Credere e Fidarsi, è la chiave di tutto.
 
 Anna
+
+(Tutte le citazioni sono di Padre Giovanni Marini)
