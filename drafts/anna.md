@@ -20,7 +20,7 @@ Già, è na parola! E poi dovrei fidarmi di cose che sembrano già prefissate, i
 
 > L'amore o fiorisce o muore! 
 
-Scegli! È un bivio! Maturare la consapevolezza di esserci di fronte, non è semplice! In fondo già sai la risposta, la senti dentro, nel cuore, nelle ossa, nella mente, la urleresti al mondo! [L'amore è urgente, l'Amore ha fretta](http://5p2p.it/2013/04/15/che-fretta.html) e ti tormenterà ogni giorno, diventerà la tua ossessione, ti sentirai perennemente insoddisfatta finché non l'avrà vinta! 
+Scegli! È un bivio! Maturare la consapevolezza di esserci di fronte, non è semplice! In fondo già sai la risposta, la senti dentro, nel cuore, nelle ossa, nella mente, la urleresti al mondo! [L'Amore è urgente, l'Amore ha fretta](http://5p2p.it/2013/04/15/che-fretta.html) e ti tormenterà ogni giorno, diventerà la tua ossessione, ti sentirai perennemente insoddisfatta finché non l'avrà vinta! 
 
 >La prima laurea nella vita è la laurea in Amore
 
