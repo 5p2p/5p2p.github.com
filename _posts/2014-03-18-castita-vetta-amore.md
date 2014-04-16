@@ -6,11 +6,6 @@ image: /img/posts/vettamore.jpg
 description: Il regalo più bello che una coppia possa farsi è scegliere la castità per vivere questo tempo di prova. I frutti della castità si riconoscono subito e, soprattutto, portano la relazione davvero in cima all'amore. Questa è la testimonianza di due promessi sposi che abbiamo avuto il regalo di incontrare qualche settimana fa. Non perdetevela!
 ---
 
-![]({{page.image}})
-
-## {{page.description}}
-
-
 Siamo fidanzati e siamo promessi sposi. La nostra scelta di “fidanzamento casto” arriva dopo aver seguito un corso sull’affettività tenuto dai salesiani.
 
 **Lui** &mdash; La mia fidanzata già prima di seguire il corso mi ha detto sull’argomento “cosa ti aspetti che ti dicano? Sono preti!”. E la mia risposta era stata alquanto lapidaria “Quello che dice il Don lo ascolto, ma decido io! Non è detto che bisogna fare quello che dicono!”. Questo perché avevo un concetto sbagliato di “castità”. La vivevo come un divieto, un “non si fa perché è sbagliato, è sporco , è peccato” ed io questo proprio non lo capivo e non lo accettavo. Nelle mie esperienze non mi sembrava affatto di sentirmi sporco o di vivere nel peccato e ho sempre pensato “Se Dio ci ha creati così, se ha reso l’atto sessuale così piacevole , appagante e coinvolgente, allora è giusto viverlo in pieno”. 
