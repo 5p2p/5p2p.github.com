@@ -1,12 +1,12 @@
 --- 
-title: Una sposa e mamma santa, Gianna Berretta Molla
+title: Una sposa e mamma santa, Gianna Beretta Molla
 author: Ruvido
 layout: post-fb
 ---
 
 ![](/img/posts/gianna.jpg)
 
-Oggi la chiesa ricorda una donna, Gianna Berretta Molla, che è stata moglie e madre santa. Verso il termine del secondo mese della quarta gravidanza, Gianna ebbe un fibroma all'utero. Operata immediatamente, ci si rese conto che non sarebbe stato possibile salvare sia lei che il bambino. Gianna chiese di salvare la vita che custodiva, anche a scapito della sua. Morì nei giorni successivi al parto. Era il '62, aveva 39 anni. Gianna, come [Chiara Corbella](http://www.chiaracorbellapetrillo.it), porto' avanti questa scelta in piena consapevolezza, totalmente sostenuta dall'amore di Cristo.
+Oggi la chiesa ricorda una donna, Gianna Beretta Molla, che è stata moglie e madre santa. Verso il termine del secondo mese della quarta gravidanza, Gianna ebbe un fibroma all'utero. Operata immediatamente, ci si rese conto che non sarebbe stato possibile salvare sia lei che il bambino. Gianna chiese di salvare la vita che custodiva, anche a scapito della sua. Morì nei giorni successivi al parto. Era il '62, aveva 39 anni. Gianna, come [Chiara Corbella](http://www.chiaracorbellapetrillo.it), porto' avanti questa scelta in piena consapevolezza, totalmente sostenuta dall'amore di Cristo.
 
 <!-- INIZIO -->
 Alla gente che le faceva notare che avrebbe lasciato tre bambini senza madre, rispondeva che non si può uccidere uno dei figli per donare una madre agl'altri tre. Sono gli assurdi della vita.
