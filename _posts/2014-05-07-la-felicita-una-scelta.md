@@ -1,9 +1,10 @@
 ---
 title: La felicità è una scelta
+author: Ruvido
 layout: post
-date: 6/5/2014
+date: 7/5/2014
 description: Ti affanni tanto a ricercarla eppure non è mai accanto a te. La desideri ma non ti comporti come se la volessi. La vedi negl'altri, la sogni, la vivi per un momento, per poi perderla di nuovo per una sciocchezza. Aldilà di ogni finzione, alla domanda "cosa desideri di più per la tua vita?" ognuno di noi risponde "essere felice". Ecco, è il momento di sceglierlo. Continua a leggere.
-image: /img/happiness.jpg
+image: /img/posts/happiness.jpg
 ---
 
 Il treno della vita è passato e tu l'hai perso. La tua occasione è andata. Come quella storia d'amore in cui credevi, che ti eri convinto fosse la svolta della tua vita: è finita l'altra sera con un "rimaniamo amici". Forse il dolore ha bussato alla tua porta, una perdita, una persona cara se n'è andata quando ne avevi ancora bisogno, così senza motivo nel silenzio della notte. O ancora più semplicemente ti guardi allo specchio e ti fai schifo. Ti fa schifo il tuo corpo, il modo in cui sei, il modo in cui hai vissuto, una ferita che non si rimargina. Allora ti convinci che *la vita è così*, che la felicità non è per te. Incominci a guardare con distacco la vita, magari con cinismo, oppure da vittima &mdash; capitano tutte a me. Ed incomincia la solfa dei *se* ... se mio padre ... se a scuola ... se, se. Vorresti uscire da questa morte, ma sembra non esserci via di scampo.
