@@ -2,9 +2,9 @@
 title:  Non sei più quello di una volta &mdash; Donne, filmmaker per natura
 author: Alescanca
 layout: post
+description: Quando noi donne ci facciamo un film invece di amare l'uomo che abbiamo accanto.
+image: /img/posts/doisneau-eiffel.jpg
 ---
-
-![](/img/posts/doisneau-eiffel.jpg)
 
 Una delle cose di cui vado molto orgogliosa é riuscire a capire e a parlare più lingue, nonostante non abbia ancora capito il linguaggio del sesso maschile (ma sono sicura ce la farò prima o poi!). Sono ormai sei anni che viviamo stabilmente in giro per l'Europa, prima in Svizzera, poi in Francia e adesso in Germania. 
 Passeggiando per Parigi qualche giorno fa, ho ascoltato una conversazione fra due fidanzati in crisi. La frase che lei ripeteva ogni tre parole era: "Tu n'est pas plus comme avant!", "Tu n'étais pas comme ça avant!" ( ... non sei più quello di una volta, non eri così prima). Ascoltando le sue parole ho capito due cose: primo, noi donne siamo tutte uguali, da Parigi a Palermo, da New York a Friburgo; secondo, penso che potrei cominciare a scrivere un'enciclopedia universalmente accettata da intitolare "L'universo femminile, per non sbagliare gioca sempre la carta dello shopping insieme", da almeno un milione di pagine solo il primo volume.
