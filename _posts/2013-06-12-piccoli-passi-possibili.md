@@ -6,6 +6,12 @@ layout: post
 
 ![](/img/posts/chiara-corbella.png)
 
+
+
+*Questo articolo è apparso la prima volta il 12 Giugno del 2013 alla vigilia del primo anniversario della nascita al cielo di Chiara Corbella Petrillo*
+
+---
+
 Domani, al divino amore a Roma, si celebrerà l'anniversario della partenza di [Chiara Corbella Petrillo](http://www.chiaracorbellapetrillo.it) nelle braccia del padre.  Un anno è passato e siamo ancora qui, gli occhi pieni di stupore, a contemplare l'opera di Dio in due persone qualsiasi: Chiara e Enrico.
 
 "Chiara non è morta serena, è morta felice" ricordava Enrico al funerale di un anno fa. Un funerale, dove si respirava un'aria diversa, non di lutto ma di gioia. Questo è il miracolo e questo è il segno che il Signore ci lascia.
