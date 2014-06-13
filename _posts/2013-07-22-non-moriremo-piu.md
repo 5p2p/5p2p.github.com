@@ -21,4 +21,12 @@ Questo libro è estremamente coinvolgente. La storia di Chiara ed Enrico, raccon
 
 ---
 
-Il libro uscito per edizioni Porziuncola è anche disponibile online, ad esempio su [libreriadelsanto.it](http://www.libreriadelsanto.it/libri/9788827010150/siamo-nati-e-non-moriremo-mai-piu.html?p=rafr)  o [amazon.it](http://www.amazon.it/gp/product/8827010157/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=3370&creative=23322&creativeASIN=8827010157&linkCode=as2&tag=5pani2pesci-21). Buona lettura.
+Il libro uscito per edizioni Porziuncola è acquistabile [online](http://www.amazon.it/gp/product/8827010157/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=3370&creative=23322&creativeASIN=8827010157&linkCode=as2&tag=5pani2pesci-21). Buona lettura.
+
+---
+
+Se ti è piaciuto questo post, condividilo con i tuoi amici e continua a leggere:
+
+- [Piccoli passi possibili verso la gioia](http://5p2p.it/2013/06/12/piccoli-passi-possibili.html)
+- [Marcia Francescana 2002](http://5p2p.it/2013/07/15/marcia2002.html)
+- [10 libri per crescere nell'amore](http://5p2p.it/2013/12/16/10libri.html)
