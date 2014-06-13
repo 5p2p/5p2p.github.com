@@ -29,5 +29,11 @@ Quindi cosa ricorderemo domani? Forse la santità di una giovane coppia di sposi
 Tutti possiamo sperimentare l'amore di Chiara ed Enrico. Siamo chiamati proprio a questo! Ognuno, oggi, nella propria realtà puo' entrare in questa gioia che vince la morte e dona la vita.
 
 
+---
 
+Se ti è piaciuto questo post, condividilo con i tuoi amici e continua a leggere:
+
+- [Siamo nati e non moriremo più](http://5p2p.it/2013/07/22/non-moriremo-piu.html)
+- [La vocazione all'amore](http://5p2p.it/2014/04/11/la-vocazione-all-amore.html)
+- [Signore cosa vuoi che io faccia](http://5p2p.it/2013/12/04/cosa-vuoi-che-io-faccia.html)
  
