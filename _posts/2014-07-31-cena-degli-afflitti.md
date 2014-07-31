@@ -2,6 +2,7 @@
 title: La cena degli afflitti
 author: Guest
 layout: post
+date: 31/7/2014
 description: Cosa succede quando un donnaiolo incallito &mdash; in carriera  &mdash; che fa la bella vita di Milano incontra Gesù Cristo? Cosa succede quando incomincia a seguire il Signore? E cosa penseranno i suoi amici compagni di movida?! ... nascono le cene degli afflitti  &mdash; tra diavoli e acqua santa  &mdash; bon appétit!
 image: /img/posts/cenafflitti.jpg
 ---
@@ -56,3 +57,11 @@ Un abbraccio carissimo a tutti coloro che camminano nella Fede con passione.
 Alex
 
 NB tutti i nomi presenti nell'articolo sono puramente di fantasia.
+
+---
+
+Se ti è piaciuto questo post, condividilo con i tuoi amici e continua a leggere:
+
+- [Ma come faccio a vivere la castità?! [VIDEO]](http://5p2p.it/2014/01/21/ma-come-vivere-la-castita.html)
+- [Il fantasma dell'altro (la storica ex)](http://5p2p.it/2014/02/03/il-fantasma-dell-altro.html)
+- [Una cananea mi ha portato ad Assisi cambiandomi la vita!](http://5p2p.it/2013/07/03/una-cananea-assisi.html)
