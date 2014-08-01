@@ -52,6 +52,7 @@ Un abbraccio carissimo a tutti gli afflitti, a coloro che camminano nella Fede c
 Alex
 
 NB Alcuni dei nomi presenti nell'articolo sono puramente di fantasia. Ma questi sono veri: Guido e Thalita, cristiani attenti e compagni di viaggio preziosissimi che ringrazio come un fratello. 
+
 ---
 
 Se ti è piaciuto questo post, condividilo con i tuoi amici e continua a leggere:
