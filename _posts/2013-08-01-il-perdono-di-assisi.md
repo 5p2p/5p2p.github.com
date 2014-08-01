@@ -9,7 +9,7 @@ layout: post
 
 ## Per chi non conosce la Marcia Francescana forse non sa che il 2 Agosto, giorno di arrivo della marcia, si celebra il Perdono di Assisi.
 
-Domani è un giorno speciale. Non solo perché i marciatori, arrivando da tutta Italia, faranno il loro ingresso in Porziuncola ([come noi nel 2002](http://5p2p.it/2013/07/15/marcia2002.html)) ma perché appunto ad Assisi si celebra *l'indulgenza del Perdono* chiesta proprio da Santo Francesco al papa. L'immagine qui sopra ritrae appunto Francesco che annuncia al popolo di Assisi la notizia (sulla destra si vede la Porziuncola). Francesco tiene in mano un cartello con scritto:
+Domani è un giorno speciale. Non solo perché i marciatori faranno il loro ingresso in Porziuncola ([come anche noi nel 2002](http://5p2p.it/2013/07/15/marcia2002.html)) ma perché appunto ad Assisi si celebra *l'indulgenza del Perdono* chiesta proprio da Santo Francesco al papa. L'immagine qui sopra ritrae appunto Francesco che annuncia al popolo di Assisi la notizia (sulla destra si vede la Porziuncola). Francesco tiene in mano un cartello con scritto:
 
 > haec est portae vitae aeternae 
 
