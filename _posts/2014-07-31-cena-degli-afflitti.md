@@ -13,25 +13,25 @@ image: /img/posts/cenafflitti.jpg
  
 &mdash;   *La f..a?*  dico io.
  
-&mdash;  Ma che cazzo, questi t'hanno fatto il lavaggio del cervello!... Alex, dobbiamo tornare ad Amsterdam insieme! ... ho visto le foto su Facebook di quando studiavi a Los Angeles! Ma ti ricordi quando mi raccontavi che eri animatore in Valtur, quando rimorchiavi ai concerti, per strada, le feste a casa tua suonavi fino alle 4 di mattina! Eri te cazzo! Ma ti ricordi quando Raffaele ti lasciava le chiavi del monolocale ai navigli per *farti* le tipe conosciute una sera! ... Qua girano ancora leggende incredibili su di te!  Prima eri proprio un *figo* ed ora mi parli di **fidanzamento casto** che è un dono di Dio???! Ma  che cazzo stai addí!?!? Ma tuo padre che dici? Ma ti rendi che dispiacere, che figura gli fai fare? T'ha fatto studiare, sei pure mezzo scienziato? Gesú era uno ok ma mo' basta. La Bibbia è una raccolta di fiabe... Basta. Domani ti porto a cene con due tipe e voglio vedere se non torni quello di una volta... Marco, senti, gli presentiamo Alessia &mdash; quella che l'ha data a mezza Milano &mdash;  magari lo sveglia, così la pianta di fare il fanatico integralista! questo sta fuori di testa... 
+&mdash;  Ma che cazzo, questi t'hanno fatto il lavaggio del cervello!... Alex, dobbiamo tornare ad Amsterdam insieme! ... ho visto le foto su Facebook di quando studiavi a Los Angeles! Ma ti ricordi quando mi raccontavi che eri animatore in Valtur, quando rimorchiavi ai concerti, per strada, le feste a casa tua suonavi fino alle 4 di mattina! Eri te cazzo! Ma ti ricordi quando Raffaele ti lasciava le chiavi del monolocale ai navigli per *farti* le tipe conosciute una sera! ... Qua girano ancora leggende incredibili su di te!  Prima eri proprio un *figo* ed ora mi parli di **fidanzamento casto** che è un dono di Dio???! Ma  che cazzo stai addí!?!? Ma tuo padre che dice? Ma ti rendi conto che dispiacere, che figura gli fai fare? T'ha fatto studiare, sei pure mezzo scienziato? Gesú era uno ok ma mo' basta. La Bibbia è una raccolta di fiabe... Basta. Domani ti porto a cena con due tipe e voglio vedere se non torni quello di una volta... Marco, senti, gli presentiamo Alessia &mdash; quella che l'ha data a mezza Milano &mdash;  magari lo sveglia, così la pianta di fare il fanatico integralista! questo sta fuori di testa... 
 ...
 
-E chi piú ne ha piú ne metta. Prima di Cristo e dopo di Cristo l'umanità non è più la stessa... posso tracciare nel mio caso un avanti e dopo Assisi: l'anno "Zero" è il 2012, anno della mia conversione.
+E chi piú ne ha piú ne metta. Prima di Cristo e dopo Cristo l'umanità non è più la stessa... posso tracciare nel mio caso un avanti e dopo Assisi: l'anno "Zero" è il 2012, anno della mia conversione.
 
 
 Praticamente sono diventato una specie di scimmia da circo da venire a guardare, toccare con mano, controllare se é successo davvero: se non riescono a vociferarlo glielo dico direttamente io che ho ricevuto la Fede e ho incontrato Cristo. Dopo due anni di cammino passando per 20 ritiri e una crisi dopo l'altra questa magica "liberazione", anche se da fuori viene appellata come "cambiamento", è effettivamente visibile un po' a tutti. E solo dopo che mi sono un po' riconciliato con me stesso, con i miei vecchi peccati, la mia storia, le relazioni sballate, la mia vita insomma, sono stato in grado di incontrare di nuovo i vecchi amici vitelloni (35-40 anni) e confrontarmi serenamente con loro. I due anni sono fondamentali perché non si puó tornare all'inferno se prima non sei interiormente un po' corazzato. Il che non significa avere letto 1000 libri su San Francesco e Sant'Ignazio per munirsi di argomenti e dialettica, ma avere fatto propria quel minimo di pace ed integritá che basta per rispondere alle provocazioni con la testimonianza della tua vita nuova e la vita degli altri con spirito di veritá e caritá. 
 
 
-E qui ... nasce un giochino a casa mia chiamato **CdA**,  che non è il Consiglio di Amministrazione :-) ma  **“La Cena degli Afflitti”**. Gli afflitti sono i vitelloni (uomini e donne...) che non trovano un filo conduttore nelle proprie relazioni, nei fallimenti, nei propri giudizi il piú delle volte storpiati da una cultura alienante. In un paio di cene ho effettivamente intercettato un bisogno ben noto alle espressioni variegate della nuova evangelizzazione (e siamo ben lontani dal parlare di Dio): **incontrarsi**. 
+E qui ... nasce un giochino a casa mia chiamato **CdA**,  che non é  "Consiglio di Amministrazione" :-) ma  **“La Cena degli Afflitti”**. Gli afflitti sono i vitelloni (uomini e donne...) che non trovano un filo conduttore nelle proprie relazioni, nei fallimenti, nei propri giudizi il piú delle volte storpiati da una cultura alienante. In un paio di cene ho effettivamente intercettato un bisogno ben noto alle espressioni variegate della nuova evangelizzazione (e siamo ben lontani dal parlare di Dio): **incontrarsi**. 
 
-Sembra scontato ma non lo è, specialmente a Milano, che é un crocevia di gente che va e viene dando luogo a relazioni per loro natura fluide. Solo chiedere "Cosa ne pensi davvero di questa cosa?" può erigere muri spessissimi e farti parlare attraverso maschere. Domande del tipo:
+Sembra scontato ma non lo è, specialmente a Milano, che é un crocevia di gente che va e viene dando luogo a relazioni per loro natura fluide. Solo chiedere "Cosa ne pensi davvero?" può erigere muri spessissimi e farti parlare attraverso maschere. Domande del tipo:
 
 &mdash; *Che ne pensi di questa persona?* <br>
 &mdash; *Come mai é finita?*  <br>
 &mdash; *Ti piace frequentare 3 donne contemporaneamente?*  <br>
 &mdash; *Ti senti bene vicino al corpo di lei dopo avere consumato o non vedi l'ora di andartene?* 
 
-Evidentemente c'è una tale crisi di fiducia in giro, ferite mai rimarginate, soprattutto la quantità enorme di immondizia mediatica che non si riesce più a confrontarsi. La tua identità va a farsi benedire e si diventa bestioline a caccia di "Like" su Facebook, un sushi bar a settimana, l'immancabile palestra e un po' di sesso per anestetizzarsi. Il dolore è un nemico, il perdono è una parola che non si legge da nessuna parte, la provvidenza è... nulla.
+Evidentemente c'è una tale crisi di fiducia in giro, ferite mai rimarginate e confuse, soprattutto una quantità enorme di immondizia mediatica che non si trova più uno spazio per confrontarsi. L'identità va a farsi benedire e si diventa bestioline a caccia di "Like" su Facebook, un sushi bar a settimana, l'immancabile palestra e un po' di sesso per anestetizzarsi. Il dolore è un nemico, il perdono è una parola che non si legge da nessuna parte, la provvidenza è... nulla.
 
 Molti amici di Alex 1.0 (io sono Alex) sono vitelloni che fra movida, un buon lavoro, tanti viaggi, teatro, persino buona cultura, annegano in passioni tristi. E questi sono i vitelloni più a posto. Ce ne sono molti (non tutti ovviamente) con cui faccio teatro e musica dove il livello di trasgressione, divertimento fine a sé stesso e insoddisfazione cronica decolla! Vivevo in questo mondo e avanti Assisi ho anche pensato che potesse davvero bastarmi. Di fatto, dopo la conversione sono in grado di parlare la lingua della fede e la lingua dei vitelloni. Quindi, almeno per ora, la “Cena degli Afflitti” puó svolgersi davvero(!) solo a casa mia. 
 
@@ -45,14 +45,13 @@ Incredibile. "Quando facciamo un'altra cena?" dopo averlo rimproverato, perculat
 
 Siamo arrivati alla 17a cena ed ora ne devo fare due a settimana perchè la popolarità di questo giochino é cresciuta. 
 
-Comè buffa la vita, e quanta ironia, umorismo sublime ha la Provvidenza. Dio ha raccolto la mia incertezza, la mia vergogna, i miei peccati e li ha trasformati in frutti da mettere a servizio degli altri. Sembra che dica: "Non abbiate paura di rimproverare un amico di afflitto. Fatelo per lui, ammettete le vostre colpe ma non sentitevi in colpa per i vostri peccati. Dateli a me e  li trasformerò in strumenti per la gioia vostra e degli altri." 
+Comè buffa la vita, e quanta ironia, umorismo sublime ha la Provvidenza. Dio ha raccolto la mia incertezza, la mia vergogna, i miei peccati e li ha trasformati in frutti da mettere a servizio degli altri. Sembra che dica: "Non abbiate paura di rimproverare un amico di afflitto. Fatelo per lui, ammettete le vostre colpe ma non sentitevi in colpa per i vostri peccati. Dateli a me e li trasformerò in strumenti per la gioia vostra e degli altri." 
 
-Un abbraccio carissimo a tutti gli afflitti, a coloro che camminano nella Fede con passione, soprattutto 
+Un abbraccio carissimo a tutti gli afflitti, a coloro che camminano nella Fede con passione, a coloro che cercano smarriti nelle tenebre. Fidatevi delle vostre lacrime. Scavateci dentro, e se volete ne parliamo a cena ;-)
 
 Alex
 
-NB tutti i nomi presenti nell'articolo sono puramente di fantasia.
-
+NB Alcuni dei nomi presenti nell'articolo sono puramente di fantasia. Ma questi sono veri: Guido e Thalita, cristiani attenti e compagni di viaggio preziosissimi che ringrazio come un fratello. 
 ---
 
 Se ti è piaciuto questo post, condividilo con i tuoi amici e continua a leggere:
