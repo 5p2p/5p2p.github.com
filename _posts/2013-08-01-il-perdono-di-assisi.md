@@ -9,7 +9,7 @@ layout: post
 
 ## Per chi non conosce la Marcia Francescana forse non sa che il 2 Agosto, giorno di arrivo della marcia, si celebra il Perdono di Assisi.
 
-Domani è un giorno speciale. Non solo per i marciatori che da tutta Italia faranno il loro ingresso in Porziuncola [(come noi nel 2002)](http://5p2p.it/2013/07/15/marcia2002.html) ma perché appunto ad Assisi si celebra *l'indulgenza del Perdono* chiesta proprio da Santo Francesco al papa. L'immagine qui sopra ritrae appunto Francesco che annuncia al popolo di Assisi la notizia (sulla destra si vede la Porziuncola). Francesco tiene in mano un cartello con scritto:
+Domani è un giorno speciale. Non solo perché i marciatori, arrivando da tutta Italia, faranno il loro ingresso in Porziuncola [(come noi nel 2002)](http://5p2p.it/2013/07/15/marcia2002.html) ma perché appunto ad Assisi si celebra *l'indulgenza del Perdono* chiesta proprio da Santo Francesco al papa. L'immagine qui sopra ritrae appunto Francesco che annuncia al popolo di Assisi la notizia (sulla destra si vede la Porziuncola). Francesco tiene in mano un cartello con scritto:
 
 > haec est portae vitae aeternae 
 
@@ -25,7 +25,20 @@ Non tutti sanno pero' che per ottenere il "Perdono di Assisi" non e' ne' necessa
 
 Queste tre preghiere non sono a caso ... infatti servono rispettivamente per riaffermare la propria identità cristiana (credo), la propria dignità di figli di Dio (padre nostro), e la propria appartenenza alla Chiesa (preghiera per il papa).
 
-Non perdiamo questa occasione. Buon perdono!
+Non perdiamo questa occasione. 
+
+Buon perdono!
+
+
+---
 
 NB. Tecnicamente l'indulgenza può essere ottenuta dai fedeli dal mezzogiorno del 1 agosto alla mezzanotte del 2 agosto.
+
+---
+
+Se ti è piaciuto questo post, condividilo con i tuoi amici e continua a leggere:
+
+- [Marcia Francescana 2002](http://5p2p.it/2013/07/15/marcia2002.html)
+- [La scoperta piu grande sono i fratelli](http://5p2p.it/2013/09/17/marcia-trentino.html)
+- [Una cananea mi ha portato ad Assisi cambiandomi la vita!](http://5p2p.it/2013/07/03/una-cananea-assisi.html)
 
