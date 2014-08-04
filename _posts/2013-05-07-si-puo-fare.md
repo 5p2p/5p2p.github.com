@@ -2,13 +2,9 @@
 title: Si può fare, sposarsi a 20 anni
 author: Alescanca
 layout: post
+description: É possibile sposarsi a 20 anni? Come si fa a non saltare le tappe? Mi sono persa tutti i divertimenti?
+image: /img/posts/tesoro.jpg
 ---
-
-<img src="/img/posts/tesoro.jpg">
-
-<!-- INIZIO -->
-## É possibile sposarsi a 20 anni? Come si fa a non saltare le tappe? Mi sono persa tutti i divertimenti?
-<!-- FINE -->
 
 Avevo da poco compiuto 19 anni quando Francesco, in una sera d'inverno, con la pizza al taglio in mano nella mitica Fiesta ribassata (anche essa adolescente, 17 anni) mi chiese di sposarlo.
 
