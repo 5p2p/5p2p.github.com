@@ -29,8 +29,6 @@ La bellezza è per tutti! La felicità è una scelta!
 Provaci anche tu! Forza! Vai!
 E che Dio ti accompagni.
 
-&nbsp;
-
 *Alessandra*
 
 PS non volevo fare la furba ... è vero c'è scritto anche "insieme a persecuzioni". Quelle non mancano e sono la prova del nove che sei sulla retta via. Ad Assisi o in ambienti molto cattolici tutti ti applaudono, ma nella vita di tutti i giorni sei sempre la diversa, gli altri non riescono ad inquadrarti facilmente, oscilli fra la categoria ragazzamatura a quella ragazzamadrefollesquilibrata. In realtà tu non fai parte di nessuna categoria, sei fuori dagli schemi perché Dio per te pensa cose uniche, cose grandissime che non entrano nella capoccia degli uomini. Tu sei un capolavoro unico, un pezzo unico. Quello che Dio vuole fare con te è irriproducibile e non catalogabile, un amore senza confini che aspetta solo che tu sia disponibile alla gioia, quella vera, quella che ti toglie il fiato, la gioia da Dio.
