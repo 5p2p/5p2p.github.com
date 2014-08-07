@@ -2,9 +2,8 @@
 title: CASTA day
 author: Guest
 layout: post
-description: La cena degli afflitti ... ad ognuno la sua festa! Purchè sia DA DIO!!! 
-
-image: /img/posts/
+description: 
+image: /img/posts/castaday.jpg
 ---
 
 
