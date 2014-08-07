@@ -1,6 +1,6 @@
 ---
 title: Chi crede cammina
-author: Alescanca
+author: Guest
 layout: post
 ---
 
