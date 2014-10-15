@@ -19,9 +19,13 @@ Queste cene fra amiche si concludono immancabilmente dicendo: "Non so stronzi! E
 Quello che noi donne non ci lasciamo scappare è l'occasione di redimere i poveri maschietti dai loro sbagli. È qui che comincia la nostra crociata. Armate di buona e buonissima volontà, di spirito missionario e di un cappellino bianco con una grossa croce rossa in testa, partiamo verso la nostra opera di salvatrici.
 
 \- Guarda, non mi ha neanche fatto gli auguri di compleanno perché era in viaggio con i suoi amici per andare a vedere il Milan
+
 \- Noooo, davvero?!!! No ma lui non può farti questo! Eh no! Mica ti puoi far trattare così…
+
 \- E poi squilla in continuazione sto telefono quando stiamo insieme. Una volta la cugina che gli si è bucata la ruota ed è per strada, una volta suo padre ha bisogno di aiuto a tagliare il prato proprio di domenica pomeriggio quando sta con me! Poi pure la mamma che voleva andare a trovare la nonna ...
+
 \- Ma tu sei sicura che Giacomo abbia tagliato il cordone ombelicale? Tu per lui sei al primo posto? (tutti abbiamo la cosiddetta amica psicologa da cinque euro!!!)
+
 \- Mmmm, sai la verità è che lui ha sofferto la solitudine quando era piccolo; abitava lontano dai nonni e i suoi genitori hanno sempre lavorato tanto e con lui non ci sono stati…poverino, chissà quanto ha sofferto…ma adesso con me al suo fianco non soffrirà più, mi prenderò io cura di lui. Lo cambierò, con me cambierà!
 
 Sicuramente Giacomino ha sofferto, chi di noi non ha avuto un'infanzia fantastica alzi la mano.  Ma chi ti vuoi sposare? Un ragazzino a cui fare la mamma, uno da salvare dalle sue dinamiche affettive o un uomo? 
@@ -32,7 +36,9 @@ Due anni dopo chiaramente tutto cambia. L'innamoramento finisce e Giacomino ti p
 E così tu, dopo due anni che lo giustifichi, che lo redimi, che lo capisci, che lo lasci fare e che ti becchi sempre la fregatura di essere piantata in asso per qualcun altro o qualcos'altro, nun gliela fai più. Staccato il disco delle giustificazioni adesso inizi con quello delle rivendicazioni:
 
 \- Ma ti rendi conto? Io ho rinunciato ad andare al tennis per lui! 
+
 \- È inaccettabile il suo comportamento…
+
 \- Capisci! Tutte le volte che sono andata io da lui facendomi 60km per farlo riposare il sabato mattina. E i pranzi che mi sono dovuta sorbire con tutta la sua famiglia ... Se penso che non sono andata a studiare a Perugia per stare più vicino a lui ...
 (E poi arriva la frase che ogni crocerossina doc porta in se)
 ... **dopo tutto quello che ho fatto per lui!**
