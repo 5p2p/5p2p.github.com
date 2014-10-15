@@ -28,7 +28,7 @@ Sicuramente Giacomino ha sofferto, chi di noi non ha avuto un'infanzia fantastic
 
 ### Due anni dopo
 
-Due anni dopo chiaramente tutto cambia. L'innamoramento finisce e Giacomino ti pianta in asso per l'ennesima volta perché deve correre dalla mamma ad aprirle la porta di casa perché lei non riesce ad aprirla e non vuole disturbare il vicino (che già si trova li e si è già offerto di aiutarla). Ma Giacomino corre da lei perché è &mdash; sua mamma &mdash; e non può lasciarla nel momento del bisogno, ()[lui è un bravo ragazzo!]
+Due anni dopo chiaramente tutto cambia. L'innamoramento finisce e Giacomino ti pianta in asso per l'ennesima volta perché deve correre dalla mamma ad aprirle la porta di casa perché lei non riesce ad aprirla e non vuole disturbare il vicino (che già si trova li e si è già offerto di aiutarla). Ma Giacomino corre da lei perché è &mdash; sua mamma &mdash; e non può lasciarla nel momento del bisogno, [lui è un bravo ragazzo!](http://5p2p.it/2014/03/13/bravo-ragazzo.html).
 E così tu, dopo due anni che lo giustifichi, che lo redimi, che lo capisci, che lo lasci fare e che ti becchi sempre la fregatura di essere piantata in asso per qualcun altro o qualcos'altro, nun gliela fai più. Staccato il disco delle giustificazioni adesso inizi con quello delle rivendicazioni:
 
 \- Ma ti rendi conto? Io ho rinunciato ad andare al tennis per lui! 
