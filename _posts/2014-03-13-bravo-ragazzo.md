@@ -6,10 +6,6 @@ image: /img/posts/goodboy.jpg
 description: Dopo una lunghissima lista di lati negativi, questa è la risposta media più inflazionata delle ragazze alla domanda &quot;Perché stai con lui?&quot; ... uhmmm c'è qualcosa che non va.
 ---
 
-![]({{page.image}})
-
-## {{page.description}}
-
 
 \- *Lui è davvero una persona insensibile, non si rende minimamente conto del male che fa usando quel suo classico atteggiamento maschilista*
 

@@ -26,7 +26,7 @@ Quello che noi donne non ci lasciamo scappare è l'occasione di redimere i pover
 
 Sicuramente Giacomino ha sofferto, chi di noi non ha avuto un'infanzia fantastica alzi la mano.  Ma chi ti vuoi sposare? Un ragazzino a cui fare la mamma, uno da salvare dalle sue dinamiche affettive o un uomo? 
 
-## Due anni dopo
+### Due anni dopo
 
 Due anni dopo chiaramente tutto cambia. L'innamoramento finisce e Giacomino ti pianta in asso per l'ennesima volta perché deve correre dalla mamma ad aprirle la porta di casa perché lei non riesce ad aprirla e non vuole disturbare il vicino (che già si trova li e si è già offerto di aiutarla). Ma Giacomino corre da lei perché è &mdash; sua mamma &mdash; e non può lasciarla nel momento del bisogno, ()[lui è un bravo ragazzo!]
 E così tu, dopo due anni che lo giustifichi, che lo redimi, che lo capisci, che lo lasci fare e che ti becchi sempre la fregatura di essere piantata in asso per qualcun altro o qualcos'altro, nun gliela fai più. Staccato il disco delle giustificazioni adesso inizi con quello delle rivendicazioni:
@@ -39,10 +39,11 @@ E così tu, dopo due anni che lo giustifichi, che lo redimi, che lo capisci, che
 
 Cara crocerossina che vivi dentro ogni donna, so bene che è difficile abbandonare questa divisa, ma non hai altra scelta. Il Giacomino di turno sono sicura ti avrà risposto due cose:
 
-1. Chi te l'ha chiesto di fare tutto questo!
-2. Sei una rompi scatole! Decidi le cose per te! Smettila di starmi addosso!
+\(1) Chi te l'ha chiesto di fare tutto questo!
 
-## L'amore è gratuito
+\(2) Sei una rompi scatole! Decidi le cose per te! Smettila di starmi addosso!
+
+### L'amore è gratuito
 
 Giacomino tutti i torti non ce l'ha. L'amore è gratuito! 
 
@@ -60,4 +61,6 @@ Dobbiamo organizzare una festa noi donne…l'addio al crocerossinato!!! Chi vien
 
 Se ti è piaciuto questo articolo condividilo con i tuoi amici e continua a leggere:
 
-- []()
+- [Perché è un bravo ragazzo!](http://5p2p.it/2014/03/13/bravo-ragazzo.html)
+- [Non sei più quello di una volta](http://5p2p.it/2013/04/30/donne-filmmaker.html)
+- [È lui quello giusto?](http://5p2p.it/2013/04/22/lui-quello-giusto.html)
