@@ -1,5 +1,5 @@
 ---
-title: Ho scoperto la fedeltà di Dio [VIDEO]
+title: Ho scoperto la fedeltà di Dio
 author: Guest
 layout: post
 image: /img/posts/scoperto-fedelta-dio.jpg
