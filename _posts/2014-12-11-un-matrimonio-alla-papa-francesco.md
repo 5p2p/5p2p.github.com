@@ -6,7 +6,7 @@ image: /img/posts/un-matrimonio-alla-papa-francesco.jpg
 description: Molti che si domandano su cosa sia il matrimonio francescano corrono il rischio di perdersi in dettagli di poco conto. In questo video Paola e Donato condividono con noi l'essenza e lo spirito del loro giorno più bello.
 ---
 
-Tutto è partito circa un anno fa, quando papa Francesco proprio ad Assisi diceva: 
+Tutto è partito circa un anno fa, quando papa Francesco diceva proprio ad Assisi: 
 
 *"Io sempre ai novelli sposi do questo consiglio: litigate quanto volete, se volano piatti lasciateli volare, ma non finite mai la giornata senza fare la pace"*
 
