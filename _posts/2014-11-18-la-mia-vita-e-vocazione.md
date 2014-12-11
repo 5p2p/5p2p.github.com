@@ -1,5 +1,5 @@
 ---
-title: La mia vita è vocazione
+title: La mia vita è vocazione [VIDEO]
 author: Ruvido
 layout: post
 image: /img/posts/vitavocazione.jpg
