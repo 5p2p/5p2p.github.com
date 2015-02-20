@@ -1,5 +1,4 @@
 ---
-published: false
 title: Perche sono qui?
 author: Guest
 layout: post
