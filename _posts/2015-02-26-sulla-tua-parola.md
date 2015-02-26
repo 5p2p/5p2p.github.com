@@ -32,7 +32,7 @@ E proprio qui sperimentammo nuovamente come tutto questo non sia teoria. Assalit
 
 "Sulla tua parola getterò le reti" ci ha accompagnato dal primo giorno del nostro fidanzamento fino ad oggi. Leggendola e rileggendola negli anni racconta davvero tutto il nostro percorso. Ogni riga descrive quello che è successo dopo e dopo ancora e ci chiama ancora oggi, ci interroga e scruta i nostri cuori. Quel passo davvero parla di noi e ci chiama alla nostra vocazione. **Ci ricorda che Dio è Dio e ci chiede di fidarci dell’impossibile** che Lui ci vuole donare. Proprio rileggendo questa Parola è iniziato quel cammino che ci ha portato a 5pani2pesci. Lode al nome Suo.
 
-Ognuno dovrebbe avere come guida la Parola di Dio. Un passo che parla al tuo cuore, che ti chiama ai desideri più intimi e profondi, che sia **la Roccia sulla quale fondare la tua casa**, il faro che sorge tra le onde spumeggianti della vita e che ti indica la direzione prendere.
+Ognuno dovrebbe avere come guida la Parola di Dio. Un passo che parla al tuo cuore, che ti chiama ai desideri più intimi e profondi, che sia la Roccia sulla quale fondare la tua casa, il faro che sorge tra le onde spumeggianti della vita e che ti indica la direzione prendere.
 
 Buon cammino.
 
