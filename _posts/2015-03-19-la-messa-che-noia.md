@@ -41,11 +41,15 @@ Ma il punto ed il centro rimaneva sempre quello: "io ti appartengo" e sono qui &
 
 Entrato in questa logica tutto ha preso senso, al punto di arrivare di fronte al sacerdote per prendere il corpo di Cristo e pensare: "Oh mio Dio non sono degno!". Lo so che sto parlando come una suore ma fidatevi ... non sono una suora!! 
 
-Semplicemente ti rendi conto che tu sei uno schifoso e quello davanti a te è Gesù eucaristico. Che Lui ti aspetta con tutto il cuore da sempre, perché questo è il luogo concreto che ha scelto per incontrarti proprio prima di morire per te! E tu ci sei arrivato magari pensando ad altro; distrattamente ti sei avvicinato a quel mistero di salvezza per l'umanità. Quando arrivi a riconoscere tutto questo (non dico capire, chi può capirlo?) la messa diventa un'altra cosa. E tutti gli altri strumenti che la chiesa ci ha donato, come la parola di Dio e la confessione, diventano funzionali a questo grande mistero. Perché la messa è **piena** con o senza omelia potente, con o senza amici, con o senza canti coinvolgenti. 
+Semplicemente ti rendi conto che tu sei uno schifoso e quello davanti a te è Gesù eucaristico. Che Lui ti aspetta con tutto il cuore da sempre, perché questo è il luogo concreto che ha scelto per incontrarti proprio prima di morire per te! E tu ci sei arrivato magari pensando ad altro; distrattamente ti sei avvicinato a quel mistero di salvezza per l'umanità. Quando arrivi a riconoscere tutto questo (non dico capire, chi può capirlo?) la messa diventa un'altra cosa. E tutti gli altri strumenti che la chiesa ci ha donato, come la parola di Dio e [la confessione](http://5p2p.it/2015/03/30/la-potenza-della-confessione.html), diventano funzionali a questo grande mistero. Perché la messa è **piena** con o senza omelia potente, con o senza amici, con o senza canti coinvolgenti. 
 
 La messa è il luogo che Gesù ha scelto per diventare uno con te ed i fratelli. 
 
 Ed è bello poterci essere.
+
+---
+
+*AGGIORNAMENTO: Abbiamo scritto un nuovo post per approfondire il sacramento della confessione, vai a leggerlo qui: [La potenza della confessione](http://5p2p.it/2015/03/30/la-potenza-della-confessione.html)*
 
 ---
 

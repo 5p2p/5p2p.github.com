@@ -32,7 +32,7 @@ E l'organizzazione? il pranzo, la musica i balli ... la festa é per gli ospiti,
 
 Andiamo al concreto. 
 
-Le partecipazioni: noi abbiamo preso un foglio A4, e l'abbiamo stampato con la stampante di casa che funziona benissimo. Diviso in quattro parti. Nella prima facciata c'era l'invito alla cerimonia e alla festa con una chiara indicazione per il regalo: "Il Signore ama chi dona con gioia. Come regalo vorremmo tanti soldi. Date quanto potete - e poi padre Giovanni Marini ci fece assolutamente aggiungere - e *più* che potete. Questi soldi saranno devoluti per un orfanotrofio in Monzambico". Sotto c'era una piccola cartina per raggiungere la chiesa e il ricevimento e dietro spiegavamo la missione in Monzambico.
+Le partecipazioni: noi abbiamo preso un foglio A4, e l'abbiamo stampato con la stampante di casa che funziona benissimo. Diviso in quattro parti. Nella prima facciata c'era l'invito alla cerimonia e alla festa con una chiara indicazione per il regalo: "Il Signore ama chi dona con gioia. Come regalo vorremmo tanti soldi. Date quanto potete - e poi padre Giovanni Marini ci fece assolutamente aggiungere - e *più* che potete. Questi soldi saranno devoluti per un orfanotrofio in Monzambico". Sotto c'era una piccola cartina per raggiungere la chiesa e il ricevimento e dietro spiegavamo la missione in Monzambico. In alternativa, potete direttamente usare le vostre partecipazioni per sostenere gli ultimi. Tutte le informazioni su questo progetto [qui](http://weddings.5p2p.it/bomboniere-e-partecipazioni).
 
 Il vestito: su internet si trovano cose davvero economiche. Io ho avuto la fortuna di avere una mamma che si é improvvisata sarta per l'occasione e quindi ho speso circa 300 euro per la stoffa.
 
@@ -55,6 +55,6 @@ Yes you can, che ne dite?
 ---
 *UPDATE: Per le bomboniere vi segnaliamo due belle iniziative perfettamente in tono con un matrimonio francescano:*
 
-- Le [bomboniere e partecipazioni di 5pani2pesci](/bomboniere.html), un bel modo per aiutare questo progetto.
+- Le [bomboniere e partecipazioni di 5pani2pesci](http://weddings.5p2p.it/bomboniere-e-partecipazioni), un bel modo per aiutare questo progetto.
 
 - Le [bomboniere missionarie](http://www.missioniassisi.org/). I proventi vengono utilizzati per sostenere le missioni francescane all'estero. 
