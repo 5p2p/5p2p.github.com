@@ -3,7 +3,7 @@ layout: post
 title: Il weekend della grazia
 author: Alescanca
 image: http://weddings.5p2p.it/content/images/2015/04/il-weekend-della-grazia.jpg
-description: Ecco quattro riflessioni per aiutarti ad entrare nel mistero della grazia pasquale. Buon triduo!
+description: Ecco quattro riflessioni per entrare nel mistero della grazia pasquale. Buon triduo!
 ---
 
 ### Giovedì santo
