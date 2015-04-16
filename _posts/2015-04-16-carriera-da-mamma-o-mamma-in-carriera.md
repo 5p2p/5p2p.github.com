@@ -3,7 +3,7 @@ title: Carriera da mamma o mamma in carriera?
 author: Ruvido
 layout: post
 image: /img/posts/carriera-da-mamma-o-mamma-in-carriera.jpg
-description: Le piccole mamme crescono e inevitabilmente ci ritroviamo davanti al grande dilemma: sto a casa con il mio cucciolo o vado a lavorare che economicamente male non fa? La risposta non è scontata ma è un cammino e una scoperta con Dio della propria vocazione alla maternità.
+description: Le piccole mamme crescono e inevitabilmente ci ritroviamo davanti al grande dilemma &mdash; sto a casa con il mio cucciolo o vado a lavorare che economicamente male non fa? La risposta non è scontata ma è un cammino e una scoperta con Dio della propria vocazione alla maternità.
 ---
 
 Cara Chiara,
