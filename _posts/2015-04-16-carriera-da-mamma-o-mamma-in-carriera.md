@@ -1,0 +1,37 @@
+---
+title: Carriera da mamma o mamma in carriera?
+author: Ruvido
+layout: post
+image: /img/posts/carriera-da-mamma-o-mamma-in-carriera.jpg
+description: Le piccole mamme crescono e inevitabilmente ci ritroviamo davanti al grande dilemma: sto a casa con il mio cucciolo o vado a lavorare che economicamente male non fa? La risposta non è scontata ma è un cammino e una scoperta con Dio della propria vocazione alla maternità.
+---
+
+Cara Chiara,
+
+volevo ringraziarti per la tua chiamata. Ogni volta che parliamo mi arricchisci il cuore. Ci conosciamo poco, pochissimo, ma siamo sorelle nel senso più vero e profondo della parola. Non so neanche come si chiama tuo fratello e non mi ricordo se hai anche una sorella, ma siamo sulla stessa strada e verso la stessa meta ed è sufficiente per sentirti cosí vicina. Beh, sono le strane cose che avvengono a chi frequenta quella strana famiglia che è la Chiesa. Ho pensato molto a quello che mi hai detto per telefono. A tutte le ansie, le paure, le scelte, le cose nuove a cui pensare, o meglio, le stesse cose di sempre a cui pensare con gli occhi di due ragazzi che adesso sono anche mamma e papá. Non è scontato scegliere e scegliere bene. Benvenuti nel club dei genitori dove qualsiasi scelta non è scontata e ovunque metti il piede pensi di fare il passo falso! Tranquilli, siamo tutti sulla stessa barca. Vi annuncio una grande "gioia": a sessant'anni sarete ancora lí a passare le serate a pensare a come fare e a dove state sbagliando.
+
+Adesso il dilemma è: accetto questa offerta di lavoro cosí economicamente ci risolleviamo un attimino e lascio la piccola, oppure continuiamo a magiare pasta e ceci a pranzo e cena ma mia figlia cresce con me? I tedeschi ti direbbero: *"Das ist eine große Frage!"* (questa è una grande domanda!). È chiaro che non vuoi lasciare la piccola a otto mesi, sei mamma nel midollo osseo! È oggettivo pure che i soldi servono. Allora? Tu mi hai parlato della tua amica, super cristiana che ha scelto di non andare a lavorare fino a quando i bimbi sono un po' più grandicelli. Poi hai sottolineato che l'essere mamma per te non è un capriccio da quarantenne all'ultimo stadio, ma una vocazione, una chiamata. Io non ho una risposta, tu lo sai che sono peggio di te in certe cose. Non mi sono trovata in questa situazione. Non abbiamo mai avuto tanti soldi. Abbiamo ragionato sempre cercando di far bastare quello che avevamo. Abbiamo cambiato nazione per costruire la nostra famiglia e avere il necessario. È vero che non siamo mai andati in vacanza per otto anni, ma non importa, per noi andava bene cosí.
+
+C'è una cosa che fra noi cristiani a volte non mi piace: scegliere a priori perchè altrimenti perdiamo la medaglia *bravocristiano2015*. Mi spiego meglio: a volte davanti ad una scelta del genere scatta la cristianite acuta di rispondere che la scelta giusta è sicuramente stare a casa con i figli se no non rispondi alla tua vocazione. Ma che state a dí??? Ti pare che una mamma maestra o medico che ha solo sei mesi (non so bene in Italia quanti mesi siano) di maternitá allora non è una brava mamma? Oppure la mia amica psicologa che ha ripreso dopo un mese la sua attività è una scellerata? O chi ha un ristorante mica si può permettere di starsene a casa sei mesi? Ho molte amiche qui a Friburgo che cercano il nido da quando sono al quarto mese di gravidanza e ancora non si vede la panza. Sono costrette a volte a farlo per vivere e vivono tutta la gravidanza con questo senso di colpa che dovranno lasciare questo bambino che ancora non hanno partorito. Cara amica mia, tu sei stata privilegiata ad aver passato questi mesi tranquilla e spensierata. Lo so che darti della privilegiata dopo che ti hanno mandata via dal lavoro perchè eri incinta forse è troppo, però capisci a me. Quello che voglio dirti è non partire col pippone mentale di essere la brava mamma cristiana e coerente. Inizia dal fare un buon caffè a tuo marito la mattina e da un esame oggettivo della realtà sia economica che dei vostri desideri. Insomma la risposta non darla per scontato. Il Signore ti ama davvero. Agli occhi suoi sei bella e degna di stima sia che lavori e sia che stai a casa.
+
+In questa quaresima ho capito una cosa importante. Mi sono resa conto che passavo il mio tempo a chiedermi qual è la volontà di Dio, dove dobbiamo andare, cosa fare, come continuare questi progetti di vita che abbiamo. Le preghiere erano un chiedere continuo, fare domande, cercare a tutti i costi risposte, voler sapere per forza la cosa giusta. Ti assicuro che chiedevo tutte sante cose, non chiedevo niente di materiale e niente che mi desse tornaconti personali. Chiedevo di conoscere la volontà di Dio. Si vede che il Signore si sarà stancato di starmi a sentire e avrà pensato: *"Oh Signore non la sopporto più! Ma quanto chiacchera!"* e mi ha dato la grazia di capire che tutto questo non era importante. Lui mi ama anche se non faccio niente. Se faccio cose sante o no è uguale. Io cercavo i Suoi progetti ma non cercavo Lui. Io cercavo di capire cosa FARE mentre **l'unica cosa importante è acchiapparsi tutto l'Amore che c'è da ricevere da Lui**. Adesso ho smesso di chiedere. Adesso solo provo a stare alla Sua presenza. Adesso cerco Lui e Lui solo. Non ho ancora avuto quelle risposte e tu sai quanto mi costa, ma ho trovato la pace e il riposo nel cuore di Dio e questo mi basta.
+
+Se ricominci da questo punto, cioè dal focalizzarti solo a stare nel cuore di Dio, vedrai che metti ordine nel cuore e nella mente. Ti accorgerai che, presa da mille domande su cose è giusto fare per rispondere alla tua vocazione di mamma, ti sei dimenticata che Luca ci teneva a farti leggere quella pagina del libro che sta leggendo che gli è stata molto utile e che sono due settimane che non gli prepari il caffè la mattina. La tua mente è stata presa da pensieri elevati e santi che in realtà scoprirari solo che erano delle belle e buone tentazioni che ti hanno distolto concretamente già nel presente [dalla tua vocazione](http://5p2p.it/2015/03/06/vocazione-moglie.html). Tu conosci santi che si facevamo tutti sti pipponi mentali come ce li facciamo io e te? Io conosco san Francesco e Madre Teresa di Calcutta che parlavano poco, pregavano tanto e che avevano sempre la pace nel cuore e le cose erano forse dolorose e combattute ma chiare e semplici.
+
+Infine volevo dirti un'altra cosa. Qualsiasi scelta farete fatela per il bene della vostra famiglia e non per seguire il copione della mamma cristiana modello 2015. Ed inoltre non è una selta irreversibile: potete decidere di accettare questo lavoro e darvi tre mesi di tempo in cui vedete come va. Vedrai che se le cose procedono da Dio incontrerai una super baby sitter, scoprirai che sei ancora una persona oltre che una tetta smunta e non so cos'altro; se le cose non vengono da Dio tutto sarà una forzatura dentro al cuore e nelle cose organizzative di gestione dei tempi e delle modalità.
+
+Coraggio! Iniziano le prime sfide da genitore.
+
+Ti voglio bene e spero che se beccamo presto.
+
+Ale
+
+---
+
+Se ti è piaciuto questo post, condividilo con i tuoi amici e continua a leggere:
+
+- [Vocazione moglie](http://5p2p.it/2015/03/06/vocazione-moglie.html)
+
+- [Mammascuolabus](http://5p2p.it/2013/09/14/mammascuolabus.html)
+
+- [Mamme scandolo 2013](http://5p2p.it/2013/06/01/mamme-scandalo-2013.html)
