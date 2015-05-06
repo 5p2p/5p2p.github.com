@@ -114,7 +114,8 @@ h1 {
   line-height: 1.2em;
   }
   
-h3 { text-transform:uppercase; letter-spacing:0.12em; }
+/*h3 { text-transform:uppercase; letter-spacing:0.12em; }*/
+h3 { text-transform:uppercase; letter-spacing:0.0em; line-height: 1.4em}
 h3, h4, h5, h6 { font-weight: bold; }
 
 p.intro { font-size: 1.309em; margin-bottom: 1em; }
@@ -687,6 +688,58 @@ padding: 18px 6% 60px 6%;
 .post .seguici .center {text-align:center;}
 
 .post .seguici .center a { 	border-bottom: none;}
+
+
+
+.share_post {
+    margin: 2rem auto 2rem auto;
+    padding: 0;
+    width: 100%;
+/*    background: gray;*/
+    font-size: 0;
+    text-align: center;
+}
+
+.share_post a {
+	color: white;
+	border-bottom: none;
+
+}
+
+.social_rounds {
+    display: inline-block;
+    text-align: center;
+    line-height: 3rem;
+    padding: 0;
+    margin: 0 0.5rem;
+    border-radius: 50%;
+    width: 3rem;
+    height: 3rem;
+/*
+    width: 3.99rem;
+    height: 4rem;
+*/
+    font-size: 2rem;
+    color: white;
+}
+
+.facebook{
+    background: #3b5998;
+}
+.twitter {
+    background: #00aced;
+}
+.google-plus {
+    background: #dd4b39;
+}
+.youtube {
+    background: #bb0000;
+}
+.signup {
+    background: #aad450;
+}
+
+
 
 /* 9. CUSTOM LAYOUT & TYPOGRAPHY (Mummy bear)
 ----------------------------------------------------------------------------------------*/
