@@ -636,7 +636,7 @@ header a {
 }
 
 .formlist{
-padding: 18px 6% 60px 6%;
+padding: 18px 1em 60px 1em;
 	margin: 0 0 35px 0;
 	background: rgb(247, 247, 247);
 	border: 1px solid rgba(147, 184, 189,0.8);
@@ -650,21 +650,23 @@ padding: 18px 6% 60px 6%;
 
 .formemail {
 	margin-top: .5em;
-	padding: 0.3em;
-	display: inline;
-	width: 78%;
+	padding: 0.5em 0 0.5em 0.5em;
+	display: block;
+	width: 97%;
 	font-size: 1em;
 	-moz-border-radius: 5px;
 		 border-radius: 5px;
 }
 .formsubmit {
-	width: 18%;
-	display: inline;
-	background: red;
+	width: 100%;
+	display: block;
+	background: #F94A57;
 	color: white;
 	border: 0px;
 	font-size: 1em;
-	padding: 0.4em;
+	padding: 0.6em;
+	margin-top: 0.5em;
+	font-size: 1.3em;
 	-moz-border-radius: 5px;
 		 border-radius: 5px;
 }
