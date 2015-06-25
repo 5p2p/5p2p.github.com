@@ -1,7 +1,7 @@
 ---
 title: L'inferno non esiste?
 author: Ruvido
-description: Dio è buono &mdash; su questo non ci piove &mdash; ma Dio è anche giudice. La più grande fregatura del cristianesimo fai-da-te? Credere in un Dio buonista (non buono!), uno che ci mette una pezza sopra tanto "non fa niente", tanto "tutto va bene".
+description: Dio è buono &mdash; su questo non ci piove &mdash; ma Dio è anche giudice. La più grande fregatura del cristianesimo fai-da-te? Credere in un Dio buonista (non buono!), uno che ci mette una pezza sopra, tanto "non fa niente", tanto "tutto va bene".
 image: /img/posts/l-inferno-non-esiste.jpg
 ---
 
