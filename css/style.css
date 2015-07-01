@@ -678,6 +678,7 @@ padding: 18px 1em 60px 1em;
 	border-bottom:	1px solid #D7D7D7;
 	background: #D7D7D7;
 	padding: 2em 1em 2em 1em;
+	border-radius: 50%;
 	
 }
 
@@ -691,7 +692,17 @@ padding: 18px 1em 60px 1em;
 
 .post .seguici .center a { 	border-bottom: none;}
 
+.seguici h2 {
+	color: black;
+	padding-top: 0;
+	font-size: 2rem;
+}
 
+.archivio h2 {
+	/*color: black;*/
+	padding-top: 2rem;
+	font-size: 2rem;	
+}
 
 .share_post {
     margin: 2rem auto 2rem auto;
