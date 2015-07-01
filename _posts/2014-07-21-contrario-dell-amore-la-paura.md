@@ -62,3 +62,4 @@ Se ti è piaciuto questo post, condividilo con i tuoi amici e continua a leggere
 - [Quando la strada sembra non ci sia](http://5p2p.it/2014/05/22/le-mie-vie.html)
 - [Piccoli passi possibili verso la gioia](http://5p2p.it/2013/06/12/piccoli-passi-possibili.html)
  
+ PS. San Francesco diceva *il contrario dell'amore è il possesso* ... ed il possesso è quella necessità di controllo che bramiamo a tutti i costi perché fondamentalmente abbiamo **paura** delle difficoltà e delle prove che ci mette di fronte la vita. Questo solo per dire che paura e possesso sono correlate, mantenendo stessa radice e significato.
