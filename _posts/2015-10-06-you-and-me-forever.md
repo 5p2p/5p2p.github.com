@@ -1,6 +1,6 @@
 ---
 title: You and me forever! 10 anni in tre
-author: Alescanca
+author: Alescancx
 image: /img/posts/you-and-me-forever.jpg
 description: Festeggiamo i nostri primi 10 anni di matrimonio! Giorno dopo giorno il Signore ha fuso le nostre vite in una con il sigillo dell'eternità.
 ---
