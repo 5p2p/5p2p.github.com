@@ -1,4 +1,5 @@
 markdown: kramdown
+future: false
 defaults:
   -
     scope:
