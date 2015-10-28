@@ -1,3 +1,4 @@
+timezone: Europe/Rome
 markdown: kramdown
 future: false
 defaults:
