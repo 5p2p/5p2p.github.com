@@ -14,6 +14,8 @@ idump="/Users/ruvido/Dropbox/Writing drafts/5p2p"
 
 myblog=Blogdata.new( idump, iblog )
 
+# change default path for blog images
+myblog.blog_images="#{iblog}/img/posts"
 
 [ myblog.dump_previews, myblog.dump_drafts ].each do |cdir|
 
