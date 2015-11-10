@@ -1,6 +1,6 @@
 ---
 title: 3 passi fondamentali per realizzarsi pienamente nella vita
-author: ruvido
+author: Ruvido
 preview: ok
 ---
 
