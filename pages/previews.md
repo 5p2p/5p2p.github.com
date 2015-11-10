@@ -1,14 +1,10 @@
 ---
 title: Previews
-type: previews
-permalink: previews2/
+permalink: previews/
 ---
 
-    {% for post in site.pages %}
-        {% if post.preview %}
-
-        <div class=""><a href="{{ post.url }}">{{ post.title }}</a></div>
-
-        {% endif %}
-
-    {% endfor %}
+{% for post in site.pages %}
+{% if post.preview %}
+<div class=""><a href="{{ post.url }}">{{ post.title }}</a></div>
+{% endif %}
+{% endfor %}

@@ -16,6 +16,7 @@ myblog=Blogdata.new( idump, iblog )
 
 # change default path for blog images
 myblog.blog_images="#{iblog}/img/posts"
+# myblog.blog_previews="#{iblog}/preview_posts"
 
 [ myblog.dump_previews, myblog.dump_drafts ].each do |cdir|
 
