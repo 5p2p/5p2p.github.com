@@ -22,6 +22,8 @@ myblog.blog_images="#{iblog}/img/posts"
 
   Dir["#{cdir}/{[!_]**/*,*}.md"].each do |ii|
 
+    puts cdir
+
     puts '--------------------------------'
 
 
