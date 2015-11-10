@@ -26,6 +26,7 @@ myblog.blog_images="#{iblog}/img/posts"
     # puts cdir
 
     puts '--------------------------------'
+    puts 'cc'
 
 
     draft=Draft.new(ii,myblog)
