@@ -53,4 +53,5 @@ myblog.blog_images="#{iblog}/img/posts"
 end
 
 # sleep 1
+puts '--------------------------------'
 myblog.push
