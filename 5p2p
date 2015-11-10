@@ -27,18 +27,22 @@ myblog.blog_images="#{iblog}/img/posts"
 
     draft=Draft.new(ii,myblog)
     status = draft.status
-    puts draft.basename, draft.filename, draft.image, status
+    puts draft.basename
+      if draft.image
+        puts draft.image
+      end
+    puts status
 
     case status
     when "publish"
       draft.to_posts
-      puts "file published!"
+      # puts "file published!"
     when "preview"
       draft.missing
       draft.to_previews
       # puts "file sent to previews, want the address?"
     when "draft"
-      puts "keep working on that!"
+      # puts "keep working on that!"
     end    
 
   end
