@@ -20,11 +20,12 @@ myblog.blog_images="#{iblog}/img/posts"
 
 [ myblog.dump_previews, myblog.dump_drafts ].each do |cdir|
 
+    puts '--------------------------------'
+
   Dir["#{cdir}/{[!_]**/*,*}.md"].each do |ii|
 
-    puts cdir
+    # puts cdir
 
-    puts '--------------------------------'
 
 
     draft=Draft.new(ii,myblog)
