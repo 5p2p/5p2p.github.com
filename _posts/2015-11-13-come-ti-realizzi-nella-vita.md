@@ -2,7 +2,7 @@
 <!-- title: 3 passi fondamentali per realizzarsi pienamente nella vita -->
 title: Ma tu, come ti realizzi nella vita?
 author: Ruvido
-image: come-ti-realizzi-nella-vita.jpg
+image: img/posts/come-ti-realizzi-nella-vita.jpg
 publish: ok
 date: 13-11-2015
 slug: come-ti-realizzi-nella-vita
@@ -88,6 +88,7 @@ Il contrario dell'amore non è l'odio — lo diceva don Fabio qualche giorno fa 
 L’amore è un argomento di cui parlano tutti, ognuno a modo proprio. Dal modello cristiano a tendenze più new age, ognuno si sente in dovere di dire la sua in maniera competente o meno. Come orientarsi?
 
 - [L'amore ordinato](http://5p2p.it/2014/02/28/amore-ordinato.html)
+
 Non tutti nascono “imparati” ... ne tutti nascono con la fede. Per quanto mi riguarda il problema non mi toccava affatto ...
 
 - [La mia conversione](http://5p2p.it/2013/10/29/la-mia-conversione.html)
