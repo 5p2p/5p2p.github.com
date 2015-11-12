@@ -7,9 +7,7 @@ description: Così a bruciapelo che diresti? Capire cosa dona vera pienezza alla
 preview: ok
 ---
 
-Per i miei nonni fare centro della vita era "mettere su famiglia" e vivere in maniera dignitosa; per i miei genitori è stato riuscirsi ad elevare da un punto di vista sociale, magari passare da un lavoro di fatica ad un mestiere più elevato o intellettuale. Per la maggior parte di noi invece, questi traguardi sono praticamente scontati, facciamo parte della generazione del benessere e la nostra ossessione è piuttosto **realizzarsi nella vita**, essere felici. Ma cosa vuol dire esattamente?
-
-Tutti la vogliamo acchiappare questa *realizzazione*, fare **ciò che ti piace**, eppure è meno facile di quello che sembra. Per molti la realizzazione passa per lo status sociale, **avere successo**, un buon lavoro ben pagato che ti permetta di fare ciò che vuoi e, perché no, anche un po' di prestigio.
+Per i miei nonni fare centro della vita era "mettere su famiglia" e vivere in maniera dignitosa; per i miei genitori è stato riuscirsi ad elevare da un punto di vista sociale, magari passare da un lavoro di fatica ad un mestiere più elevato o intellettuale. Per la maggior parte di noi invece, questi traguardi sono praticamente scontati, facciamo parte della generazione del benessere e la nostra ossessione è piuttosto **realizzarsi nella vita**, essere felici, fare **ciò che ti piace**. Per molti la realizzazione passa per lo status sociale, **avere successo**, un buon lavoro ben pagato che ti permetta di fare ciò che vuoi e, perché no, anche un po' di prestigio.
 
 Per me l'iter è stato sicuramente questo. Ho avuto una famiglia che mi ha permesso di studiare e di *puntare in alto*. Ho studiato ingegneria e poi fisica, dottorato a Zurigo. Una bella carriera fatta di successi e soddisfazioni. Una sfida continua per andare più in alto, sempre più in alto ... fino a che? Fino a che mi sono ritrovato a vivere qualcosa che non mi apparteneva. Un giorno ho aperto gli occhi e mi sono accorto di correre una gara senza senso. Dov'era la promessa felicità? 
 
@@ -24,7 +22,7 @@ Tutte belle ambizioni per carità ... ma fermiamoci un momento, quanti medici "r
 
 Ecco l'inganno della nostra vita: voler realizzare progetti &mdash;i nostri progetti&mdash; piuttosto che **amare è lasciarsi amare**.
 
-Il nocciolo del discorso qui non è se è meglio fare il medico, lo scienziato o il muratore. Ma vivere tutta la nostra vita come una *chiamata all'amore*. Capire e realizzare che **ogni vita è vocazione**, che siamo stati pensati da sempre per un progetto d'amore. Progetto che solo noi con la nostra particolare sensibilità, vissuto ed intelligenza possiamo pienamente realizzare: se non lo fai tu quello a cui sei chiamato, non lo realizzerà nessuno a posto tuo. **Sei un pezzo unico**, sallo. Come mi disse una cara amica che di bordelli ne aveva fatti tanti: *"la tua vocazione è quel luogo dove puoi amare totalmente e sentirti amata totalmente"* ([ecco il video](http://5p2p.it/2014/11/18/la-mia-vita-e-vocazione.html)). Ecco punta a questo, investi sull'amore.
+Il nocciolo del discorso qui non è se è meglio fare il medico, lo scienziato o il muratore. Ma vivere tutta la nostra vita come una *chiamata all'amore*. Capire e realizzare che **ogni vita è vocazione**, che siamo stati pensati da sempre per un progetto d'amore. Progetto che solo noi con la nostra particolare sensibilità, vissuto ed intelligenza possiamo pienamente realizzare: se non lo fai tu quello a cui sei chiamato, non lo realizzerà nessuno a posto tuo. **Sei un pezzo unico**, sallo. Come mi disse una cara amica che di bordelli ne aveva fatti tanti: *"la tua vocazione è quel luogo dove puoi amare totalmente e sentirti amata totalmente"* ([ecco il video](http://5p2p.it/2014/11/18/la-mia-vita-e-vocazione.html)). Punta a questo, investi sull'amore.
 
 Lascia perdere *dove ti porta il cuore*.
 
@@ -42,9 +40,9 @@ Parti dal centro. Parti dal tuo creatore, da colui che ti ha pensato da sempre, 
 
 Insieme al suo amore e alla sua misericordia il Signore ci dona la nostra vocazione: il luogo dell'amore e della relazione con Dio e con gli altri. Sei frutto di un gesto d'amore, *non sei un ripensamento*, un after-thought. Non sei sbagliato. E se ci sono dei problemi nella tua vita c'è un motivo anche per quelli. Forse non lo vedi ... o non lo vuoi vedere. A volte è dura ma "*ognuno è chiamato a compiere qualcosa nella sua condizione*". Giastin ne era convinta: bella o brutta, sano o malato, sempre qualcosa sei chiamato a compiere. Ecco ti annuncio una grande gioia: **fallo.**
 
-- [Giastin, il sorriso di Dio](https://www.youtube.com/watch?v=7-ho8TwNMc4)
-
 **Tu sei fatto come un prodigio**, il Signore non si è sbagliato. Non importa se hai il naso a patata o il culo che fa provincia, il Signore ti ha desiderato fin dal principio così come sei. Il tuo corpo va bene anche se non è scolpito come un bronzo di Riace perché nella vita **l'unico muscolo che serve veramente è quello dell'amore**, tutto il resto è vanità.
+
+- [Giastin, il sorriso di Dio](https://www.youtube.com/watch?v=7-ho8TwNMc4)
 
 ### 3. Amare gli altri
 
@@ -56,7 +54,7 @@ Nel secondo caso invece, tutto parte dal Signore. **Il progetto è di Dio.** Tu 
 
 Ma non farti fregare.
 
-Non sulle tue forze ma sulle Sue. È Gesù che ce lo insegna chiaro chiaro:
+**Non sulle tue forze** ma sulle Sue. È Gesù che ce lo insegna chiaro chiaro:
 
 > Il mio giogo infatti è dolce e il mio carico leggero. <cite>Mt11,30</cite>
 
