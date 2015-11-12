@@ -4,6 +4,8 @@ title: Ma tu, come ti realizzi nella vita?
 author: Ruvido
 image: come-ti-realizzi-nella-vita.jpg
 preview: ok
+date: 13-11-2015
+slug: come-ti-realizzi-nella-vita
 description: Così a bruciapelo che diresti? Capire cosa dona vera pienezza alla nostre esistenze, sembra affare davvero complesso. Infatti, seguendo i consigli comuni mi sono ritrovato a girare a vuoto per anni. Eppure, ci sono tre punti cardinali per fare centro e senza errore. Deluso dalle promesse che ti sono state fatte? Continua a leggere.
 ---
 
