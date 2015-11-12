@@ -3,8 +3,8 @@
 title: Ma tu, come ti realizzi nella vita?
 author: Ruvido
 image: come-ti-realizzi-nella-vita.jpg
-description: Così a bruciapelo che diresti? Capire cosa dona vera pienezza alla nostre esistenze, sembra affare davvero complesso. Infatti, seguendo i consigli comuni mi sono ritrovato a girare a vuoto per anni. Eppure, ci sono tre punti cardinali per fare centro e senza errore. Deluso dalle promesse che ti sono state fatte? Continua a leggere.
 preview: ok
+description: Così a bruciapelo che diresti? Capire cosa dona vera pienezza alla nostre esistenze, sembra affare davvero complesso. Infatti, seguendo i consigli comuni mi sono ritrovato a girare a vuoto per anni. Eppure, ci sono tre punti cardinali per fare centro e senza errore. Deluso dalle promesse che ti sono state fatte? Continua a leggere.
 ---
 
 Per i miei nonni fare centro della vita era "mettere su famiglia" e vivere in maniera dignitosa; per i miei genitori è stato riuscirsi ad elevare da un punto di vista sociale, magari passare da un lavoro di fatica ad un mestiere più elevato o intellettuale. Per la maggior parte di noi invece, questi traguardi sono praticamente scontati, facciamo parte della generazione del benessere e la nostra ossessione è piuttosto **realizzarsi nella vita**, essere felici, fare **ciò che ti piace**. Per molti la realizzazione passa per lo status sociale, **avere successo**, un buon lavoro ben pagato che ti permetta di fare ciò che vuoi e, perché no, anche un po' di prestigio.
