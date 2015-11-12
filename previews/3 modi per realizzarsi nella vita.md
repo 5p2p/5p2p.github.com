@@ -36,13 +36,13 @@ Ecco i tre cardini.
 
 Parti dal centro. Parti dal tuo creatore, da colui che ti ha pensato da sempre, che ti ha creato per un gesto puramente d'amore. Che ti ha redento attraverso suo figlio Gesù Cristo. Che ti ha inviato lo Spirito Santo affinché tu potessi discernere la tua vita alla luce della Sua volontà; affinché tu potessi andare oltre le tue conoscenze e capacità. C'è da riconoscersi sue creature, riconoscere che nostro obiettivo nella vita è proprio Lui. Non un cercarlo *così poi* quella relazione andrà meglio, *così poi* il lavoro andrà meglio. **Lui è il fine, non il mezzo.** Conoscerlo, incontrarlo, ascoltare la sua voce e lasciarsi amare. Ecco si parte dallo stare fermi, dal farsi abbracciare da questo amore. In effetti non c'è niente da *fare*, c'è da accogliere, c'è da svuotarsi delle nostre aspettative su noi stessi e su di Lui. C'è da spendere del tempo con Lui. Come quando vai al mare e ti sbrachi a prendere il sole, fai lo stesso col Signore. Fatti abbronzare dal Signore, ecco la preghiera che devi fare.
 
-- Vedi anche [La preghiera quotidiana](http://5p2p.it/2015/08/07/La-preghiera-quotidiana.html)
+- [La preghiera quotidiana](http://5p2p.it/2015/08/07/La-preghiera-quotidiana.html)
 
 ### 2. Amare se stessi
 
 Insieme al suo amore e alla sua misericordia il Signore ci dona la nostra vocazione: il luogo dell'amore e della relazione con Dio e con gli altri. Sei frutto di un gesto d'amore, *non sei un ripensamento*, un after-thought. Non sei sbagliato. E se ci sono dei problemi nella tua vita c'è un motivo anche per quelli. Forse non lo vedi ... o non lo vuoi vedere. A volte è dura ma "*ognuno è chiamato a compiere qualcosa nella sua condizione*". Giastin ne era convinta: bella o brutta, sano o malato, sempre qualcosa sei chiamato a compiere. Ecco ti annuncio una grande gioia: **fallo.**
 
-- Vedi anche [Giastin, il sorriso di Dio](https://www.youtube.com/watch?v=7-ho8TwNMc4)
+- [Giastin, il sorriso di Dio](https://www.youtube.com/watch?v=7-ho8TwNMc4)
 
 **Tu sei fatto come un prodigio**, il Signore non si è sbagliato. Non importa se hai il naso a patata o il culo che fa provincia, il Signore ti ha desiderato fin dal principio così come sei. Il tuo corpo va bene anche se non è scolpito come un bronzo di Riace perché nella vita **l'unico muscolo che serve veramente è quello dell'amore**, tutto il resto è vanità.
 
@@ -50,7 +50,7 @@ Insieme al suo amore e alla sua misericordia il Signore ci dona la nostra vocazi
 
 Una volta che hai curato la tua relazione con Dio e che ti sei riconosciuto/a creatura di Dio, figlio amato e desiderato, allora il tuo cuore colmo d'amore può rivolgersi agli altri. Questa è la differenza tra la *crocerossina incallita* ed il cristiano. Nel primo caso, si parte per salvare il mondo **con le proprie forze**, secondo un tuo progetto, si combattono le ingiustizie, e si trasforma la propria vita in una crociata contro il male. 
 
-- Vedi anche [Donne per vocazione, crocerossine per natura](http://5p2p.it/2014/10/15/crocerossine-per-natura.html)
+- [Donne per vocazione, crocerossine per natura](http://5p2p.it/2014/10/15/crocerossine-per-natura.html)
 
 Nel secondo caso invece, tutto parte dal Signore. **Il progetto è di Dio.** Tu sei semplicemente il braccio, Lui la mente. Non segui un tuo ideale di giustizia, ma semplicemente rispondi alla tua vocazione che è la tua personale chiamata all'amore. Sei la penna di Dio come dice Madre Teresa di Calcutta, è Lui che scrive dritto sulle righe storte. Lui parla, tu rispondi. Sarà nel mettersi a servizio che troverai la vera pace &mdash;*la realizzazione nella vita*&mdash; diventare ultimo piuttosto che primo perché lì c'è la vera ricompensa, quella che ti aspetta da sempre. 
 
@@ -68,7 +68,7 @@ Buon cammino.
 
 ---
 
-Altri articoli sul cammino
+### Altri articoli sul cammino
 
 ---
 
