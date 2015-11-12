@@ -2,7 +2,7 @@
 <!-- title: 3 passi fondamentali per realizzarsi pienamente nella vita -->
 title: Ma tu, come ti realizzi nella vita?
 author: Ruvido
-<!-- image: img/posts/come-ti-realizzi-nella-vita.jpg -->
+image: come-ti-realizzi-nella-vita.jpg
 description: Così a bruciapelo che diresti? Capire cosa dona vera pienezza alla nostre esistenze, sembra affare davvero complesso. Infatti, seguendo i consigli comuni mi sono ritrovato a girare a vuoto per anni. Eppure, ci sono tre punti cardinali per fare centro e senza errore. Deluso dalle promesse che ti sono state fatte? Continua a leggere.
 preview: ok
 ---
