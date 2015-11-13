@@ -2,7 +2,7 @@
 <!-- title: 3 passi fondamentali per realizzarsi pienamente nella vita -->
 title: Ma tu, come ti realizzi nella vita?
 author: Ruvido
-image: img/posts/come-ti-realizzi-nella-vita.jpg
+image: /img/posts/come-ti-realizzi-nella-vita.jpg
 publish: ok
 date: 13-11-2015
 slug: come-ti-realizzi-nella-vita
