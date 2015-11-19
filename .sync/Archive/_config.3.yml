@@ -1,0 +1,9 @@
+timezone: Europe/Rome
+markdown: kramdown
+future: false
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"

@@ -1,0 +1,13 @@
+*.DS_Store
+*.swp
+_site
+*.BAK
+*.bak
+*.readme
+_extra/*
+videos/*
+img/posts/_originals
+mailinglist/mailinglist.csv
+*matrimoni*.txt
+archivio_matrimoni
+_studio
