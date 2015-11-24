@@ -42,7 +42,7 @@ myblog.blog_images="#{iblog}/img/posts"
       # puts "file published!"
     when "preview"
       draft.missing
-      # draft.to_previews
+      draft.to_previews
       # puts "file sent to previews, want the address?"
     when "draft"
       # puts "keep working on that!"

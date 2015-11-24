@@ -2,7 +2,7 @@
 title: Islam
 description: Il migliore amico di mio figlio è un piccolo bambino mussulmano con cui va insieme all'asilo. Viene da una famiglia che vive la fede in maniera profonda e vera. Sono due ragazzi come noi. Entrambi colpiscono per il loro amorevole abbandono a Dio. Stando insieme a loro, ecco cosa ho capito dell'Islam.
 author: Ruvido
-image: islam.jpg
+image: /img/posts/islam.jpg
 preview: ok
 ---
 
