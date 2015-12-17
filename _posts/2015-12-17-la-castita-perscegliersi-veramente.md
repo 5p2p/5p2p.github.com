@@ -6,6 +6,7 @@ image: /img/posts/la-castita-perscegliersi-veramente.jpg
 permalink: la-castita-perscegliersi-veramente/
 ---
 
+
 Voglio provare a descrivere la mia esperienza di fidanzamento casto, e mi piacerebbe che anche altri lo facessero, perché in questo periodo si parla molto di famiglia sotto attacco, di matrimoni che si sfasciano in tempi record, di giovani che non credono più nel “per sempre”,  ma qualcuno pensa al fidanzamento? Qualcuno pensa ad accompagnare i giovani in questa tappa così importante? E a vivere questo tempo ponendosi come principale meta la conoscenza del partner per poter maturare insieme la scelta di creare una famiglia? 
 
 **Il fidanzamento è tempo fondamentale ed insostituibile per la conoscenza dell’altro/a** ed è da qui che bisogna cominciare a poggiare “la casa sulla roccia”,  non dal matrimonio, dove già quantomeno le fondamenta devono essere più o meno salde. (Sono sposato da circa tre mesi, e parlare di vita familiare ancora mi viene difficile, per ora posso solo dire: buttatevi con coraggio in questa splendida Vocazione!).
