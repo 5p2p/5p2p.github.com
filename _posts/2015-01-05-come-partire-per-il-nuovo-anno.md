@@ -38,7 +38,7 @@ Il Signore Gesù, che è Dio, è una persona, entra in relazione con Lui pregand
 
 ---
 
-Come ogni cosa che trovate su 5pani2pesci, questi pensieri sono frutto della mia personale esperienza e rappresentano ciò che la relazione col Signore ha suscitato nel mio cuore. Quello che *non* sono invece è una semplice formula per la felicità, un programma teorico per il nuovo anno. Tutto questo è stato vissuto, sperimentato, provato sulla mia pellaccia ... buon 2015.
+Come ogni cosa che trovate su 5pani2pesci, questi pensieri sono frutto della mia personale esperienza e rappresentano ciò che la relazione col Signore ha suscitato nel mio cuore. Quello che *non* sono invece è una semplice formula per la felicità, un programma teorico per il nuovo anno. Tutto questo è stato vissuto, sperimentato, provato sulla mia pellaccia ... buon inizio!
 
 ---
 
