@@ -2,7 +2,7 @@
 title: Lettera per donne in attesa dell'amato
 author: Ruvido
 description: Sono sempre stato convinto che il successo di una storia d'amore dipendesse da molti fattori incontrollabili, spesso decisi dal caso. In seguito ho capito che le cose non stavano proprio così, e soprattutto, che una storia d'amore si costruisce già molto prima di incontrare l'amata!
-image:
+image: /img/posts/lettera-per-donne-in-attesa-dell-amato.jpg
 permalink: /lettera-per-donne-in-attesa-dell-amato
 ---
 
