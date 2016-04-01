@@ -1,9 +1,10 @@
 ---
-title: Lettera per donne in cerca dell'amato
+title: Lettera per donne in attesa dell'amato
 author: Ruvido
 description: Sono sempre stato convinto che il successo di una storia d'amore dipendesse da molti fattori incontrollabili, spesso decisi dal caso. In seguito ho capito che le cose non stavano proprio così, e soprattutto, che una storia d'amore si costruisce già molto prima di incontrare l'amata!
 image:
-permalink: /lettera-per-donne-in-cerca-dell-amato
+permalink: /lettera-per-donne-in-attesa-dell-amato
+date: 04-04-2016
 ---
 
 In questi giorni mi sono ritrovato a meditare il libro di Rut. Il cuore di questo racconto è la bellezza di questa donna, Rut, che è capace di amare, non abbandona la suocera Noemi che sarebbe destinata ad una vita di fame. Una donna che è capace ad abbandonare la sua terra (moab) per partire con lei. Si mette a disposizione, è generosa, caparbia, intelligente. È una donna che si dona tutta. Nel suo dono di se, a Betlemme andrà a *spigolare* nei campi (cioè a raccogliere cio' che rimane per terra del raccolto) per far mangiare lei e Noemi. Sarà proprio in questo gesto di estrema umiltà e generosità che Booz, il proprietario del campo, la noterà. Rut da prova di essere una donna sorprendentemente matura, **capace di amare**. Queste saranno le sue credenziali per far esplodere l'amore nel cuore di Booz.
