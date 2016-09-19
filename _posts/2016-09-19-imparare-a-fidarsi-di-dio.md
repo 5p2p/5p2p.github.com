@@ -4,7 +4,6 @@ author: Ruvido
 permalink: imparare-a-fidarsi-di-dio
 image: /img/posts/imparare-a-fidarsi-di-dio.jpg
 description: A volte capita di seguire il Signore per tanti anni, per poi rendersi conto un giorno &mdash;che in fondo&mdash; non Lui stiamo seguendo, ma i nostri progetti. La fiducia in Lui cresce un passetto alla volta, passando dalla paura alla pazienza, lasciandoGli spazio e decidendosi per il Santo Viaggio.
-published: false
 ---
 
 Ieri sera sono rimasto per un po' nel letto a pensare. Le giornate scorrono veloci e senza che me ne renda conto, una nuova vita è ormai iniziata. È dal 2002 che sono fuori e quasi 14 anni in giro per l'europa si sentono. Luoghi diversi, pensieri e modi di vivere a volte opposti a quelli che sto incontrando qui a Sant'Arcangelo, in questo piccolo (ma veramente piccolo e solitario) angolo di mondo. Eppure in tutto questo, c'è un filo conduttore, una linea guida. Mi ricordo cosa mi disse in uno dei nostri primi incontri fra Max. Mi risuona forte nel cuore: 
