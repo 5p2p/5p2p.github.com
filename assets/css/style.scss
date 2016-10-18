@@ -1,0 +1,289 @@
+---
+# sass stuff
+---
+
+// Color palette
+$key_color:    #DF3C2B; //#0D83AF; //#00d7ff;
+$key_color_light: #F5C1AB;
+$button_color: #3498db;
+$text_color_inverse: #2c3e50;
+$text_color: white; //#ecf0f1;
+
+// Sizing
+$max-width: 600px;
+$font-size: 1.2rem;
+$bigger_break: 600px;
+
+// Typography
+
+// Basic Elements
+html {
+  font-family: 'Source Sans Pro', sans-serif;
+  // font-family: "Roboto", sans-serif;
+  height: 100%;
+}
+
+body{
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: $key_color;
+  color: $text_color
+}
+
+header {
+  // height: 3rem;
+  background-color: $key_color;
+  text-align: center;
+  margin-bottom: 2rem;
+  img{
+    width: 100%;
+    max-width: 600px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+
+footer {
+  // margin-top: 10rem;
+  background-color: $key_color;
+  height: 10rem;
+}
+
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+p {
+  font-size: $font-size;
+  line-height: 1.7;
+  padding-bottom: 0.6rem;
+}
+
+h1,h2,h3,h4 {
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 2rem;
+  padding: 2rem 0 1rem 0;
+}
+h3 {
+  font-size: 1.2rem;
+  padding: 1rem 0 0.5rem 0;
+}
+
+h4 {
+  font-size: 1.0rem;
+  padding: 0;
+}
+// Custom stuff
+
+a {
+  // font-weight: bold;
+  text-decoration: none;
+  border-bottom: 1px dashed;
+  color: inherit;
+}
+
+a:hover {
+  border-bottom: 0px;
+}
+
+span.btn, input.btn {
+  display: block;
+  width: 6rem;
+  text-align: center;
+  padding: 0.4rem 0.6rem;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: $button_color;
+  border-radius: 4px;
+  box-shadow: 0.1px 0.1px 2px $key_color_light;
+  color: white;
+}
+
+input.btn.btn-10-wide {
+  width: 10rem;
+}
+
+form input.btn {
+  margin-top: 2rem;
+  font-size: 1rem;
+}
+
+a span.btn {
+  color: white;
+}
+
+a span.btn:hover, input.btn:hover {
+  background-color: #2980b9;
+}
+
+.center-text{
+  text-align: center;
+}
+
+.landing{
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  img {
+    // padding-top: 4rem;
+    // width: 100%;
+    // max-width: $max-width;
+    max-height: 70%;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+  }
+}
+
+.no-text-decoration {
+  text-decoration: none;
+  border-bottom: 0px;
+  a {
+    text-decoration: none;
+    border-bottom: 0px;
+  }
+}
+.margin-auto{
+  margin: 0 auto;
+}
+
+.padding-1-right{padding-right: 0.4rem;}
+.small-text{font-size: 0.8rem;}
+.float-left{float: left;}
+.float-right{float: right;}
+.margin-top-3 {margin-top: 3rem;}
+.margin-bottom-05 {margin-bottom: 0.5rem;}
+.height-3 {height: 3rem;}
+
+.box {
+  text-align: center;
+  width: 70%;
+  // padding: 1rem 2rem;
+  padding-top: 0.6rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-radius: 6px;
+}
+
+.margin-auto.box {
+  margin: 1rem auto;
+}
+
+.light {
+  background-color: white;
+  color: $text_color_inverse;
+}
+
+.max-width {
+  max-width: $max-width;
+}
+
+
+.test {background-color: green;}
+
+.padding-2-side {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.padding-2-bottom{
+  padding-bottom: 2rem;
+}
+
+.light-section {
+  color: $text_color_inverse;
+  background-color: white;
+}
+
+#content {
+  flex: 1;
+  margin-bottom: 2rem;
+  // padding: 0 2rem;
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-color: #DDDDDD;
+  margin: 2rem auto;
+  // width: 80%;
+}
+
+label {
+  line-height: 1.8rem;
+}
+input, select, textarea{
+  font-size: 14px;
+  line-height: 1.6rem;
+  border: 1px solid #CCC;
+  padding: 5px 0px 5px 5px;
+  width: 70%;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px; 
+}
+
+nav {display: none;}
+
+.btn-primary {
+  width: 12rem;
+}
+
+.hidden {display: none;}
+
+#success {
+  // color:hsla(127, 63%, 15%, 1.0);
+  // background-color: #2ECC40;
+  background-color: #FFDC00;
+  // background-color: #01FF70;
+  border-radius: 0.5rem;
+  padding: 2rem;
+  font-weight: bold;
+  p {font-size: 1rem;}
+  h3 {padding-top: 0; line-height: 1.6;}
+}
+
+#alert {
+  text-align: right;
+  // padding: 1rem;
+  p {
+    font-size: 1rem;
+    padding-bottom: 0.4rem;
+    color: #FF4136;
+  }
+}
+
+// -----------------------------------------------------------
+
+@media all and (min-width: $bigger_break) {
+  .negative-space-big-screen{margin-top: 0rem;}
+  nav {
+    display: block;
+    width: 100%;
+    height: 4rem;
+    line-height: 8rem;
+    background-color: $key_color;
+    z-index: 100;
+    position: absolute;
+    padding-bottom: 2rem;
+    top: 0;
+    span{
+      padding-left: 2rem;
+    }
+  }
+}
+// -----------------------------------------------------------
+
+// @media all and (min-width: $biggest_break) {
+
+// }
