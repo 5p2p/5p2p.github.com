@@ -9,7 +9,7 @@ Mancano nove giorni all'inizio del corso [L'amore chiama, l'amore è urgente](ht
 
 Rispetto all'edizione precedente di Torino sono [cambiate un po' di cose](http://5p2p.it/dove-lui-ci-indichera) nella nostra vita. A volte abbiamo sbandato, perdendo di vista il centro della nostra chiamata, altre volte siamo stati coccolati da un Dio che ci vuole bene, altre ancora abbiamo desiderato con tutto il cuore di continuare a volare alto. Tempi intensi amici!
 
-Tante persone sono al lavoro per questo corso. È quasi tutto pronto, mancano di provare i microfoni e qualche altra cosetta che deve arrivare per posta, ma adesso c'è la cosa più importante da fare:
+Tante persone sono al lavoro per questo corso. È quasi tutto pronto, manca provare i microfoni e qualche altra cosetta che deve arrivare per posta, ma adesso c'è la cosa più importante da fare:
 
 ### Fermarsi, mettersi in ginocchio e pregare!!!
 

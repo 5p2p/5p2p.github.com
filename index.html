@@ -1,7 +1,7 @@
 ---
 layout: index
 title:  5pani2pesci | Avventure di provvidenza quotidiana
-permalink: blog/
+<!-- permalink: blog/ -->
 ---
 
 		{% for post in site.posts limit:8 %}
@@ -14,11 +14,11 @@ permalink: blog/
 			<a href="{{post.url}}">
 			<section class='post-abstract'>
 
-			
+
 				<!-- p>{{ post.content | strip_html | truncatewords: 30 }}</p -->
 				<p>{{ post.description }}</p>
-			
-			
+
+
 			</section>
 		</a>
 		</article>
@@ -26,4 +26,3 @@ permalink: blog/
 		{% endfor %}
 
 		<a href="{{site.baseurl}}/archivio.html" class="buttonize dark">Tutti gli articoli >></a></li>
-		
