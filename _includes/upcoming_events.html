@@ -1,0 +1,67 @@
+<style>
+#events {
+  margin: 1rem 0;
+  padding-top: 1rem;
+  border-top: 1px solid #ecf0f1;
+}
+.events.header {
+  font-weight: bold;
+  text-align: left;
+  font-size: 2rem;
+  padding: 1rem 0;
+}
+.event{
+  margin: 0 0 2rem 0;
+}
+.event a {border: 0; color: red;}
+.event p {
+  margin: 0; padding:0;
+  margin-top: 0.4rem;
+}
+.event.date {
+  margin: 0; padding:0;
+  font-size: 1.4rem;
+  text-align: left;
+  font-family:	'Raleway', sans-serif;
+  font-weight:	100;
+}
+h2.event.title{
+  margin: 0; padding:0;
+  font-size: 1.6rem;
+}
+</style>
+
+
+
+<section id="events">
+  {% assign today = site.time | date: '%s' %}
+
+  <header class="events header">Prossimi eventi!</header>
+
+  {% for event in site.events reversed %}
+
+    {% assign someday = event.when | date: '%s' %}
+    {% if someday >= today %}
+
+    <article class="event">
+      <a "event " href="{{event.exturl}}">
+        {% if event.image %}
+          <img style="width:100%" src="{{event.image}}" alt="{{event.title}}">
+        {% endif %}
+        <h2 class="event title">{{event.title}}</h2>
+      </a>
+      {% if event.range %}
+      {% assign start = event.range[0] | date: '%d/%m' %}
+      {% assign stop = event.range[1] | date: '%d/%m' %}
+      <div class=""><b>Quando:</b> dal {{start}} al {{stop}}</div>
+      {% else %}
+        <div class=""><b>Quando:</b> {{event.when | date: "%d/%m/%Y, ore %H:%M"}}</div>
+      {% endif %}
+      <div><b>Dove:</b> {{event.where}}</div>
+      <p>{{event.content}}</p>
+    </article>
+
+    {% endif %}
+  {% endfor %}
+
+</section>
