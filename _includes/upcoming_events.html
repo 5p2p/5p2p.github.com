@@ -58,7 +58,12 @@ h2.event.title{
         <div class=""><b>Quando:</b> {{event.when | date: "%d/%m/%Y, ore %H:%M"}}</div>
       {% endif %}
       <div><b>Dove:</b> {{event.where}}</div>
-      <p>{{event.content}}</p>
+      <div><b>Iscrizioni:</b> {{event.registration}}</div>
+
+      <p style="padding-top: 0.2rem;">
+        {{event.content | markdownify }}
+      <p>
+
     </article>
 
     {% endif %}
