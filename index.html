@@ -1,8 +1,27 @@
 ---
 layout: index
 title:  5pani2pesci | Avventure di provvidenza quotidiana
-<!-- permalink: blog/ -->
+featured:
+  show: true
+  title: "L'amore chiama! L'amore è urgente!"
+  image: /img/events/2017-03-17-sorrento.png
+  url: http://5p2p.it/l-amore-chiama-l-amore-e-urgente
+  text: "<strong>Iscrizioni aperte!</strong> 17-19 Marzo, Sorrento (NA)"
 ---
+		{% if page.featured.show %}
+		<div class="featured-box">
+			<div class="banner">Iscriviti</div>
+			<article class="post">
+				<!-- <a href="/{{post.author}}.html"><h2>{{post.author}}</h2></a> -->
+				<a href="{{page.featured.url}}"><h1>{{page.featured.title}}</h1></a>
+				<a href="{{page.featured.url}}">
+				<section class='post-abstract'>
+					<p>{{page.featured.text}}</p>
+				</section>
+			</a>
+			</article>
+		</div>
+		{% endif %}
 
 		{% for post in site.posts limit:8 %}
 

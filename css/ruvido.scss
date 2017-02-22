@@ -16,3 +16,20 @@
   margin-top: 2rem;
   font-size: 0.8rem;
 }
+
+.featured-box {
+  padding: 0.6rem 1rem 0.1rem 1rem;
+  background-color: #ecf0f1;
+  border-radius: 5px;
+  // background-color: #e74c3c; //#1abc9c;
+}
+.banner{
+  text-transform: uppercase;
+  background-color: #e74c3c; //#1abc9c;
+  border-radius: 6px;
+  color: white;
+  font-size: 0.7rem;
+  padding: 0.0rem 0.6rem;
+  display: inline-block;
+  margin: 0.6rem 0 1rem 0;
+}

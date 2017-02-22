@@ -1,0 +1,2 @@
+mv _posts _posts-tmp
+mv _posts-dev _posts
