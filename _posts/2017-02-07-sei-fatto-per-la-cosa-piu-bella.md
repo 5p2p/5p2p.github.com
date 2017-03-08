@@ -59,6 +59,8 @@ Questo ho capito.
 
 Abbandonare il campo ed incominciare a scegliere seguendo **la cosa più bella**. Una provvidenza che assolutamente _non è_ uno sbracarsi al sole aspettando che piovano polpette —_Chi non vuol lavorare neppure mangi! (2Ts3,10)_— ma un atto di fiducia a chi sa bene cosa è il meglio per la tua vita.
 
+>  Cercate prima il regno di Dio e la sua giustizia, e tutte queste cose vi saranno date in aggiunta. <cite>Mt6,33</cite>
+
 E quindi ora ho il lavoro fisso e ben pagato? La casa di proprietà? E quindi ora passo 300 giorni all'anno in spiaggia? No di certo! Lo stipendio è molto più basso! La precarietà è aumentata! E quest'anno non mi sono fatto neanche un giorno di mare!
 
 Eppure è arrivata la Pace. La Fiducia. La Gioia. Lavoro tutto il giorno, viaggio tantissimo e la sera prima delle 10.00 sono un cadavere. Tutto questo lavoro e questa fatica però invece di togliere energie, me ne danno sempre di più. È un fuoco che arde e non si consuma perchè è una fatica piena, una stanchezza benedetta, una gioia profonda.
