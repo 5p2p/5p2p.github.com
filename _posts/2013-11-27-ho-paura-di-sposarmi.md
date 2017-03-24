@@ -7,7 +7,7 @@ title: Ho paura di sposarmi
 ![](/img/posts/lego.jpg)
 
 
-##"Il matrimonio è la tomba dell'amore" direbbero molti. Ma perchè ti sposi? Chi te lo fa fare? Sei giovane! Divertiti! Perché ti vuoi mettere addosso tutte queste responsabilità? Goditi la vita! Non capisci quante rinunce con i figli, niente più libertà ma poi, soprattutto, non finirai gli studi!!!
+## "Il matrimonio è la tomba dell'amore" direbbero molti. Ma perchè ti sposi? Chi te lo fa fare? Sei giovane! Divertiti! Perché ti vuoi mettere addosso tutte queste responsabilità? Goditi la vita! Non capisci quante rinunce con i figli, niente più libertà ma poi, soprattutto, non finirai gli studi!!!
 
 Quante volte mi sono sentita dire queste parole e tutte le volte le ho sentite vere solo a metà. Dentro di me ho sempre provato dispiacere per chi le diceva perché forse loro stessi avevano avuto un'esperienza del genere, un matrimonio-galera opprimente. A me però mi è stato annunciato anche altro e questo altro mi dava una gioia grande in cui trovavo una verità profonda.
 Il matrimonio secondo me è la tomba dell'amore di amore che era già morto perché non posso credere che stare insieme sul divano la sera e lavare i suoi calzini puzzolenti di fine giornata faccia finire l'amore! Forse quello che si chiamava "amore" era solo un'abitudine, lo stare insieme da dieci anni, una routine difficile da cambiare perché costringeva a ricominciare tutto da capo e ad ammettere un fallimento; oppure era solo la condivisione di un interesse che poi con una pancia da nono mese non puoi più fare o forse soltanto l'illusione (e [in questo noi donne siamo campionesse mondiali](http://5p2p.it/2013/04/30/donne-filmmaker.html)) del principe azzurro che poi però si è trasformato in ranocchio quando gli hai messo un anello al dito.
@@ -20,10 +20,10 @@ Non ho mai provato la sensazione di aver rinunciato a qualcosa perché ero sposa
 Quando sento frasi del tipo "Divertiti! Sei giovane!" penso che bisogna prenderle alla lettera nel senso di: "Divertiti! Fai cose grandi! Hai il mondo in mano perché sei giovane, non lo sprecare per andare in discoteca una volta a settimana, fai cose più grandi, fai il massimo!!!".
 Io, in otto anni di matrimonio, mi sono molto più che divertita: abbiamo fatto scelte coraggiose, abbiamo viaggiato molto, imparato molte lingue, quanto abbiamo riso quando mi hanno chiuso il conto in banca in Francia perché ho detto una parola sbagliata!, abbiamo scoperto nuovi interessi insieme, siamo ritornati bambini con i nostri figli, grazie a loro ho imparato a usare lo slittino, abbiamo conosciuto tante persone di tante nazioni, abbiamo affrontato crisi matrimoniali difficili, ci siamo rialzati, abbiamo lasciato tutto, abbiamo ricominciato mille volte, insomma, tante avventure che insieme sono diventate belle il doppio e poi, giusto perché mio marito mi prende in giro che lo scrivo ovunque, fra due settimane mi laureo pure!
 
-Ma tu che paura hai? Perché non ti sposi? A che punto state nella vostra relazione? Verso cosa state andando? Di cosa hai paura? 
+Ma tu che paura hai? Perché non ti sposi? A che punto state nella vostra relazione? Verso cosa state andando? Di cosa hai paura?
 
 L'unica paura sana da avere è quella di perdersi in tante cose, magari anche sante e belle, ma non fare mai centro, non arrivare mai a quella gioia profonda. Un'altra santa paura è che il matrimonio non sia la tua vocazione e che la persona che ti sta accanto non fa per te, non ha voglia di fare cose grandi, cose da Dio, non fa sul serio, tira avanti finchè dura, vivacchia e si lascia vivere.
-Ma allora chi stai ascoltando? La paura o la Verità? 
+Ma allora chi stai ascoltando? La paura o la Verità?
 
 ---
 Altri articoli correlati:
