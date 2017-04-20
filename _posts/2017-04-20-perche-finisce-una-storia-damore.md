@@ -9,6 +9,7 @@ description: "Sembra che l'amore va e viene, per quanto si lotti per mantenerlo,
 
 Su una cosa forse saremo tutti d'accordo: [l'amore è difficile](http://5p2p.it/2015/01/27/stare-insieme-e-difficile.html). Non intendo solo la questione _amare_ ma proprio tutto il pacchetto completo dell'amore, **vivere una storia d'amore è difficile**. È fatto di decisioni complesse che spesso hanno a che vedere sia con il passato che con il futuro della nostra storia personale, e soprattutto mi mettono davanti ad uno dei più grandi paradossi che l'uomo abbia mai dovuto affrontare: l'altro!
 
+
 Se ti piacciono i rompicapi, lascia stare il sudoku o la settimana enigmistica, cerca di capire il tuo partner e ne avrai per tutta la vita! Scoprire cosa piace all'altro, renderlo felice, capendo in profondità quelle che sono le sue vere esigenze, è un rompicapo che a volte ha del paradossale.
 
 E se stai pensando alla [compatibilità di carattere](http://5p2p.it/per-incompatibilita-di-carattere), caschi male. Come dice mia moglie, **l'amore è una sfida ed una occasione** per uscire da noi stessi, per incontrare l'altro e così finalmente divenire uomini e donne maturi! Quindi ... il discorso compatibilità non convince.
