@@ -2,7 +2,8 @@
 #events {
 }
 .events.header {
-  display: none;
+  display: block;
+  /*display: none;*/
 }
 .events.header:first-of-type {
   margin: 1rem 0;
@@ -61,7 +62,10 @@ h2.event.title{
         <div class=""><b>Quando:</b> {{event.when | date: "%d/%m/%Y, ore %H:%M"}}</div>
       {% endif %}
       <div><b>Dove:</b> {{event.where}}</div>
-      <div><b>Iscrizioni:</b> {{event.registration}}</div>
+      {% if event.registration %}
+        <div><b>Iscrizioni:</b> {{event.registration}}</div>
+      {% endif %}
+
 
       <p style="padding-top: 0.2rem;">
         {{event.content | markdownify }}
