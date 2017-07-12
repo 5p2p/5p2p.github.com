@@ -4,6 +4,7 @@ title: Non fare una famiglia come la nostra
 author: Ruvido
 image: /img/posts/non-fare-una-famiglia-come-la-nostra.jpg
 description: "La vocazione è il luogo che il Signore ha per incontrarti e per donarti pienamente il suo amore. Infatti il punto non è sposarsi o non sposarsi, ma entrare in quel progetto unico che il Signore ha pensato per te."
+permalink: non-fare-una-famiglia-come-la-nostra
 ---
 
 È scoppiata in lacrime, così all'improvviso. Un fiume di emozioni aveva finalmente rotto le cataratte del cuore.  Si sente fallita perché pur cercando il Signore con tutto il cuore, a 42 anni la sua vita non ha ancora una direzione chiara. Mi ha detto: "il mio sogno è fare una famiglia come la vostra, anche io la voglio così!".
