@@ -19,7 +19,7 @@ Solo allora le cose sono incominciate a cambiare.
 
 La verità è che senza di te non si può fare.
 
-La verità è che senza quello che tu sei, senza le tue ferite, le tue difficoltà, i tuoi fallimenti, la tua storia tutta, le tue debolezze, **senza tutto questo non si può fare**. Guardando la storia della Chiesa ti rendi conto che non c'è un santo uguale ad un altro: c'è chi ha lasciato tutto per vivere in povertà come San Francesco e Santa Chiara e chi invece è diventato santo governando nazioni, avendo ricchezze, avendo castelli. Il punto per te oggi, è capire [cosa il Signore vuole da te](http://5p2p.it/2013/12/04/cosa-vuoi-che-io-faccia.html) e non realizzare un pacchetto preconfezionato che hai visto da qualcun altro.
+La verità è che senza quello che tu sei, senza le tue ferite, le tue difficoltà, i tuoi fallimenti, la tua storia tutta, le tue debolezze, **senza tutto questo non si può fare**. Guardando la storia della Chiesa ti rendi conto che non c'è un santo uguale ad un altro: c'è chi ha lasciato tutto per vivere in povertà come San Francesco e Santa Chiara e chi invece è diventato santo governando nazioni, avendo ricchezze, avendo castelli. Il punto per te oggi è capire [cosa il Signore vuole da te](http://5p2p.it/2013/12/04/cosa-vuoi-che-io-faccia.html) e non realizzare un pacchetto preconfezionato che hai visto da qualcun altro.
 
 A te il Signore chiede una cosa diversa da quella che chiede a me, da quello che chiede a Marusca o a Mimmo. [Dio ci ha fatto unici e fichissimi](http://5p2p.it/2015/05/26/dio-ci-ha-fatti-fichissimi.html), tu sei unico e solo tu puoi (se vuoi) scoprire cosa il Signore vuole da te.
 
