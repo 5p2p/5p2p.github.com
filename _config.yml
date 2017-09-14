@@ -1,30 +1,50 @@
-# alert: true
-encoding: utf-8
-logo: /img/logo/logo-5p2p-64.png
-url: http://5p2p.it
-# blog: /blog
-blog: '/'
-baseurl: ''
-description: "L'amore chiama, l'amore è urgente - Fraterna Domus Sacrofano Roma - 25-27 Novembre 2016"
-
-##--[ images ]------------------------------------------------
-
-splash:  /images/splash/locandina-corso-quadrata-web.png
-logo:    /images/logo/logo-5p2p-256.png
-fb_img:  /images/splash/locandina-corso-orizzontale-1200.jpg
-
-
-timezone: Europe/Rome
-markdown: kramdown
-future: false
-
+---
+title: 5loaves2fish
+timezone: UTC
 collections:
-  events:
+  pages:
+    title: Pages
     output: true
-
+    permalink: "/:title/"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "post"
+- scope:
+    path: ''
+  values:
+    layout: post
+- scope:
+    path: ''
+    type: post
+  values:
+    summary: ''
+    author: ''
+    id: ''
+    suggested: []
+subtitle: When you want more
+description: When you want more
+url: http://5loaves2fish.blog
+baseurl: ''
+archive: archive
+markdown: kramdown
+landing: index
+post-per-page: 10
+favicon: images/logo/logo-64x64.png
+header:
+  logo-img: images/logo/logo.png
+  title-img: images/logo/5loaves2fish.png
+  subtitle: When you want more
+facebook:
+  app_id: 480155522043231
+  page: https://www.facebook.com/5loaves2fish.blog
+  image:
+footer:
+  script-note: Crafted with <i class='fa fa-heart'></i> by <a href='http://5p2p.it'>5pani2pesci</a><br>Don't
+    reproduce without permission.
+google_analytics: UA-39520577-2
+# permalink: "/:title/"
+exclude: [.git]

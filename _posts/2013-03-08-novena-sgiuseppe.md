@@ -1,6 +1,6 @@
 ---
 title: Novena a S. Giuseppe
-layout: post-fb
+#layout: post-fb
 author: Ruvido
 ---
 
@@ -11,7 +11,7 @@ author: Ruvido
 <div style="margin: 50px 0"></div>
 
 *Nel nome del Padre e del Figlio e dello Spirito Santo. Amen*
- 
+
  A te o beato, Giuseppe, stretti dalla tribolazione ricorriamo, e fiduciosi invochiamo il tuo patrocinio, dopo quello della tua santissima Sposa. Per quel sacro vincolo di carità, che ti strinse all’Immacolata Vergine Maria, Madre di Dio, e per l’amore paterno che portasti al fanciullo Gesù, guarda, ti preghiamo, con occhio benigno la cara eredità che Gesù Cristo acquistò col suo Sangue, e con il tuo potere e aiuto, vieni incontro ai nostri bisogni. Proteggi, o provvido custode della divina Famiglia, l’eletta prole di Gesù Cristo: allontana da noi, o Padre amatissimo, gli errori e i vizi che rovinano il mondo; assistici propizio dal cielo in questa lotta  col potere delle tenebre, o nostro fortissimo protettore: e come un tempo scampasti dalla morte la minacciata vita del pargoletto Gesù, così ora difendi la Santa Chiesa di Dio dalle ostili insidie e da ogni avversità. Stendi continuamente sopra ciascuno di noi il tuo patrocinio, affinché con il tuo esempio e con il tuo soccorso, possiamo virtuosamente vivere, piamente morire, e conseguire l’eterna beatitudine in cielo. Amen.
  (questa preghiera gode di indulgenza parziale)
 
@@ -143,24 +143,24 @@ Che togli i peccati del mondo
 Agnello di Dio
 Che togli i peccati del mondo
 *Abbi pietà di noi*
- 
- 
+
+
 Eterno Divin Padre, per l’amore che portasti a San Giuseppe, eletto fra tutti a rappresentarti in terra,  abbi pietà di me.
 
 *Padre nostro, Ave Maria, Gloria*
- 
+
 Eterno Divin Figlio, per l’amore che portasti a  San Giuseppe, tuo fedelissimo custode in terra, abbi pietà di me.
 
 *Padre nostro, Ave Maria, Gloria*
- 
+
 Eterno Divino Spirito, per l’amore che portasti a San Giuseppe, il quale con tanta sollecitudine custodì Maria SS.ma tua diletta Sposa, abbi pietà di me.
 
 *Padre nostro, Ave Maria, Gloria*
- 
+
 O Eccelso Sposo di Maria e Padre putativo di Gesù, per il tesoro della tua perfettissima obbedienza a Dio
 *Abbi pietà di noi*
- 
-Per la tua vita piena di meriti 
+
+Per la tua vita piena di meriti
 *Esaudiscimi*
 
 Per il tuo potentissimo Nome
@@ -171,14 +171,14 @@ Per il tuo clementissmo cuore
 
 Per le tue sante lacrime
 *Abbi pietà delle mie lacrime*
- 
+
 Per i tuoi grandi dolori
 *Abbi pietà della mia sofferenza*
- 
-Per le tue gioie 
+
+Per le tue gioie
 *Consola il mio cuore*
- 
- 
+
+
 O San Giuseppe
 *Ascoltami*
 
@@ -193,9 +193,7 @@ Da ogni male dell’anima e del corpo
 
 Da ogni pericolo e disgrazia
 *Salvami*
- 
+
 Soccorrimi con la tua santa protezione e, nella tua misericordia e potenza ottienimi dal Signore quello che mi è necessario e particolarmente la grazia di cui ho bisogno.
 
 *Padre nostro, Ave Maria, Gloria*
-
-

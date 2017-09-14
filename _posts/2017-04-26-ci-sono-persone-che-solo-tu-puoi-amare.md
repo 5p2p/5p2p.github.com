@@ -4,6 +4,7 @@ title: Ci sono persone che solo tu puoi amare
 author: Alescanca
 permalink: ci-sono-persone-che-solo-tu-puoi-amare
 image: /img/posts/ci-sono-persone-che-solo-tu-puoi-amare.jpg
+#image: /img/revolution-science.jpg
 description: Per un attimo mi trovo sola a casa. È sabato. Francesco è fuori per un matrimonio. Chiara e Maria sono uscite con gli amichetti e Samuele è qui sotto casa a giocare con la palla. Non mi succede mai di avere momenti in cui sono sola.
 ---
 

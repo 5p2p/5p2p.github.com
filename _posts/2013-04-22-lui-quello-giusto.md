@@ -1,14 +1,14 @@
 ---
 title: È lui quello giusto?
 author: Alescanca
-layout: post-fb
+#layout: post-fb
 ---
 
 <img src="/img/posts/lui-quello-giusto.jpg" width="520px">
 <!-- INIZIO -->
-Dove si trova il figo che vuoi trovare accanto a te tutte le mattine della tua vita quando ti svegli? Dove si trova quell'uomo gentile, romantico, che sa essere anche simpatico, deciso, sicuro, dolce e premuroso? 
+Dove si trova il figo che vuoi trovare accanto a te tutte le mattine della tua vita quando ti svegli? Dove si trova quell'uomo gentile, romantico, che sa essere anche simpatico, deciso, sicuro, dolce e premuroso?
 <!-- FINE -->
-E, infine, dove lo trovo un figone del genere che mi si prende, proprio a me che ho ancora l'acne da adolescente, un sedere che é più grande della provincia di Roma e Milano messe insieme e non ho ancora imparato a caricare le foto sul computer??? 
+E, infine, dove lo trovo un figone del genere che mi si prende, proprio a me che ho ancora l'acne da adolescente, un sedere che é più grande della provincia di Roma e Milano messe insieme e non ho ancora imparato a caricare le foto sul computer???
 
 Alle prime due domande qualche risposta ce l'avrei pure, tipo: l'uomo perfetto non esiste nella realtà; oppure, ne conosco uno ma se l'é accalappiato la mia amica mentre io gli stavo trovando una pagliuzza nell'occhio; e ancora, magari esiste, sicuramente lo troverò e cadrà ai miei piedi, ma non ci crede nessuno, in fondo neanch'io. Alla terza domanda davvero ho solo una risposta, chiara e decisa: non mi si filerà nessuno.
 

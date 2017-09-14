@@ -1,7 +1,7 @@
 ---
 author: Ruvido
 title: Revolution | Science
-layout: post-fb
+#layout: post-fb
 ---
 
 <!-- INIZIO -->
@@ -9,7 +9,7 @@ Quando vidi l'ardore che spingeva i miei colleghi a combattere malattie micidial
 
 **Il punto**
 
-Sentivo lo stridore di questi pensieri ma ero incapace di mettere ordine. La storia di Chiara e Enrico, inaspettatamente, portò chiarezza al cuore. Compresi che *curare* la malattia è un bene grande ma che l'occasione vera, l'opportunità per l'uomo, non sta nella guarigione stessa ma nel *- come -* affrontare e vivere la malattia. Anche quando questa nel suo estremo porta alla morte. Gia questa è contraddizione in termini per me: vivere la morte. I frutti della morte di Chiara sono gioia, speranza e amore. L'ho visto il giorno del funerale. Nella testimonianza del padre. L'ho visto negli occhi di Enrico. 
+Sentivo lo stridore di questi pensieri ma ero incapace di mettere ordine. La storia di Chiara e Enrico, inaspettatamente, portò chiarezza al cuore. Compresi che *curare* la malattia è un bene grande ma che l'occasione vera, l'opportunità per l'uomo, non sta nella guarigione stessa ma nel *- come -* affrontare e vivere la malattia. Anche quando questa nel suo estremo porta alla morte. Gia questa è contraddizione in termini per me: vivere la morte. I frutti della morte di Chiara sono gioia, speranza e amore. L'ho visto il giorno del funerale. Nella testimonianza del padre. L'ho visto negli occhi di Enrico.
 
 **Cambio di prospettive**
 

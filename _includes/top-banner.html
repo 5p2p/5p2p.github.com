@@ -1,0 +1,14 @@
+{% if site.data.top-banner.show %}
+<header class="top-banner">
+  <span class="top-banner-message">
+    <!-- 3-5 Novembre • <strong>L'amore chiama!</strong> -->
+    {{site.data.top-banner.text}}
+  </span>
+  <span class="action-button">
+    <a href="{{site.data.top-banner.button.url}}">
+      {{site.data.top-banner.button.text}}
+    </a>
+  </span>
+</header>
+<div class="top-banner-spacer"></div>
+{% endif %}

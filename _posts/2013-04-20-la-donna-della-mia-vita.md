@@ -1,7 +1,7 @@
 ---
 title: È lei la donna della mia vita?
 author: Ruvido
-layout: post-fb
+#layout: post-fb
 ---
 
 
@@ -14,7 +14,7 @@ Ben convinto di trovare la mia strada nella vita, stavo intraprendendo un cammin
 <!-- INIZIO -->
 Resosi conto dell'andazzo, fra Max mi invito' ad andare a conoscere una cosiddetta *famiglia cristiana*. Dopo la gentilezza iniziale del frate, ci volle un bel calcio nel sedere per convincermi veramente a partire!
 <!-- FINE -->
-In fondo chi è sta gente, chi li conosce? Ma soprattutto cosa ne sapranno di me e della mia storia ... alla fine non avendo nulla da perdere, partii con un po' di riluttanza. 
+In fondo chi è sta gente, chi li conosce? Ma soprattutto cosa ne sapranno di me e della mia storia ... alla fine non avendo nulla da perdere, partii con un po' di riluttanza.
 
 Atterrato a Fiumicino, mi feci quelle belle 4 orette abbondanti di macchina per arrivare in quel di Manfredonia, Gargano, Puglia. Destinazione Mimmo & Cinzia Armiento.  Era agosto e una mattina andammo al mare, una sera prendemmo delle pizze e il 2 agosto - giorno del perdono - cantammo le lodi. Cio che pero' è rimasto indelebile e cruciale fu una breve chiacchierata con Mimmo. Al riparo dal caldo di agosto sotto l'ombra di un albero, per la prima volta incominciai ad immaginare mia moglie. Mimmo centro' il punto della questione facendomi alcune domande, in particolare mi chiese quali fossero le relazioni che più contavano nella mia vita. Non ebbi dubbi. Il gruppo di amici di Roma con cui andavo in montagna: Piero, Claudio ... il motivo? Gli spiegai: " ... quando si arrampica in montagna, la tua vita l'affidi al compagno di cordata, è lui che tiene la corda, è lui che ti tiene in caso di caduta. La mia e la sua vita si tengono insieme in una reciproca fiducia, cieca e pronta a tutto." Dietro a queste relazioni c'era l'avventura, lo spendersi e l'esserci al 100 per 100.
 
@@ -28,11 +28,11 @@ Che gioia.
 
 Avevo cercato male, nei luoghi sbagliati, ma ora avevo la mappa. Ed incominciai a pensare a tutte le mie amiche e conoscenti per vedere se, per caso, qualcuna di loro potesse avvicinarsi ad alcuni di questi nuovi parametri. Dopo un breve rimuginare, la ricerca riporto' un - solo - risultato ... era lei. E' lei. E rimasi sveglio tutta la notte senza poter dormire ...
 
-Il giorno dopo la chiamai e, timidamente, incominciammo la nostra scalata. 
+Il giorno dopo la chiamai e, timidamente, incominciammo la nostra scalata.
 
 <div style="height:20px">&nbsp;</div>
 UPDATE: [Mia moglie ha scritto come è andata per lei ...](/2013/04/22/lui-quello-giusto.html)
 
 <div style="height:20px">&nbsp;</div>
 <hr>
-PS Mimmo & Cinzia hanno continuato la loro scalata, andate a vedere [ingannevole come l'amore](http://www.facebook.com/ingannevolecomelamore) per saperne di più. 
+PS Mimmo & Cinzia hanno continuato la loro scalata, andate a vedere [ingannevole come l'amore](http://www.facebook.com/ingannevolecomelamore) per saperne di più.

@@ -1,7 +1,7 @@
 ---
 title: Camminando si apre il cammino
 author: Ruvido
-layout: post-fb
+#layout: post-fb
 ---
 
 ![](/img/posts/walk-road.jpg)
@@ -10,7 +10,7 @@ layout: post-fb
 Quando il Signore disse "date voi stessi da mangiare", i discepoli rimasero perplessi. Ma come si fa a sfamare una folla di cinquemila uomini con cinque pani e due pesci?
 <!-- FINE -->
 
-Quando io e mia moglie ci promettemmo sposi nella penombra della Porziuncola, fra Max ci lesse proprio questo brano del Vangelo. Ci annuncio' che il nostro *poco* basta, le nostre povertà non saranno un limite, perché tutto ciò che è offerto, nostro Signore lo trasforma. Perché l'amore non segue le leggi della fisica. 
+Quando io e mia moglie ci promettemmo sposi nella penombra della Porziuncola, fra Max ci lesse proprio questo brano del Vangelo. Ci annuncio' che il nostro *poco* basta, le nostre povertà non saranno un limite, perché tutto ciò che è offerto, nostro Signore lo trasforma. Perché l'amore non segue le leggi della fisica.
 
 L'amore più lo dividi più si moltiplica.
 

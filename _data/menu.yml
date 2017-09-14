@@ -1,0 +1,15 @@
+- name: Weddings
+  url:  "http://weddings.5p2p.it/"
+  class: color-1
+
+- name: Eventi
+  url: "http://5p2p.it/l-amore-chiama-l-amore-e-urgente/"
+  class: color-2
+
+- name: Chi siamo
+  url:  "chi-siamo"
+  class: color-3
+
+- name: Donazioni
+  url: "donazioni"
+  class: color-4

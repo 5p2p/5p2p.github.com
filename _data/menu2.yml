@@ -1,0 +1,19 @@
+# - name: Testimoniare la bellezza
+- name: T
+  url:  "testimoniare-la-bellezza"
+  class: color-1
+
+# - name: Eventi
+- name: E
+  url: "eventi"
+  class: color-2
+
+# - name: Chi siamo
+- name: C
+  url:  "chi-siamo"
+  class: color-3
+
+# - name: Donazioni
+- name: D
+  url: "donazioni"
+  class: color-4

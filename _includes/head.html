@@ -1,150 +1,20 @@
-<!DOCTYPE html>
-<!-- /ht Paul Irish - http://front.ie/j5OMXi -->
-<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
 <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png"  href="{{site.baseurl}}/{{site.favicon}}">
 
-<title>{{page.title}}</title>
+  <title>{% if page.title %}{{ page.title | append: ' | ' | append: site.title | escape }}{% else %}{{ site.title | append: ' | ' | append: site.subtitle  | escape }}{% endif %}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
-<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-<meta http-equiv="content-language" content="it" />
-<meta name="author" content="5pani2pesci" />
-<meta name="description" content="Avventure di Provvidenza quotidiana" />
-<meta name="keywords" content="evangelizzazione, provvidenza, 5pani, 2pesci, 5pani2pesci, sposarsi, fedeltà, famiglia, figli, assisi, 10 comandamenti, papa, gesù, chiesa, fotografia, video, matrimonio, sposi, fidanzamento, francescani" />
-<meta name="robots" content="noydir, noopd" />
+  <link rel="stylesheet" href="{{site.baseurl}}/assets/css/style.css" | relative_url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
+<!-- Font awesome -->
+<!-- to be optimized with http://fontello.com/ -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<!-- FACEBOOK open graph -->
-<meta content="article" property="og:type">
-<meta content="5pani2pesci" property="og:site_name">
-<meta content="{{ page.title }}" property="og:title">
-<meta content="http://5p2p.it{{ page.url }}" property="og:url">
-{% if page.description %}
-	<meta content="{{ page.description }}" property="og:description">
-{% else %}
-	<meta content="Avventure di provvidenza quotidiana" property="og:description">
-{% endif %}
-{% if page.image %}
-	<meta content="http://5p2p.it{{ page.image }}" property="og:image">
-{% endif %}
+  {% include facebook_opengraph.html %}
+  {% include google_analytics.html %}
 
-
-
-
-
-<!-- /ht Andy Clarke - http://front.ie/lkCwyf -->
-<meta http-equiv="cleartype" content="on">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-<link rel="shortcut icon" href="{{site.logo}}">
-<link rel="apple-touch-icon" href="{{site.logo}}">
-
-<!-- /ht Jeremy Keith - http://front.ie/mLXiaS -->
-<!-- <link rel="stylesheet" href="/css/style.css" media="all and (min-width: 33.236em)"> -->
-<link rel="stylesheet" href="/css/style.css" media="all">
-<link rel="stylesheet" href="/css/ruvido.css" media="all">
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<!-- 30em + (1.618em * 2) = 33.236em / Eliminates potential of horizontal scrolling in most cases -->
-
-<!--[if (lt IE 9) & (!IEMobile)]>
-<link rel="stylesheet" href="css/example/layout.css" media="all">
-<![endif]-->
-
-
-
-<link href='http://fonts.googleapis.com/css?family=Raleway:900,100'   rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:700,400' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-
-
-
-
-<!-- <script src="js/libs/modernizr-1.7.min.js"></script> -->
-<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js'></script>
-
-
-<meta property="fb:admins" content="1010218604"/>
-<meta property="fb:app_id" content="480155522043231"/>
-
-
-<script>
-	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	ga('create', 'UA-39520577-1', '5p2p.it');
-	ga('send', 'pageview');
-
-</script>
-
-
-
-<!-- Validate Form -->
-<script>
-function validateForm()
-{
-var x=document.forms["scrivici"]["email"].value;
-if (x==null || x=="")
-  {
-  alert("Hai dimenticato di inserire il tuo indirizzo email");
-  return false;
-  }
-}
-</script>
-
-  
 </head>
-
-<body>
-  
-  <div id="container" class="cf">
-    
-    <article>
-      <header id="header">
-
-      <a href="/">
-      <h2>Avventure di provvidenza quotidiana</h2>
-      <h1>
-	      5pani 2pesci
-      </h1>
-      </a>
-
-
-      <div class="social">
-	      <a href="https://www.facebook.com/5pani2pesci"><img src="/img/icons/facebook.png"></a>
-	      <a href="https://twitter.com/5pani2pesci"><img src="/img/icons/twitter.png"></a>
-	      <a href="https://www.youtube.com/5pani2pesci"><img src="/img/icons/youtube.png"></a>
-
-
-      </div>
-      <div class="fb-follow">
-	      Seguici su facebook &nbsp;
-	      <iframe src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2F5pani2pesci&amp;send=false&amp;layout=box_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=trebuchet+ms&amp;height=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:73px; height:90px; vertical-align: middle;" allowTransparency="true"></iframe>
-      </div>
-
-
-      </header>
-      
-	      <aside> 
-
-	      <a href="/">
-		<img src="/img/logo/5p2p-dark.png" alt="logo">
-	      </a>
-
-	      <ul>
-		      <li><a href="{{site.baseurl}}{{site.blog}}" class="buttonize dark">Blog</a></li>
-		      <li><a href="/chi_siamo.html" class="buttonize green">Chi siamo</a></li>
-		      <li><a href="/video.html" class="buttonize cyan">Filmmaker per vocazione</a></li>
-		      <li><a href="http://weddings.5p2p.it" class="buttonize orange">Fotografi degli sposi</a></li>
-		      <li><a href="http://www.fratisog.it/corsi-frati-assisi/" class="buttonize red">I corsi di Assisi</a></li>
-		      <li><a href="/scrivici.html" class="buttonize dark">scrivici</a></li>
-
-	      </ul>
-
-	      </aside>
-
-	      <div id="main" role="main" class="cf">

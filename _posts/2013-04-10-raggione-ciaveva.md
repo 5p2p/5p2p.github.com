@@ -1,5 +1,5 @@
 ---
-layout: post-fb
+#layout: post-fb
 author: Alescanca
 title:  Raggione c'aveva!
 ---
@@ -9,14 +9,14 @@ title:  Raggione c'aveva!
 <h2>La crisi del settimo anno &mdash; ne ho sentito parlare tanto nei primi anni di matrimonio, quando  eravamo già in crisi, e pensavo "figuriamoci che sarà al settimo anno?!"</h2>
 <!-- FINE -->
 
-Finchè l'altro giorno mi sono resa conto che noi, proprio noi due, in un autunno caldo e piovoso, il giorno di san Francesco, in una cappella delle suore dietro la Porziuncola ad Assisi, proprio sette anni fa ci siamo scambiati un anello e, con una vocina da ventenni (io quasi 20 e Francesco 27), ci siamo promessi fedeltà. 
+Finchè l'altro giorno mi sono resa conto che noi, proprio noi due, in un autunno caldo e piovoso, il giorno di san Francesco, in una cappella delle suore dietro la Porziuncola ad Assisi, proprio sette anni fa ci siamo scambiati un anello e, con una vocina da ventenni (io quasi 20 e Francesco 27), ci siamo promessi fedeltà.
 
 Ma allora ci siamo, stiamo attraversando il settimo anno!!!
 
 La prima domanda è stata: " Ma non dovremmo essere in crisi noi due?". La seconda:" Com'è potuto succedere che sono passati SETTE anni e ancora non ho il robot da cucina  kitchenaid?". La terza domanda è stata peró più rassicurante:" Noi Rao saltiamo sempre le tappe, si vede che la crisi del settimo l'abbiamo avuto il terzo anno". In effetti mo che ci penso il terzo anno di matrimonio eravamo in Francia già da due anni ed eravamo sicuramente in crisi. Un anno davvero difficile, con un lavoro che finiva e un altro che *non* partiva, due bambine piccole e tante difficoltà. Quel terzo anno sembrava l'anno in cui tutti i difetti dell'altro venissero fuori allegramente e non curanti, appuntiti e insopportabili. Un anno sicuramente difficile.
 
-C'e' una cosa però che ricordo più di tutte: avevo due strade davanti a me, o mollavo perché "io merito di meglio" oppure davo una chance al nostro matrimonio e a Dio che quel famoso 3 ottobre garantiva la Sua presenza a casa nostra. Decisi di cambiare vestito ed equipaggiamento per intraprendere la via più avventurosa e meno chiara e scoprii mondi inesplorati. 
-Ci fu un litigio furioso in cui dissi che se avessi conosciuto quei suoi difettacci forse ci avrei pensato bene a sposarlo; ma lui rispose che il Signore non me li aveva fatti vedere di proposito, altrimenti avrei perso la mia vocazione, la cosa più bella della mia vita. A questo punto del racconto la mia più cara amica sicula direbbe - *Miii, raggione c'aveva!* 
+C'e' una cosa però che ricordo più di tutte: avevo due strade davanti a me, o mollavo perché "io merito di meglio" oppure davo una chance al nostro matrimonio e a Dio che quel famoso 3 ottobre garantiva la Sua presenza a casa nostra. Decisi di cambiare vestito ed equipaggiamento per intraprendere la via più avventurosa e meno chiara e scoprii mondi inesplorati.
+Ci fu un litigio furioso in cui dissi che se avessi conosciuto quei suoi difettacci forse ci avrei pensato bene a sposarlo; ma lui rispose che il Signore non me li aveva fatti vedere di proposito, altrimenti avrei perso la mia vocazione, la cosa più bella della mia vita. A questo punto del racconto la mia più cara amica sicula direbbe - *Miii, raggione c'aveva!*
 
 E infatti raggione c'aveva perché abbandonando le armi mi sono accorta che i difettacci guarda caso andavano a toccare proprio le ferite più profonde della mia vita e che forse - e dico fooorse - erano un'occasione per affrontarle. E, guarda un po', é stato proprio così.
 

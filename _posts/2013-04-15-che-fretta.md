@@ -1,7 +1,7 @@
 ---
 title: Che fretta c'era
 author: Alescanca
-layout: post-fb
+#layout: post-fb
 ---
 <img src="/img/posts/dubbio-matrimonio.jpg" width="520px">
 
@@ -20,10 +20,10 @@ La veritá però é un'altra. La verità é che io e Francesco avevamo già deci
 
 Ma che fretta c'era? Perché a 20 anni? Perché non aspettare che tutto sia perfetto? Perché essere così precipitosi?
 
-La fretta é quella di Giovanni e Pietro che corrono insieme al sepolcro per vedere che Gesù é risuscitato (Gv20,4). La fretta della gioia esplosiva, dell'amore che non può aspettare, l'amore impaziente, l'amore che chiede tutto te stesso. 
+La fretta é quella di Giovanni e Pietro che corrono insieme al sepolcro per vedere che Gesù é risuscitato (Gv20,4). La fretta della gioia esplosiva, dell'amore che non può aspettare, l'amore impaziente, l'amore che chiede tutto te stesso.
 L'amore non ti chiede se sei in regola con gli esami, né sei hai certezze economiche. Non penso che un matrimonio con un lavoro a tempo indeterminato (magari a trovarlo!) sia un matrimonio migliore. Non penso nemmeno che un matrimonio fra due laureati valga di più. Però penso che un matrimonio a *tre* é sicuramente migliore perché oltre agli sposi c'é un terzo: il Signore. Ecco, penso che un matrimonio da Dio sia sicuramente più bello e più divertente perché non sei solo, hai Qualcuno che vuole sporcarsi le mani con te nelle difficoltà, Qualcuno che ti sostiene quando fai casini e che é Padre.
 
-Io ho sempre pregato perché Dio mi desse la grazia di spendere la mia giovinezza per la mia vocazione. Quello che sentivo come urgente era non perdere tempo con tutto quello che é un orpello, ma fare centro il prima possibile. Per me il centro é Dio e la mia vocazione é il modo in cui servirlo, il luogo dove posso spendermi, dove posso incontrarlo. Perché anteporre qualcosa alla gioia, perché aspettare? L'amore chiama. L'amore é *urgente*. 
+Io ho sempre pregato perché Dio mi desse la grazia di spendere la mia giovinezza per la mia vocazione. Quello che sentivo come urgente era non perdere tempo con tutto quello che é un orpello, ma fare centro il prima possibile. Per me il centro é Dio e la mia vocazione é il modo in cui servirlo, il luogo dove posso spendermi, dove posso incontrarlo. Perché anteporre qualcosa alla gioia, perché aspettare? L'amore chiama. L'amore é *urgente*.
 
-Dopo quasi otto anni di matrimonio non abbiamo ancora una casa, né un lavoro fisso, né io mi sono laureata (a luglio gli ultimi esami!). Di certezze però ne abbiamo sempre di più: il disordine sempre accompagnato da una lavatrice da stendere, la presenza accanto a me di mio marito, il nostro sí quotidiano nella gioia e nelle litigate, i nostri bellissimi figli con la loro monellaggine cronica, la provvidenza. 
+Dopo quasi otto anni di matrimonio non abbiamo ancora una casa, né un lavoro fisso, né io mi sono laureata (a luglio gli ultimi esami!). Di certezze però ne abbiamo sempre di più: il disordine sempre accompagnato da una lavatrice da stendere, la presenza accanto a me di mio marito, il nostro sí quotidiano nella gioia e nelle litigate, i nostri bellissimi figli con la loro monellaggine cronica, la provvidenza.
 Abbiamo cambiato quattro volte nazione e lingua, traslocato mille volte, ma non dimentichiamo la nostra meta, né ci ha abbandonato quella fretta.

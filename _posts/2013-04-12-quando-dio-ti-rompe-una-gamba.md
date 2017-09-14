@@ -1,8 +1,8 @@
 ---
 title: Quando Dio ti rompe una gamba
 author: Ruvido
-layout: post-fb
-date: 2013-04-12 
+#layout: post-fb
+date: 2013-04-12
 ---
 
 <img src="/img/posts/frattura.jpg" width="520px">
@@ -10,7 +10,7 @@ date: 2013-04-12
 **Ovvero l'azione costante e amorevole di un Padre che ci vuole veder crescere nell'amore.**
 
 <!-- INIZIO -->
-*"Non cambiare mai"* è una frase famosissima, tirata fuori nei momenti piu belli e romantici di una relazione... ma se provi a pensarci meglio, è veramente un bene? 
+*"Non cambiare mai"* è una frase famosissima, tirata fuori nei momenti piu belli e romantici di una relazione... ma se provi a pensarci meglio, è veramente un bene?
 <!-- FINE -->
 Accidenti, non lo augurerei al il mio peggior nemico! L'uomo per sua inclinazione è dinamico, alla ricerca, esploratore di nuove terre e idee. I fatti sono che l'uomo cambia e a ragione.
 
@@ -28,7 +28,7 @@ L'approccio fatalista si ferma qui: "perche proprio a me?". Ma uno sguardo di fe
 
 **Qui si gioca il tutto per tutto**
 
-La seconda via è quella dell'ascolto, del lasciarsi trasformare dalla potenza creatrice, dell'abbandono. Il Signore ha parlato parecchie volte, di solito per bocca di mia moglie: "passa più tempo a casa, torna prima dal lavoro" "non essere arrabbiato per questo o quello" "stai con me" etc etc etc. Sapeva di aver ragione e lo diceva per il mio bene, ma gli impegni erano così pressanti e continui che riuscivo ad esser più presente solo per una settimana di fila per poi ricadere puntualmente sulle mie croniche 10-12 ore di lavoro. Nel frattempo pregavo e dicevo: "Signore non mi lasciare qui, non passare oltre senza cambiarmi". E il Signore ascolta sempre la preghiera. 
+La seconda via è quella dell'ascolto, del lasciarsi trasformare dalla potenza creatrice, dell'abbandono. Il Signore ha parlato parecchie volte, di solito per bocca di mia moglie: "passa più tempo a casa, torna prima dal lavoro" "non essere arrabbiato per questo o quello" "stai con me" etc etc etc. Sapeva di aver ragione e lo diceva per il mio bene, ma gli impegni erano così pressanti e continui che riuscivo ad esser più presente solo per una settimana di fila per poi ricadere puntualmente sulle mie croniche 10-12 ore di lavoro. Nel frattempo pregavo e dicevo: "Signore non mi lasciare qui, non passare oltre senza cambiarmi". E il Signore ascolta sempre la preghiera.
 
 **Divin lastra di ghiaccio**
 
@@ -39,4 +39,3 @@ Poi grazie a Dio sono guarito, a giugno ero quasi apposto, e a luglio con l'arri
 >Giacobbe rimase solo e un uomo lottò con lui fino allo spuntare dell'aurora. Vedendo che non riusciva a vincerlo, lo colpì all'articolazione del femore e l'articolazione del femore di Giacobbe si slogò, mentre continuava a lottare con lui. Quegli disse: "Non ti chiamerai più Giacobbe, ma Israele, perché hai combattuto con Dio e con gli uomini e hai vinto!". Spuntava il sole, quando Giacobbe passò Penuel e zoppicava all'anca. [(Gen32,25-32)](http://www.novena.it/Lectio_divina_personaggi_biblici/lectio_giacobbe.htm)
 
 E questa lotta mi sta portando a [navigare luoghi inesplorati](/2013/04/07/revolution.html).
-
