@@ -1,6 +1,5 @@
 ---
 title: Archive
-permalink: archive
+permalink: archivio
 layout: archive
 ---
-
