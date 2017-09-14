@@ -1,5 +1,5 @@
 ---
-title: 5loaves2fish
+title: 5pani2pesci
 timezone: UTC
 collections:
   pages:
@@ -25,9 +25,9 @@ defaults:
     author: ''
     id: ''
     suggested: []
-subtitle: When you want more
-description: When you want more
-url: http://5loaves2fish.blog
+subtitle: Avventure di Provvidenza Quotidiana
+description: Avventure di Provvidenza Quotidiana
+url: http://5p2p.it
 baseurl: ''
 archive: archive
 markdown: kramdown
@@ -36,7 +36,7 @@ post-per-page: 10
 favicon: images/logo/logo-64x64.png
 header:
   logo-img: images/logo/logo.png
-  title-img: images/logo/5loaves2fish.png
+  title-img: images/header/5pani2pesci-2017-blue-text-256.png
   subtitle: When you want more
 facebook:
   app_id: 480155522043231
