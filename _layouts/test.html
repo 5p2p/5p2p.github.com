@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {% include head.html %}
+{% include head.html %}
 
   <body>
 
@@ -13,6 +13,7 @@
         <img class="tablet-only" src="/images/header/5pani2pesci-2017-blue-text-512.png" alt="">
       </a>
     </header>
+
 
     <nav class="top-nav">
       {% for item in site.data.menu %}
@@ -29,35 +30,38 @@
       {% endfor %}
     </nav>
 
-    <main>
-      {{ content }}
-    </main>
 
-    <!-- <section class="see-all-posts" >
-      <a href="{{site.archive}}">See all posts <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-    </section> -->
+    <header class="main-post">
 
-    <section class="meaningful-block">
-      <a class="big follow-up" href="{{site.baseurl}}/{{site.archive}}">{{site.data.localization.see-all-posts}} <i class="fa fa-chevron-right" aria-hidden="true"></i></a>
-    </section>
+      <section class="wrapper">
+        <h1>{{ page.title }}</h1>
 
-    <footer>
-
-      <nav class="footer-menu" >
-        {% for item in site.data.footer %}
-          {% if item.url contains "http" %}
-            <a href="{{item.url}}">{{item.name}}</a>
-          {% else %}
-            <a href="{{site.baseurl}}/{{item.url}}">{{item.name}}</a>
-          {% endif %}
-        {% endfor %}
-      </nav>
-
-      <section class="footer-script-note">
-        {{ site.footer.script-note }}
+        {% if page.author %}
+        <section class="author">
+          by <a href="{{site.baseurl}}/about">{{page.author | capitalize}}</a>,
+          <time datetime="{{page.date}}">{{page.date | date: "%B %d %Y"}}</time>
+        </section>
+        {% endif %}
       </section>
 
-    </footer>
+      {% if page.image %}
+      <figure>
+        <img alt="{{page.title}}" src="{{site.baseurl}}{{page.image}}" />
+        <figcaption>{{page.caption}}</figcaption>
+      </figure>
+      {% endif %}
+
+      {% if page.summary %}
+        {% assign summary = page.summary %}
+      {% endif %}
+      {% if page.description %}
+        {% assign summary = page.description %}
+      {% endif %}
+      {% if summary %}
+      <section class="summary wrapper">{{ summary }}</section>
+      {% endif %}
+
+    </header>
 
   </body>
 

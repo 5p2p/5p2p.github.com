@@ -56,14 +56,17 @@ body {
     }
   }
   header.top-banner {
+    top: 0;
+    left: 0;
+    width: 100%;
     position: fixed;
     text-align: center;
-    width: 100%;
     height: $top-banner-height;
     color: white;
     background-color: $opaque-red;
     line-height: $top-banner-height;
     z-index: 1000;
+    // -webkit-transform: translateZ(0);
   }
   .top-banner-message {
     // width: 50%;
@@ -89,13 +92,12 @@ body {
 
   header.top-lead {
     // width: 80%;
-    display: flex;
+    // display: flex;
     // justify-content: center; /* align horizontal */
-    align-items: center;
+    // align-items: center;
     // height: $header-height;
     // line-height: $header-height;
     padding-left: 1rem;
-    width: 100%;
     margin: $regular-font-size 0;
     @media (min-width: $tablet) {
       margin: $regular-font-size*2 auto;
