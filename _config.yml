@@ -29,7 +29,7 @@ subtitle: Avventure di Provvidenza Quotidiana
 description: Avventure di Provvidenza Quotidiana
 url: http://5p2p.it
 baseurl: ''
-archive: archive
+archive: archivio
 markdown: kramdown
 landing: index
 post-per-page: 10
