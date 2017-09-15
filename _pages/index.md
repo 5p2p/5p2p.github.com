@@ -1,6 +1,5 @@
 ---
-title: 5loaves2fish
+title: "5pani2pesci - Avventure di Provvidenza Quotidiana"
 permalink: "/"
 layout: index
 ---
-
