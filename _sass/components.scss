@@ -191,7 +191,7 @@ body {
     article {
       @extend %margin-0-auto;
       @extend %wrapper;
-      h2 {
+      h2, h3 {
         @extend .header-font;
         font-size: $mid-font-size;
         padding-top: $mid-font-size;
