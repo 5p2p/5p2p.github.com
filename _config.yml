@@ -33,9 +33,9 @@ archive: archivio
 markdown: kramdown
 landing: index
 post-per-page: 10
-favicon: images/logo/logo-64x64.png
+favicon: images/logo/logo-64.png
 header:
-  logo-img: images/logo/logo.png
+  logo-img: images/logo/logo-64.png
   title-img: images/header/5pani2pesci-2017-blue-text-256.png
   subtitle: When you want more
 facebook:

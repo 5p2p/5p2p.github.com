@@ -244,10 +244,12 @@ body {
         // 	margin-top: -10px;
         // }
       }
-      .page-end-logo {
+      .page-end-logo, .on-page-logo {
         margin: 0 auto;
         padding: $regular-font-size 0 0 0;
-        width: $bigger-font-size;
+        // width: $bigger-font-size;
+        width: 100%;
+        text-align: center;
         img {
           max-width: 100%;
         }
@@ -378,6 +380,12 @@ body {
 .block {display: block;}
 .inline {display: inline-block;}
 
+.mid {
+  font-size: $mid-font-size;
+  @media (min-width: $tablet) {
+    font-size: $big-font-size;
+  }
+}
 .big {
   font-size: $big-font-size;
   @media (min-width: $tablet) {
@@ -392,4 +400,12 @@ body {
       font-size: 2.2*$huge-font-size;
     }
   }
+}
+
+.photo-credit {
+  padding-top: 0.3rem;
+  margin-bottom: -0.6rem;
+  font-size: 0.8rem;
+  color: $light-gray;
+  text-align: right;
 }

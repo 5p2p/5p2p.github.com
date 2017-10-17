@@ -20,7 +20,7 @@ layout: default
   {% if page.image %}
   <figure>
     <img alt="{{page.title}}" src="{{site.baseurl}}{{page.image}}" />
-    <figcaption>{{page.caption}}</figcaption>
+    <figcaption class="photo-credit">{{page.caption}}</figcaption>
   </figure>
   {% endif %}
 
@@ -40,10 +40,13 @@ layout: default
 
   {{ content }}
 
-  <figure class="page-end-logo">
+  <div class="on-page-logo">
+  <!-- <figure class="page-end-logo"> -->
     <img alt="{{site.title}}" src="{{site.baseurl}}/{{site.header.logo-img}}" />
-  </figure>
+  <!-- </figure> -->
+  </div>
 
+</div>
 </article>
 
   <!-- TODO -->

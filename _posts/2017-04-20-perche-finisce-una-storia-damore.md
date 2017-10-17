@@ -34,6 +34,8 @@ Lo so è uno _shock_.
 
 Pensavi che tutto veniva da cupido, da un cocktail esplosivo di ormoni ed altre molecoline impazzite ... e invece no. Quella lì al massimo la possiamo chiamare _attrazione_, tipo quando è _il_ momento e i gatti di tutto il quartiere iniziano a miagolare. Ma l'amore? No, l'amore ha delle dinamiche chiare, che si possono capire e che soprattutto (e questo è il tuo giorno fortunato) **si possono apprendere!**
 
+{% include extra/logo-nuclei-di-morte.html %}
+
 ### Regola numero 0: L'amore se non cresce muore
 
 Esiste un principio base in amore su cui si costruisce tutto:
@@ -61,3 +63,17 @@ Sei pronto per iniziare questo viaggio?
 Nei prossimi giorni pubblicheremo qui sotto e sulla [pagina facebook](https://www.facebook.com/5pani2pesci/) una serie di articoli per spiegare più nel dettaglio i nuclei di morte più importanti, ovvero tutte quelle dinamiche che fanno finire una storia d'amore.
 
 Stay tuned.
+
+## Indice dei nuclei di morte
+
+- [Troppo lavoro](http://5p2p.it/ndm-troppo-lavoro)
+
+_Prossime uscite:_
+
+- Rapporto paritario
+- Il fantasma dell'altro
+
+## Altri articoli correlati
+
+- [La storica ex](http://5p2p.it/2014/02/03/il-fantasma-dell-altro.html)
+- [Castità è libertà, altro che tabù](http://5p2p.it/2013/05/10/castita-liberta.html)
