@@ -90,6 +90,9 @@ Il matrimonio ha creato una realtà del tutto nuova. Il sacramento ci ha resi, p
 Amarsi castamente nel matrimonio è quindi per noi difendere questa verità più grande di noi, questa unità totale, di spirito di corpo. Significa dunque donarsi completamente all’altro nel quotidiano, e dare priorità all’unità della coppia rispetto a tutto il resto (si, anche rispetto ai figli!). In pratica, questo vuol dire ad esempio custodire dei momenti solo per noi due (che tra lavoro ed un bimbo piccolo a volte è operazione assai ardua!), e non trascurare di dare spazio all’unione sessuale, rifiutando la contraccezione, un compromesso che renderebbe questa unione meno totale e quindi vera.  
 <a name="i-frutti"></a>
 
+_Vedi anche il video:_ **Che cos'è la castità nel matrimonio?**
+{% include extra/youtube.html url="https://www.youtube.com/embed/sTVGDsqkiAg"%}
+
 In fin dei conti noi due non abbiamo fatto altro che questa scelta: metterci in viaggio con **i nostri passi incerti e debolissimi** sulla strada di un amore vero, sincero e pulito (cioè casto!) che (guarda caso...) passa per la castità, facendo del nostro meglio per difendere questa decisione, combattendo come potevamo le tentazioni di fermarci o cambiare strada.
 Non siamo scalatori professionisti, ma solo due che hanno scelto di imparare a camminare lungo questa salita. Eppure, al prezzo di questo piccolo sì (spesso molto incerto) siamo stati ricoperti di doni meravigliosi.
 

@@ -35,6 +35,9 @@ Coraggio! Questo vuol dire anche mettere da parte i propri progetti, lo schemino
 
 Però è sicuramente necessario uscire dallo schema del progetto santissimo che hai in testa, per incominciare ad entrare nell'ignoto della storia unica che il Signore vuole realizzare con te. Ma questo viaggio, quest'avventura meravigliosa non si intraprende da soli. **È necessaria una guida**. È fondamentale incominciare un cammino con un padre spirituale che ti sappia aiutare. Seguire i 10 comandamenti è utile, ma non è un cammino! Seguire i corsi di Assisi è utile, ma non è un cammino. Lo stesso per gli scout e l'impegno in parrocchia, non sono un cammino! Neanche la preghiera settimanale in un movimento è un cammino. Senza un padre spirituale non hai messo mano in profondità nella tua storia. Questo lavoro si può fare solo attraverso un percorso con una guida esperta.
 
+_Vedi anche il video:_ **Come si trova il padre spirituale?**
+{% include extra/youtube.html url="https://www.youtube.com/embed/pndhfnP7Rcc"%}
+
 Inoltre è necessario farsi aiutare da un punto di vista spirituale con un padre spirituale ed eventualmente anche da un punto di vista umano attraverso uno psicologo. La vocazione passa attraverso la carne, attraverso la propria storia e attraverso i fallimenti. È un percorso di crescita ed un'esperienza di risurrezione, ci deve mettere le mani Dio! E questa cosa appunto non si fa da soli.
 
 La vocazione è il luogo che il Signore ha per incontrarti e per donarti pienamente il suo amore. Infatti **il punto non è sposarsi o non sposarsi**, ma entrare in quel progetto unico che il Signore ha pensato per te. Incontrare il Signore, il vivente, è sperimentare la pace e la gioia. Quando questo accade la vita fiorisce ed è gioia piena per te e per chi ti sta accanto.
