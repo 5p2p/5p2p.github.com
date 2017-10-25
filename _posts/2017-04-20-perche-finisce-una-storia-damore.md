@@ -67,11 +67,12 @@ Stay tuned.
 ## Indice dei nuclei di morte
 
 - [Troppo lavoro](http://5p2p.it/ndm-troppo-lavoro)
+- [Il fantasma dell'altro](http://5p2p.it/ndm-il-fantasma-dell-altro)
 
 _Prossime uscite:_
 
-- Rapporto paritario
-- Il fantasma dell'altro
+- Rapporto non paritario
+- Rapporto simbiotico
 
 ## Altri articoli correlati
 
