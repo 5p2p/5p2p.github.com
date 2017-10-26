@@ -21,11 +21,11 @@ Ale e Fra
 
 P.S. La novena si conclude la mattina del 3 Novembre.
 
----
+
 
 ### Novena a Maria che scioglie i nodi
 
----
+
 
 Sia questa una preghiera di intercessione per aprire i cuori, ma allo stesso tempo sia l'occasione per sciogliere i nostri _nodi_ che ci sono di impedimento per compiere la volontà di nostro Signore.
 
@@ -100,7 +100,7 @@ Camminiamo pieni di fiducia verso il trono della grazia.
 Madre Santissima, nostra avvocata, Tu che sciogli i _nodi_ vengo oggi a ringraziarti di aver sciolto questo _nodo_ (nominarlo se possibile) nella mia vita. Conosci il dolore che mi ha causato. Grazie Madre mia amata,Ti ringrazio perché hai sciolto i _nodi_ della mia vita. Avvolgimi con il tuo manto d' amore, proteggimi, illuminami con la tua pace.
 _Maria che sciogli i nodi_ prega per me.
 
----
+
 
 **PREGHIERA A MARIA CHE SCIOGLIE I NODI**
 
