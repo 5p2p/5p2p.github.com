@@ -3,7 +3,7 @@
   class: color-1
 
 - name: Libri
-  url: "http://5p2p.it/libri"
+  url: "libri"
   class: color-2
 
 - name: Chi siamo
