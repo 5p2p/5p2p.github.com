@@ -11,7 +11,7 @@ layout: default
 
     {% if page.author %}
     <section class="author">
-      by <a href="{{site.baseurl}}/about">{{page.author | capitalize}}</a>,
+      by <a href="{{site.baseurl}}/{{site.about}}">{{page.author | capitalize}}</a>,
       <time datetime="{{page.date}}">{{page.date | date: "%B %d %Y"}}</time>
     </section>
     {% endif %}
