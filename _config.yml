@@ -19,7 +19,7 @@ defaults:
     layout: post
 - scope:
     path: ''
-    type: post
+    type: posts
   values:
     summary: ''
     author: ''
@@ -30,6 +30,7 @@ description: Avventure di Provvidenza Quotidiana
 url: http://5p2p.it
 baseurl: ''
 archive: archivio
+about: chi-siamo
 markdown: kramdown
 landing: index
 post-per-page: 10

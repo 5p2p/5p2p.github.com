@@ -1,0 +1,26 @@
+section.book {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+div.book {
+    margin-top: 1rem;
+}
+.book img {
+    // margin: 0 auto;
+    // display: block;
+    float: left;
+    // width: 100%;
+    padding-right: 0.6rem;
+    height: 100px;
+}
+
+.book a {
+    // @extend .header-font;
+    font-weight: bold;
+    color: $midnight-blue;
+    // font-size: 1.3rem;
+}
+.book-title {
+    padding-bottom: 0.4rem;
+    line-height: 1.6;
+}

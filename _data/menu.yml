@@ -3,12 +3,8 @@
   class: color-1
 
 - name: Libri
-  url: "http://5p2p.it/2013/12/16/10libri.html"
+  url: "libri"
   class: color-2
-
-# - name: Eventi
-#   url: "http://5p2p.it/l-amore-chiama-l-amore-e-urgente/"
-#   class: color-2
 
 - name: Chi siamo
   url:  "chi-siamo"
@@ -17,3 +13,12 @@
 - name: Donazioni
   url: "donazioni"
   class: color-4
+
+# - name: Libri
+#   url: "http://5p2p.it/2013/12/16/10libri.html"
+#   class: color-2
+
+# - name: Eventi
+#   url: "http://5p2p.it/l-amore-chiama-l-amore-e-urgente/"
+#   class: color-2
+

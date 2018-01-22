@@ -1,0 +1,82 @@
+<h2>🖐️ Nuove entrate!</h2>
+
+<section class="book">
+{% for book in site.data.books.new %}
+
+<div class="book">
+
+    {% if book.image %}
+    <a href="{{book.link}}">
+        <img alt="{{book.title}}" src="{{book.image}}"> 
+    </a>
+    {% endif %}
+
+    <div class="book-title">
+        <a class="book-link" href="{{book.link}}">
+            {{book.title}}
+        </a>
+        {% if book.author %}di <em>{{book.author}}</em>{% endif %}
+    </div>
+</div>
+<div style="clear:both;"></div>
+{% endfor %}
+</section>
+
+{% include extra/youtube.html url="https://www.youtube.com/embed/8mH_O9k2Ogo"%}
+
+<h2>😍 Sull'Amore</h2>
+
+<section class="book">
+{% for book in site.data.books.love %}
+
+{% if book.title %}
+<div class="book">
+
+    {% if book.image %}
+    <a href="{{book.link}}">
+        <img alt="{{book.title}}" src="{{book.image}}"> 
+    </a>
+    {% endif %}
+
+    <div class="book-title">
+        <a class="book-link" href="{{book.link}}">
+            {{book.title}}
+        </a>
+        {% if book.author %}di <em>{{book.author}}</em>{% endif %}
+    </div>
+    <p markdown="1">{{book.text}}</p>
+</div>
+<div style="clear:both;"></div>
+{% endif %}
+{% endfor %}
+</section>
+
+
+<h2>🙏 Sulla Fede</h2>
+
+<section class="book">
+{% for book in site.data.books.faith %}
+
+{% if book.title %}
+<div class="book">
+
+    {% if book.image %}
+    <a href="{{book.link}}">
+        <img alt="{{book.title}}" src="{{book.image}}"> 
+    </a>
+    {% endif %}
+
+    <div class="book-title">
+        <a class="book-link" href="{{book.link}}">
+            {{book.title}}
+        </a>
+        {% if book.author %}di <em>{{book.author}}</em>{% endif %}
+    </div>
+    <p markdown="1">{{book.text}}</p>
+</div>
+<div style="clear:both;"></div>
+{% endif %}
+{% endfor %}
+</section>
+
+

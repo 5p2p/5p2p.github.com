@@ -3,15 +3,84 @@ layout: default
 ---
 
 <!-- ====================================== -->
+{% assign featured = true %}
+<!-- <script>console.log('>'+'{{featured}}')</script> -->
+
+<!-- ====================================== -->
+
 {% if site.landing == "index" %}
 
+{% if featured %}
+  {% assign limit = 1 %}
+  {% assign offset = 1 %}
+  <!-- <script>console.log('featured')</script> -->
+{% else %}
+  {% assign limit = 0 %}
+  {% assign offset = 0 %}
+  <!-- <script>console.log('NOTfeatured')</script> -->
+  {% endif %}
+
+  {% for post in site.posts limit:limit %}
+  <header class="main-post">
+
+      <section class="wrapper">
+        <h1 style="margin-top: 2.4rem;">
+        <a class="" href="{{site.baseurl}}{{post.url}}">
+          {{ post.title }}
+        </a>
+        </h1>
+
+    
+        {% if post.author %}
+        <section class="author">
+          by <a href="{{site.baseurl}}/{{site.about}}">{{post.author | capitalize}}</a>,
+          <time datetime="{{post.date}}">{{post.date | date: "%B %d %Y"}}</time>
+        </section>
+        {% endif %}
+      </section>
+    
+      {% if post.image %}
+      <a class="" href="{{site.baseurl}}{{post.url}}">
+      <figure>
+        <img alt="{{post.title}}" src="{{site.baseurl}}{{post.image}}" />
+        <figcaption class="photo-credit">{{post.caption}}</figcaption>
+      </figure>
+      </a>
+      {% endif %}
+    
+      {% if post.summary %}
+        {% assign summary = post.summary %}
+      {% endif %}
+      {% if post.description %}
+        {% assign summary = post.description %}
+      {% endif %}
+      {% if summary %}
+      <section class="summary wrapper">{{ summary }}</section>
+      {% endif %}
+    
+      <section class="wrapper">
+      <a style="font-size: 1.4rem;" 
+      class="follow-up block" href="{{site.baseurl}}{{post.url}}">
+          {{site.data.localization.read-more}} <i class="fa fa-chevron-right" aria-hidden="true"></i>
+      </a>
+      </section>
+    
+    </header>
+
+  {% endfor %}
+
 <section class="index">
-  {% for post in site.posts limit:site.post-per-page %}
+
+  <h1 style="font-size: 1.8rem; margin-top: 4rem;">
+    Altri articoli recenti! 😍
+  </h1>
+
+  {% for post in site.posts limit:site.post-per-page offset:offset %}
     <h2 class="catchy-headline">
     <a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></h2>
 
     <section class="small details block">
-      by <a href="{{site.baseurl}}/about">{{post.author | capitalize}}</a>,
+      by <a href="{{site.baseurl}}/{{site.about}}">{{post.author | capitalize}}</a>,
       <time>{{post.date | date: "%b %d %Y"}}</time>
     </section>
 

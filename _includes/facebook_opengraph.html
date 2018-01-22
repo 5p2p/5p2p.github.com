@@ -17,7 +17,7 @@
 <meta property="og:url"  content="{{ page.url | replace:'index.html','' | absolute_url }}" />
 
 {% if page.image %}
-<meta property="og:image" content="{{ page.image }}" />
+<meta property="og:image" content="{{ site.url }}{{ page.image }}" />
 {% elsif site.facebook.image %}
 <meta property="og:image" content="{{ site.url }}{{ site.facebook.image }}" />
 {% endif %}
