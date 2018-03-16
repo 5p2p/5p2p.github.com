@@ -1,7 +1,7 @@
 ---
 title: Come annunciare il vangelo alle coppie di sposi?
 author: Ruvido
-permalink: 
+permalink: annunciare-vangelo-sposi
 image: /img/posts/come-annunciare-il-vangelo-alle-coppie-di-sposi.jpg
 description: 👉 Il matrimonio cristiano... cosa succede dopo il fatidico si? Cosa succede dopo anni di matrimonio? Magari dopo i figli? Si continua a camminare o ci si ferma? Perchè annunciare il vangelo agli sposi e cosa devono ascoltare? Quale è il vero fondamento degli sposi cristiani? 
 ---
