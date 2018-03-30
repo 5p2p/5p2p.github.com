@@ -21,7 +21,7 @@ Prepara questa stanza del tuo cuore e apparecchia perché il Signore sta passand
 
 ### Venerdì santo
 
-Ieri Gesù ha cenato con me. Una cena a due meravigliosa. Un incontro che ti cambia la vita. Non siamo più soli. Lui è con noi. **Le nostre ferite non ci fanno più paura** perché Gesù ci ha lavato i piedi, ci ha perdonato. Adesso per guarire davvero dobbiamo affrontare queste ferite e morire proprio come il seme che non può portare frutto finché non muore. 
+Ieri Gesù ha cenato con me. Una cena a due meravigliosa. Un incontro che ti cambia la vita. Non siamo più soli. Lui è con noi. **Le nostre ferite non ci fanno più paura** perché Gesù ci ha lavato i piedi, ci ha perdonato. È sconvolgente perchè questo non è un Dio *padrone* che sta in alto, ma un Dio che **si abbassa** e serve per primo! Adesso per guarire davvero dobbiamo affrontare queste ferite e morire proprio come il seme che non può portare frutto finché non muore. 
 
 Non abbiamo paura, Gesù lo conosce il dolore, Lui lo ha vissuto e soprattutto lo ha vinto. 
 
