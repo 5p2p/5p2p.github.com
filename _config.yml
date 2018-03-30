@@ -49,3 +49,5 @@ footer:
 google_analytics: UA-39520577-1
 # permalink: "/:title/"
 exclude: [.git]
+plugins:
+  - jekyll-redirect-from

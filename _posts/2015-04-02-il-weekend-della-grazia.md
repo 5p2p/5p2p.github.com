@@ -1,9 +1,13 @@
 ---
 layout: post
-title: Il weekend della grazia
+# title: Il weekend della grazia
+title: Triduo pasquale, il weekend della Grazia!
 author: Alescanca
-image: /img/posts/il-weekend-della-grazia.jpg
-description: Ecco quattro riflessioni per entrare nel mistero della grazia pasquale. Buon triduo!
+# image: /img/posts/il-weekend-della-grazia.jpg
+image: /img/posts/amati-sino-alla-fine.jpg
+description: Ecco quattro riflessioni per entrare nel mistero della Grazia Pasquale. Buon triduo!
+redirect_from: "2015/04/02/il-weekend-della-grazia.html"
+permalink: triduo-pasquale
 ---
 
 ### Giovedì santo

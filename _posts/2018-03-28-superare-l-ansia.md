@@ -3,7 +3,7 @@ title: "Superare l'ansia con Dio, una macchia alla volta"
 author: Ruvido
 permalink: superare-l-ansia
 image: img/posts/superare-l-ansia.jpg
-description: Lo stress quotidiano ci uccide. Cose da fare, impegni e scadenze che sembrano non finire mai. Eppure la soluzione all'ansia del quotidiano ce l'abbiamo. Sta a noi metterla in pratica e fare in modo di prevenire lo stress investendo sulla nostra vita.
+description: Lo stress quotidiano ci uccide 😵 Cose da fare, impegni e scadenze che sembrano non finire mai. Eppure la soluzione all'ansia del quotidiano ce l'abbiamo. Sta a noi metterla in pratica e fare in modo di prevenire lo stress investendo sulla nostra vita.
 ---
 
 Stamattina mi sono preso un caffè con mia cognata. Gliel'ho portato in lavanderia dove lavora perchè era stra-impegnata di panni da lavare, stirare e smacchiare. La sua faccia era preoccupata, tutto quel lavoro da fare, i panni da consegnare per venerdì!! A quel pensiero, i capelli dritti. E ci credo... panico! Come combattere l'ansia??
