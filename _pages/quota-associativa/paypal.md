@@ -8,7 +8,7 @@ L'avventura continua! Rinnova la **Quota Associativa per il 2018**, rendendo cos
 
 ### 😊 Il metodo più semplice
 
-Versa la quota con Paypal o carta di credito / postepay (inserisci il Nome e Cognome del socio)
+Versa la quota con Paypal / carta di credito / postepay (inserisci il Nome e Cognome del socio)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
