@@ -115,7 +115,6 @@ Insomma dipende da te. *Prendi in mano la tua vita*! È la cosa piú preziosa ch
 
 [Frequentare anche persone che non ci attraggono, ma di cui abbiamo stima.](http://5p2p.it/2013/10/01/una-ragione-per-lui.html)
 
-
 [La storia di Francesco. Dalle situazioni ambigue alla castitá. Castitá è llibertá, altro che tabú!](http://5p2p.it/2013/05/10/castita-liberta.html)
 
 
