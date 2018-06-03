@@ -1,5 +1,5 @@
 ---
-title: "Trombamica d'eccezione - 5 mosse per uscirne"
+title: "Trombamica d'eccezione - 5 mosse per uscire da situazioni ambigue"
 author: Alescanca
 permalink: la-trombamica
 image: img/posts/trombamica-d-eccezione.jpg
