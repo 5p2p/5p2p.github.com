@@ -36,10 +36,10 @@ h4 {
 - [Fai un percorso](#percorso)
 - [Conclusioni](#conclusioni)
 
-</div>
-
 **Vedi anche il video:**
 {% include extra/youtube.html url="https://www.youtube.com/embed/AjDM8vXl0W0"%}
+
+</div>
 
 
 <a name="autostima"></a>
@@ -117,8 +117,12 @@ Un altro punto di forza è stato rendermi conto del **valore immenso del mio cor
 
 Insomma dipende da te. *Prendi in mano la tua vita*! È la cosa piú preziosa che hai. **Non perdere tempo in relazioni ambigue** e senza prospettive. **Sei fatta per cose uniche** e incredibili. Quando sei stata plasmata nelle viscere di tua madre c'è stato *Qualcuno* che giá non aveva occhi che per te per quanto sei bella e intelligente. La tua vita e il mondo intorno a te dipendono da te e dalla tua *gratitudine* alla vita e a Dio.  **Smettila di piangerti addosso** e smettila di pensare dopo tante delusioni che *l'amore non esiste!* Pensa invece che hai imboccato la strada sbagliata e che puoi cambiare direzione perché tu possa **trovare la vera felicitá**, quella che ti spetta quale figlia di un Dio tanto generoso. Adesso non ti resta che partire dal *ringraziamento* perché, quando imbocchi la strada giusta con l'equipaggiamento giusto, non puoi che ritrovarti sulla cima della **vera felicitá**. Solo allora sarai felice da Dio.
 
+<div class="post-index" markdown="1">
+
 ## 👉 Continua a leggere i nostri articoli [iscrivendoti alla Newsletter!](http://5p2p.it/newsletter)
 &nbsp;
+
+</div>
 
 **Vedi anche il video:**
 {% include extra/youtube.html url="https://www.youtube.com/embed/AjDM8vXl0W0"%}
