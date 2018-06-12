@@ -3,7 +3,7 @@ title: L'unico vero segreto che devi conoscere in amore
 author: Ruvido
 permalink: vero-segreto-in-amore
 image: img/posts/vero-segreto-in-amore.jpg
-description:  Chi di fronte ad una bella ragazza o ad un ragazzo interessante non si è domandato quale è la mossa giusta per avvicinarsi? Chi non si è ritrovato in questo stato confusionario? Ahhhh l'amore!! Quanti segreti nascondi, quante strategie, e poi la fortuna, gli incontri... la magia dell'amore! 
+description:  Chi di fronte ad una bella ragazza o ad un ragazzo interessante non si è domandato quale fosse la mossa giusta per avvicinarsi? Chi non si è ritrovato in questo stato confusionario? Ahhhh l'amore!! Quanti segreti nascondi, quante strategie, e poi la fortuna, gli incontri... la magia dell'amore! 
 ---
 
 Per le ragazze spesso, l'approccio è quello di *aggiustarsi* un po' meglio, fare attenzione al trucco, i capelli. E sicuramente fate bene voi donne, perchè l'uomo si attrae attraverso l'occhio. Ma certamente non è sufficiente un bel vestito per rendersi veramente interessanti. Certo dovrai dire qualcosa di intelligente e dovrai mostrarti interessante. Tutto vero... Eppure manca ancora qualcosa!
