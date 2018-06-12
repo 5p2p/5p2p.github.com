@@ -11,7 +11,7 @@
   class: color-3
 
 - name: Donazioni
-  url: "donazioni"
+  url: "https://donorbox.org/collabora-con-noi"
   class: color-4
 
 # - name: Libri
