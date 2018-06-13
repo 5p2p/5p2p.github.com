@@ -58,11 +58,4 @@ Ora tocca provare per credere.
 
 Buon cammino!
 
-
-## 👉 CREDI NELL'AMORE?
-
-**Unisciti a migliaia di ragazzi** che ci stanno aiutando a portare avanti questo progetto. 
-
-<!-- **Ogni contributo conta** 👍 -->
-
-<a href="https://donorbox.org/collabora-con-noi" class="btn">😍 Ogni contributo conta!</a>
+{% include extra/collabora-con-noi.html %}
