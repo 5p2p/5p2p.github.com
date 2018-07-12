@@ -6,6 +6,7 @@ permalink: come-essere-felici
 image: /img/posts/come-essere-felici.jpg
 description: Crack! … qualcosa si è spezzato di nuovo. Proprio ora, proprio adesso... adesso che le cose sembravano girare proprio bene. Ma perché tutto questo? Perché un altro fallimento? È possibile essere felici quando tutto sembra andare storto?
 caption: Foto @steve_j su Unsplash
+
 ---
 
 *NOTA: Questo post è stato scritto lunedì scorso nei corridoi dell'ospedale di Potenza. Ho trovato solo oggi il tempo di terminarlo e pubblicarlo. Buona lettura.*
