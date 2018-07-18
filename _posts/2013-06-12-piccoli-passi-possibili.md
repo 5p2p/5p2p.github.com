@@ -8,6 +8,8 @@ redirect_from:
 permalink: chiara-corbella-petrillo
 ---
 
+*(Aggiornamento 17 Luglio 2018): Inizia la [causa di beatificazione di Chiara!](http://www.chiaracorbellapetrillo.it/2018/07/17/chiara-corbella-serva-di-dio/)*
+
 *Questo articolo è apparso la prima volta il 12 Giugno del 2013 alla vigilia del primo anniversario della nascita al cielo di Chiara Corbella Petrillo*
 
 
@@ -24,6 +26,8 @@ Don Fabio Rosini disse una cosa simile durante una catechesi spiegando la frase 
 Per me rispondere a quella domanda fu importante. Mi portò a chiedere ad Alessandra di sposarmi, a prendere una scelta definitiva come il matrimonio, a superare le mie paure ed egoismi. Certo non a tutti è chiesta la vita come a Chiara. Ma **a tutti è chiesto di rispondere quotidianamente al Signore**. E le domande non saranno eclatanti. C'è chi come me dovrà trovare il coraggio di entrare nel matrimonio, per altri sarà di accettare la sfida di un [fidanzamento casto](http://5p2p.it/2013/05/10/castita-liberta.html). Altri dovranno trovare il coraggio per andare via da casa dei genitori o smettere di lamentarsi per le frustrazioni di un lavoro che non va. Poi per altri sarà il momento di mettere fine a un [fidanzamento sterile](http://5p2p.it/2013/04/20/la-donna-della-mia-vita.html) oppure di andare a confessare quel peccato inconfessabile. Ma tutti in coscienza conoscono quel passo da fare.
 
 Certamente abbiamo paura. Abbiamo paura di rompere quelle quattro sicurezze che ci siamo costruiti. Forse che Chiara ed Enrico non avevano paura? Forse che il buon senso non diceva di lasciar perdere? La vita della madre non aveva forse valore? ... ma forse il buon senso del mondo non ci dona la gioia. Oggi la storia di Chiara ed Enrico ci ricordano, ancora una volta, come l'unica gioia, la vera gioia, è quella di nostro Signore. Donare la vita, non con gesti eclatanti ma con un amore quotidiano fatto di tanti piccoli *si*, di tante piccole scommesse **sulla sua parola**. Un percorso che è accessibile a tutti, in ogni stadio della vita e per ogni condizione: dalla madre allo studente, al single, al consacrato e ai fidanzati. A tutti.
+
+> l’Amore è il centro della nostra vita, perché nasciamo da un atto d’amore, viviamo per amare e per essere amati, e moriamo per conoscere l’amore vero di Dio. <cite>Chiara Corbella Petrillo</cite>
 
 Quindi cosa ricorderemo domani? Forse la santità di una giovane coppia di sposi? Certamente, ma anche molto di più. Sarà l'occasione per **guardare alla nostra vita con una nuova luce**. La luce dell'amore, della fedeltà, non più del calcolo. Abbiamo avuto l'esempio. Ci rinfranchi e ci rafforzi nella certezza che **la nostra vita donata porta frutto**.  In questo siamo Chiesa e diventiamo membra di Cristo, perché siamo esempi attuali del Suo amore donato, della Sua vita spesa per noi. Guarda i frutti, guarda la gioia.
 
