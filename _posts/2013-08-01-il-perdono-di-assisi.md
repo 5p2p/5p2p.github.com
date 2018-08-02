@@ -34,7 +34,7 @@ Buon perdono!
 
 NB. Tecnicamente l'indulgenza può essere ottenuta dai fedeli dal mezzogiorno del 1 agosto alla mezzanotte del 2 agosto.
 
----
+{% include extra/collabora-con-noi.html %}
 
 Se ti è piaciuto questo post, condividilo con i tuoi amici e continua a leggere:
 
