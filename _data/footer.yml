@@ -2,6 +2,9 @@
   url:  "newsletter"
   # url: "https://www.facebook.com/5loaves2fish.blog"
 
+- name: Libri da leggere
+  url: "libri"
+
 - name: Scrivici
   url: "https://www.facebook.com/5pani2pesci"
   # url:  "scrivici"

@@ -2,9 +2,13 @@
   url:  "http://weddings.5p2p.it/"
   class: color-1
 
-- name: Libri
-  url: "libri"
+- name: <strong>Novità!</strong> PARTE IL TOUR 🚀
+  url: "tour"
   class: color-2
+
+# - name: Libri
+#   url: "libri"
+#   class: color-2
 
 - name: Chi siamo
   url:  "chi-siamo"

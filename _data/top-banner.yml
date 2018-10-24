@@ -1,5 +1,6 @@
-show: false
-text: "3-5 Novembre • <strong>L'amore chiama!</strong>"
+show: true
+text: "3-4 Novembre 🎯"
+subtext: "<strong>L'amore chiama!</strong>"
 button:
-  text: Iscriviti
-  url: http://5p2p.it/l-amore-chiama-l-amore-e-urgente/
+  text: Iscriviti!
+  url: http://5p2p.it/tour

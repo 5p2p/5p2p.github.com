@@ -64,12 +64,15 @@ body {
     height: $top-banner-height;
     color: white;
     background-color: $opaque-red;
-    line-height: $top-banner-height;
+    // line-height: $top-banner-height;
+    // line-height: 15px;
     z-index: 1000;
     // -webkit-transform: translateZ(0);
   }
   .top-banner-message {
-    // width: 50%;
+    display: inline-block;
+    background: yellow;
+    width: 50%;
   }
   .top-banner-spacer {
     height: $top-banner-height*1.2;
