@@ -31,7 +31,7 @@ layout: default
     {% assign summary = page.description %}
   {% endif %}
   {% if summary %}
-  <section class="summary wrapper">{{ summary }}</section>
+  <section class="summary wrapper">{{ summary | markdownify }}</section>
   {% endif %}
 
 </header>
@@ -45,6 +45,8 @@ layout: default
     <img alt="{{site.title}}" src="{{site.baseurl}}/{{site.header.logo-img}}" />
   <!-- </figure> -->
   </div>
+
+  {% include footer-banner.html %}
 
 </div>
 </article>
