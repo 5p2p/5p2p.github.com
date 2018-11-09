@@ -10,5 +10,8 @@
   # url:  "scrivici"
   # url: "https://www.facebook.com/5loaves2fish.blog"
 
-- name: "Seguici su <i class='fa fa-facebook-square' aria-hidden='true'></i>"
-  url: "https://www.facebook.com/5pani2pesci"
+#- name: Donazioni
+#  url: "https://donorbox.org/collabora-con-noi"
+
+- name: "Seguici su <i class='fa fa-instagram' aria-hidden='true'></i>"
+  url: "https://www.instagram.com/5pani2pesci"
