@@ -3,7 +3,7 @@ title: Testimoniare la bellezza! 😍
 permalink: testimoniare-la-bellezza
 author: Ruvido
 image: /img/posts/testimoniare-la-bellezza.jpg
-caption: Foto di <a href="https://www.instagram.com/francescoraophoto/">Francesco Rao</a>
+caption: Foto di <a href="https://www.instagram.com/francescoraophoto/">@francescoraophoto</a>
 description: Quando una mattina del 2013 (agli inizi di 5pani2pesci) è nata l'idea di testimoniare la bellezza del sacramento del matrimonio attraverso le fotografie ai matrimoni, mai e poi mai (!) avremmo pensato di arrivare fino a qui... con questa foto desideriamo festeggiare 100 matrimoni 🎉🎉🎉 di testimonianza attraverso la fotografia, raccontandovi anche come sono andate effettivamente le cose e perchè lo facciamo. 
 ---
 
