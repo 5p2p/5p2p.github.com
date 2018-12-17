@@ -26,8 +26,7 @@ Ahhhhh le scelte di vita prese sull'onda dell'entusiasmo!! Si vola in alto, ma s
 
 Ed è stato così che da quei giorni di Treviso è ri-iniziato tutto: è iniziato un cammino che ha portato Angelica e Corrado a venire fino in Basilicata per iniziare un discernimento serio con don Giovanni, che è passato per vette mozzafiato a burroni scoraggianti: un perdersi per ritrovarsi, appunto! Fino ad arrivare (anche attraverso padre Giovanni Marini di Assisi) alla consapevolezza della propria vocazione al matrimonio e al matrimonio insieme!
 
-
-# La fede che sposta le montagne
+## La fede che sposta le montagne
 
 Tutto questo in un anno.
 
