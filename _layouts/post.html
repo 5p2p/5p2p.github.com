@@ -24,15 +24,7 @@ layout: default
   </figure>
   {% endif %}
 
-  {% if page.summary %}
-    {% assign summary = page.summary %}
-  {% endif %}
-  {% if page.description %}
-    {% assign summary = page.description %}
-  {% endif %}
-  {% if summary %}
-  <section class="summary wrapper">{{ summary | markdownify }}</section>
-  {% endif %}
+  {% include summary.html post_name="page"%}
 
 </header>
 

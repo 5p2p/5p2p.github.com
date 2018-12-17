@@ -162,6 +162,7 @@ body {
       h1 {
         margin: $regular-font-size/1 0;
         font-size: $bigger-font-size;
+	line-height: 1.2;
         @media (min-width: $tablet) {
           font-size: $huge-font-size;
         }

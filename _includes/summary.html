@@ -1,0 +1,25 @@
+
+
+{% if include.post_name == 'page' %}
+	{% assign doc = page %} 
+{% endif %}
+
+{% if include.post_name == 'post' %}
+	{% assign doc = post %} 
+{% endif %}
+
+  {% assign summary = '' %}
+  {% if doc.summary %}
+    {% assign summary = doc.summary %}
+  {% endif %}
+  {% if doc.description %}
+    {% assign summary = doc.description %}
+  {% endif %}
+  {% if summary != '' %}
+  <section class="summary wrapper">{{ summary | markdownify }}</section>
+  {% else %}
+  <section class="summary wrapper">{{ doc.excerpt }}</section>
+  {% endif %}
+
+
+

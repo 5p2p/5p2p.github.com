@@ -1,7 +1,7 @@
 ---
-title:Volere è potere, è la fede che muove le montagne ⛰️
+title: Volere è potere, è la fede che muove le montagne
 author: Ruvido
-permalink:la-fede-muove-le-montagne
+permalink: la-fede-muove-le-montagne
 ---
 
 "_Perdersi per ritrovarsi_" continuava a ripetere don Giovanni Messuti mentre commentava il vangelo del padre misericordioso (Lc 15,11-32), e più ascoltavo e più vedevo come la fede è raramente fatta di gesti eclatanti, ma al contrario è una incessante sequenza di piccoli gesti, apparentemente insignificanti, a volte di segno opposto, che nel progredire dei giorni, dei mesi e degli anni portano al compimento del progetto di Dio sulla nostra vita.
