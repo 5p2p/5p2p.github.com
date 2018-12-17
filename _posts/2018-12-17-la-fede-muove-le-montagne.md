@@ -1,5 +1,5 @@
 ---
-title: Volere è potere, è la fede che muove le montagne
+title: Volere è potere, è la fede che muove le montagne ⛰️
 author: Ruvido
 permalink: la-fede-muove-le-montagne
 ---
