@@ -4,7 +4,7 @@ author: Ruvido
 permalink: la-fede-muove-le-montagne
 ---
 
-"_Perdersi per ritrovarsi_" continuava a ripetere don Giovanni Messuti mentre commentava il vangelo del padre misericordioso (Lc 15,11-32), e più ascoltavo e più vedevo come la fede è raramente fatta di gesti eclatanti, ma al contrario è una incessante sequenza di piccoli gesti, apparentemente insignificanti, a volte di segno opposto, che nel progredire dei giorni, dei mesi e degli anni portano al compimento del progetto di Dio sulla nostra vita.
+"_Perdersi per ritrovarsi_" continua a ripetere don Giovanni Messuti mentre commenta il vangelo del padre misericordioso (Lc 15,11-32), e più ascolto e più vedo come la fede è raramente fatta di gesti eclatanti, ma al contrario è una incessante sequenza di piccoli gesti, apparentemente insignificanti, a volte di segno opposto, che nel progredire dei giorni, dei mesi e degli anni portano al compimento del progetto di Dio sulla nostra vita.
 
 Il sole ancora non si affaccia e il freddo pungente mi costringe a trovare un angolino riparato del santuario per poter scrivere qualche pensiero. Oropa è un luogo veramente forte. Le montagne intorno fanno pensare al passato, a gesti eroici di uomini di fede, al coraggio. C'è un corridoio con centinaia, forse migliaia, di medagliette ex-voto: lettere, fotografie, per testimoniare il miracolo della fede e della preghiera.
 

@@ -30,7 +30,11 @@ layout: default
 
 <article>
 
-  {{ content }}
+	{% if summary == '' %} 
+		{{ content | remove_first:page.excerpt }}
+	{% else %}
+		{{ content }}
+	{% endif %}
 
   <div class="on-page-logo">
   <!-- <figure class="page-end-logo"> -->
