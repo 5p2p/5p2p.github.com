@@ -5,7 +5,7 @@ permalink: ancora-natale
 ---
 
 Non so voi come vivete il Natale, ma per me è sempre un po' difficile. È un tempo che spesso mi piomba addosso "senza preavviso", una mattina ti svegli e ti ritrovi a tavola con gi zii, i cugini, zia Antonietta, bambini che corrono da tutte le parti e le mille prelibatezze del caso a tavola.
- 
+
 Siamo al 19 dicembre e ancora non abbiamo fatto il presepe a casa e l'albero. È uno dei pochi natali che passeremo a casa tranquilli. Di solito il Natale era quel periodo in cui contavi i secondi per la fine della scuola dei bambini (in Germania non si puó saltare un giorno di scuola per nessun motivo) per partire all'insegna dell'Italia, ovvero farsi quelle bellissime sedici ore di macchina tra neve, ghiaccio e qualche vomito improvviso dei bambini... Ma quest'anno saremo comodamente a casa vicino al fuoco con il sole della Basilicata che entra dalle finestre. Quindi ci tocca proprio fare il presepe e anche l'albero, se no "Babbo Natale non sa dove lasciare i regali" canta il nostro piccolo uccellino di sei anni 🤣
 
 Ieri sera, dopo l'insistenza tartassante di Samuele "Quando facciamo l'albero? Quando facciamo l'albero? Quando facciamo l'albero? Quando facciamo l'albero? Quando facciamo l'albero?" finalmente ci siamo decisi ad andare giú in cantina, tirare fuori le bici, togliere un paio di scatoloni del trasloco di due anni fa mai aperti, per arrivare alle scatole dei pannolini francesi con su scritto "Noël". Insomma ancora Natale, ancora quelle scatole, di nuovo Natale.
