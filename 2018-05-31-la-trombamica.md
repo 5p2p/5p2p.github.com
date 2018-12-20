@@ -1,9 +1,10 @@
 ---
 title: "Trombamica d'eccezione - 5 mosse per uscire da situazioni ambigue"
 author: Alescanca
-permalink: la-trombamica
+permalink: test2
 image: img/posts/trombamica-d-eccezione.jpg
 description: "In questi anni mi capita sempre più di frequente di conoscere ragazze che mi confidano a chiare lettere di essere nella situazione  di “trombamica”. Ma come si fa a venirne fuori, a non ricascare sempre nella stessa dinamica? Ecco 5 mosse per uscire da situazioni ambigue"
+layout: test
 ---
 
 Per quei pochi, rari esemplari di persone un po' agé che non conoscono ancora questo termine, per *trombamici* si intende quella situazione affettiva in cui un lui è una lei si definiscono amici o conoscenti e, allo stesso tempo, peró  vanno a letto insieme. Nonostante questo, non si dichiarano fidanzati né vogliono nessun legame o responsabilità. Si tratta solo di andare a letto insieme. Si considerano *amici*. Da questo nasce *il/la trombamico/a* o, come si usa dire più al nord *l'uscente*. 

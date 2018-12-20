@@ -1,68 +1,67 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+---
+layout: default
+---
+<header class="main-post">
 
-{% include head.html %}
+  <section class="wrapper">
+    <h1>{{ page.title }}</h1>
 
-  <body>
+    {% if page.author %}
+    <section class="author">
+      by <a href="{{site.baseurl}}/{{site.about}}">{{page.author | capitalize}}</a>,
+      <time datetime="{{page.date}}">{{page.date | date: "%B %d %Y"}}</time>
+    </section>
+    {% endif %}
+  </section>
 
-    {% include top-banner.html %}
+  {% if page.image %}
+  <figure>
+    <img alt="{{page.title}}" src="{{site.baseurl}}{{page.image}}" />
+    <figcaption class="photo-credit">{{page.caption}}</figcaption>
+  </figure>
+  {% endif %}
 
-    <header class="top-lead">
-      <a href="{{site.baseurl}}/">
-        <img class="mobile-only" src="/images/header/5pani2pesci-2017-blue-text-256.png" alt="">
-        <img class="tablet-only" src="/images/header/5pani2pesci-2017-blue-text-512.png" alt="">
-      </a>
-    </header>
+  {% include summary.html post_name="page"%}
 
+</header>
 
-    <nav class="top-nav">
-      {% for item in site.data.menu %}
-      <li class="top-nav-elements">
-        <!-- <a class="{{item.class}}" href="{{site.baseurl}}/{{item.url}}"> -->
-        {% if item.url contains "http" %}
-          <a class="{{item.class}}" href="{{item.url}}">
-        {% else %}
-          <a class="{{item.class}}" href="{{site.baseurl}}/{{item.url}}">
-        {% endif %}
-        <!-- <a class="{% cycle 'color-1', 'color-2', 'color-3', 'color-4' %}" href="{{site.baseurl}}/{{item.url}}"> -->
-          {{item.name}}</a>
-      </li>
-      {% endfor %}
-    </nav>
+<article>
+
+{{ page.excerpt }}
 
 
-    <header class="main-post">
+sssssssss
 
-      <section class="wrapper">
-        <h1>{{ page.title }}</h1>
 
-        {% if page.author %}
-        <section class="author">
-          by <a href="{{site.baseurl}}/about">{{page.author | capitalize}}</a>,
-          <time datetime="{{page.date}}">{{page.date | date: "%B %d %Y"}}</time>
-        </section>
-        {% endif %}
-      </section>
+{{ content | remove_first:page.excerpt }}
 
-      {% if page.image %}
-      <figure>
-        <img alt="{{page.title}}" src="{{site.baseurl}}{{page.image}}" />
-        <figcaption>{{page.caption}}</figcaption>
-      </figure>
-      {% endif %}
+  <div class="on-page-logo">
+  <!-- <figure class="page-end-logo"> -->
+    <img alt="{{site.title}}" src="{{site.baseurl}}/{{site.header.logo-img}}" />
+  <!-- </figure> -->
+  </div>
 
-      {% if page.summary %}
-        {% assign summary = page.summary %}
-      {% endif %}
-      {% if page.description %}
-        {% assign summary = page.description %}
-      {% endif %}
-      {% if summary %}
-      <section class="summary wrapper">{{ summary }}</section>
-      {% endif %}
+  {% include footer-banner.html %}
 
-    </header>
+</div>
+</article>
 
-  </body>
+  <!-- TODO -->
 
-</html>
+  {% if site.upcoming-events %}
+  <section class="upcoming-events">
+    <header>Upcoming events</header>
+    {% for event in site.events %}
+      <h2>{{event.title}}</h2>
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  {% if page.read-more %}
+  <section class="read-more">
+    <header>Read more</header>
+    {% for post in site.posts %}
+      <h2>{{post.title}}</h2>
+    {% endfor %}
+  </section>
+  {% endif %}
