@@ -58,4 +58,3 @@ Ora tocca provare per credere.
 
 Buon cammino!
 
-{% include extra/collabora-con-noi.html %}

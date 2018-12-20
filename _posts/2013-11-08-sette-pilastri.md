@@ -75,7 +75,6 @@ Francesco e Alessandra
 
 <!-- [^1]: Padre Giovanni al corso fidanzati, vedi la storia di *Tobia* (Tb 5-8). -->
 
-{% include extra/collabora-con-noi.html %}
 
 <!-- 
 ## Continua a leggere:

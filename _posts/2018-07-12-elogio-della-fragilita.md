@@ -83,7 +83,6 @@ Provare per credere.
 
 Buon cammino. 
 
-{% include extra/collabora-con-noi.html %}
 
 <!-- 
 Capiamo che quel progetto è sfumato. Capiamo che quella possibilità forse non esiste più per noi. Quante volte ho ascoltato ragazze sui 40 confidarmi "io volevo solo fare una famiglia" ma un uomo non lo incontrato… e ora? E ora che il progetto della tua vita sfuma? Io non lo so quale sia la strada per te però… però può realmente essere che magari una famiglia non la realizzi, che magari quella strada che avevi pensato per te si chiude.  -->

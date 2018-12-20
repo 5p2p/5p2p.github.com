@@ -39,4 +39,3 @@ Tutti possiamo sperimentare l'amore di Chiara ed Enrico. Siamo chiamati proprio 
 - [La vocazione all'amore](http://5p2p.it/2014/04/11/la-vocazione-all-amore.html)
 - [Signore cosa vuoi che io faccia?](http://5p2p.it/2013/12/04/cosa-vuoi-che-io-faccia.html)
 
-{% include extra/collabora-con-noi.html %}
