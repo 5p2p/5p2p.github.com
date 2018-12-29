@@ -2,7 +2,7 @@
 title: Capodanno da Dio
 author: Alescanca
 image: /img/posts/capodanno.jpg
-redirct_from: /2013/12/29/capodanno-da-dio.html
+redirect_from: /2013/12/29/capodanno-da-dio.html
 permalink: capodanno-da-dio
 ---
 
