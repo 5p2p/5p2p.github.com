@@ -1,5 +1,5 @@
 ---
-title: Capodanno da Dio 🎉
+title: Capodanno da Dio 🎉🎉🎉🎉
 author: Alescanca
 image: /img/posts/capodanno.jpg
 redirect_from: /2013/12/29/capodanno-da-dio.html
