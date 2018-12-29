@@ -2,6 +2,8 @@
 title: Capodanno da Dio
 author: Alescanca
 image: /img/posts/capodanno.jpg
+redirct_from: "2013/12/29/capodanno-da-dio.html"
+permalink: capodanno-da-dio
 ---
 
 Hai gia' pensato dove passare il capodanno? Sei stato gia' invitato dai tuoi amici? Oppure ancora non ti si e' filato nessuno? Beh, nel caso invita tu i tuoi amici a casa tua per un capodanno da Dio, digli di portare cose buone da mangiare e poi tanta gratitudine da condividere, per il resto... leggi di seguito.
