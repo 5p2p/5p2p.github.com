@@ -46,6 +46,7 @@ _Il discernimento_: tutti vogliono farlo e nessuno lo sa fare o sa spiegarti com
 Per quanto riguarda tutto questo, credo che il punto fondamentale da capire è che il discernimento non è un tecnicismo. Non è come le indicazioni per l'isola che non c'è ... _seconda stella a destra, questo è il cammino..._ ma **un ascolto**. Un ascolto profondo di se stessi e di quello che Dio ha da dire sulla tua vita. È un argomento delicato, per un approfondimento sul discernimento:
 
 Leggi: [Signore cosa vuoi che io faccia?](https://5p2p.it/2013/12/04/cosa-vuoi-che-io-faccia.html)
+
 Per scelte importanti di vita, è necessario (fondamentale!) fare un discernimento lungo e approfondito. Ma ci sono casi in cui il discernimento è banale. Ad esempio interrompere delle abitudini negative: come il fumo, mangiare male, bere troppi alcolici, essere incapaci di iniziare un progetto, non fare nessuna attività fisica ecc.
 
 Per questi casi è necessario fermarsi e fare i seguenti due ragionamenti: 
